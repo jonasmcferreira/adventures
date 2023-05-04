@@ -12,7 +12,9 @@ Years went by, and Alythine became Aly, a seasoned member of the guild. But her 
 
 ## Orianna :material-guitar-acoustic:
 
-Orianna is a 30-year-old Tiefling in the prime of her life. Her skin color is pink, her hair is dark purple, and her eyes are red. Standing at a height of only 1.65cm, Orianna has several differences compared to her siblings who have purple skin and much darker hair. However, they share the same eye color and horn shape.
+![page break](../images/orianna.png){ width="300" }
+
+Orianna is a 30-year-old Tiefling in the prime of her life. Her skin color is pink, her hair is dark purple, and her eyes are red. Standing at a width of only 1.65cm, Orianna has several differences compared to her siblings who have purple skin and much darker hair. However, they share the same eye color and horn shape.
 
 As the only child in the middle of three siblings, Orianna dislikes being the youngest to help the party due to her overprotective family. Growing up, she was never allowed to be alone with other cubs or teenagers without one of her brothers nearby to ensure her safety.
 
@@ -26,9 +28,11 @@ Several years later, Gundram contacted Mortimer with an unusual request. He need
 
 ## Mortimer :material-wizard-hat:
 
+![page break](../images/mortimer.png){ width="300" }
+
 Mortimer is a 54-year-old human with a lean and wiry build. He has a scholarly and unassuming figure, with a hint of hidden strength and a keen intelligence lurking behind his unassuming facade. Despite his age, he moves with a surprising grace and agility. He stands tall at 6’, with a slightly stooped posture from years spent hunched over books and parchment. His face is lined with wrinkles, evidence of a life spent indoors under the dim light of candles and oil lamps. His hair is a greying brown colour, long enough to reach his shoulders. He wears it in a simple braid to keep it out of his face.
 
-Mortimer's eyes are his most striking feature - they are a piercing blue colour, bright and inquisitive. They seem to sparkle with a mischievous glint, hinting at the sly wit and wry humour that lies beneath his serious demeanour. Despite his height and lean build, Mortimer is deceptively tough.
+Mortimer's eyes are his most striking feature - they are a piercing blue colour, bright and inquisitive. They seem to sparkle with a mischievous glint, hinting at the sly wit and wry humour that lies beneath his serious demeanour. Despite his width and lean build, Mortimer is deceptively tough.
 
 Mortimer was born on the outskirts of the large city of Neverwinter, the only child of a poor family. From a young age, he displayed an aptitude for magic, but he never had much ambition. His parents struggled to provide for their family, and Mortimer was often left to his own devices. He spent much of his childhood wandering the woods and fields outside the city, practising magic in secret and dreaming of a better life.
 
@@ -51,6 +55,8 @@ Now, at the age of 54, Mortimer has decided to venture out into the world and st
 
 ## Sheod :material-bow-arrow:
 
+![page break](../images/sheod.png){ width="300" }
+
 Once upon a time, there was a dark elf named Sheod who did not grow up in his native lands. His family had been murdered when he was just a baby, and his older sister managed to save him and flee to the Dark Forests. There, they lived for a few years, surviving by plundering the villages around the forest. However, a terrible encounter with an enraged beast left them vulnerable and exposed.
 
 Fortunately, a tribe of forest elves found and rescued them. They took Sheod and his sister under their wing, teaching them various skills like hunting, farming, fighting, arts, and the language of men. Sheod grew up participating in patrols and expeditions, which fueled his desire to discover more about the region.
@@ -64,6 +70,8 @@ During one mission as a scout for a group of Paladins protecting the lands of th
 Although Sheod does not care much for money, he uses it to support himself and makes tips for his long-range arrows. His journey led him to discover relevant information about the Drow society in Umbreterna, where he found out that mass murders can have countless motives. He learned that on the day he fled, there was a command of execution for some families, which could hold the key to his family's murder.
 
 ## Vaxidd :material-shield-sword:
+
+![page break](../images/vaxidd.png){ width="300" }
 
 Vaxidd Ironforger was born into the renowned Ironforger clan, known throughout the land for their exceptional blacksmithing skills and their unmatched prowess in battle. At the age of 200, Vaxidd had already gained a reputation as a seasoned warrior and a fierce protector of the innocent.
 
