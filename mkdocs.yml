@@ -5,9 +5,6 @@ nav:
 
 theme:
   name: material
-  favicon: assets/images/terminal.svg
-  icon:
-    logo: octicons/terminal-16
   palette: 
     - scheme: default
       primary: indigo
