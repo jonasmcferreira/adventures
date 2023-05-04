@@ -9,9 +9,19 @@ nav:
 
 theme:
   name: material
-  palette:
-    primary: red
-    accent: pink
+  palette: 
+
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
   icon:
     logo: material/library
   favicon: 'material/library'
@@ -21,6 +31,7 @@ theme:
     - navigation.footer
     - navigation.path
     - navigation.top
+    - navigation.tabs
 
 plugins: []
 
