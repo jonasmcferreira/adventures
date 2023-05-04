@@ -23,7 +23,7 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
   icon:
-    logo: material/library
+    logo: material/sword-cross
   favicon: 'material/library'
   font:
     text: Lora
