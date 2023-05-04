@@ -1,0 +1,13 @@
+markdown
+markdown-include
+mkdocs
+mkdocs_pymdownx_material_extras
+mkdocs-awesome-pages-plugin
+mkdocs-exclude
+mkdocs-git-revision-date-localized-plugin
+mkdocs-markdownextradata-plugin
+mkdocs-material
+mkdocs-material-extensions
+mkdocs-minify-plugin
+mkdocs-redirects
+pymdown-extensions
