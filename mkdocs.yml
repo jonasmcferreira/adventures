@@ -1,4 +1,4 @@
-site_name: Adventures
+site_name: My Adventures
 site_url: https://jonasmcferreira.github.io/adventures/
 
 nav:
@@ -20,7 +20,9 @@ theme:
   features:
     - navigation.footer
     - navigation.path
+    - navigation.top
 
+plugins: []
 
 extra_css:
   - stylesheets/extra.css
