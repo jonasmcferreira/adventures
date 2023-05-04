@@ -3,6 +3,7 @@ site_url: https://jonasmcferreira.github.io/adventures/
 
 nav:
   - Phandelver:
+      - Characters: phandelver/characters.md
       - In Neverwinter: phandelver/00.md
       - Day 1: phandelver/01.md
       - Day 2: phandelver/02.md
