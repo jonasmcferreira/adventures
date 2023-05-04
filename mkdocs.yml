@@ -19,6 +19,24 @@ theme:
   logo: 'material/library'
   favicon: 'material/library'
 
+  # Add these lines to reference the font files
+  extra_css:
+    - 'fonts/EBGaramond-Regular.ttf'
+    - 'fonts/EBGaramond-Bold.ttf'
+    - |
+      @font-face {
+        font-family: 'EB Garamond';
+        font-style: normal;
+        font-weight: 400;
+        src: url('fonts/EBGaramond-Regular.ttf') format('truetype');
+      }
+      @font-face {
+        font-family: 'EB Garamond';
+        font-style: normal;
+        font-weight: 700;
+        src: url('fonts/EBGaramond-Bold.ttf') format('truetype');
+      }
+
 
 markdown_extensions:
   - attr_list
