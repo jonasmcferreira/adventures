@@ -4,4 +4,4 @@ This site is where I'll be sharing my novel based on my role-playing sessions. J
 
 ## Current Adventures
 
-- [Phandelver](phandelver/00.md): Join me on a journey through the mysterious and dangerous lands of Neverwinter.
+- [Phandelven](phandelven/00.md): Join me on a journey through the mysterious and dangerous lands of Neverwinter.
