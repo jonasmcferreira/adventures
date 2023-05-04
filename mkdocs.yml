@@ -12,10 +12,6 @@ theme:
   palette:
     primary: red
     accent: pink
-    hue:
-      - '300'
-      - '500'
-    bg: #e7e7db
   icon:
     logo: material/library
   favicon: 'material/library'
