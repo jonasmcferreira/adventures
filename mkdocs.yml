@@ -19,6 +19,8 @@ theme:
     text: Lora
   features:
     - navigation.footer
+    - navigation.path
+
 
 extra_css:
   - stylesheets/extra.css
