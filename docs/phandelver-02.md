@@ -1,6 +1,122 @@
 # Pandelver
 
-This is a draft
+As the group continued their journey, the first day was uneventful. They made camp for the night and set off early in the morning, hoping to arrive in Phandalin by nightfall.
 
-## This is another thing
+On the second day, as they came around a bend, they spotted two dead horses sprawled about fifty feet ahead of them, blocking the path. Each had several black-feathered arrows sticking out of it. The woods pressed close to the trail here, with a steep embankment and dense thickets on either side. The saddlebags had been looted. Nearby lay an empty leather map case.
+
+Suddenly, they heard rustling in the bushes, and before they knew it, they were ambushed by a group of goblins! The goblins sprang from the woods, brandishing their weapons and screeching with rage.
+
+Mortimer quickly scrambled for his spellbook, while Vaxidd charged forward with his warhammer. Sheod, the drow ranger, skillfully aimed his bow at one of the goblins and released an arrow, hitting it squarely in the chest. One of the goblins, fired an arrow at Mortimer, who took it in the arm, and rolled off the wagon, still clutching his spellbook.
+
+Orianna, furious with the attack, began to sing a haunting melody, mocking viciously one of the goblins, who fell to the ground, writhing in pain. Mortimer used his telekinesis to throw the arrows from a goblin's quiver to the floor, confusing him. Vaxidd struck down another goblin with his warhammer, blood splattering his glimmering shield.
+
+Despite their best efforts, the goblins continued to attack. Sheod, calm and centered, fired arrows with precision, taking down another goblin. Mortimer swirled his fingers and flung his arm, casting a spell to put the last of the goblins to sleep. Vaxidd quickly tied up the sleeping goblin.
+
+As the group took a moment to catch their breath, they discussed what to do next. They needed to know more about the goblins' intentions and who was behind the ambush.
+
+"We need to interrogate this goblin and find out who sent them," Vaxidd said firmly. "Agreed," Mortimer nodded. "We need to know who's behind this."
+
+Orianna approached the tied-up goblin and began to speak in a language the others didn't understand. The goblin looked up at her fearfully.
+
+"What did you find out?" Sheod asked, impatiently.
+
+"Their leader is a bugbear named Klarg," Orianna replied. "He answers to King Grol, who dwells in Cragmaw Castle. It's a long way due north"
+
+"Klarg has told these goblins to ambush all travellers who pass through, and take all that they recover back to him to their hideout, a cave not far from here.
+
+The group exchanged worried glances. "We need to find Gundren and make sure he's safe," Vaxidd said firmly. 
+
+Orianna turned to the goblin “You will show us this cave, and you will behave, and you will speak Common from now on”.
+
+“Of Course, of course!” cowered the goblin “My name is Bobby the goblin, I will lead you to the trail to the cave where we are guarding the loot”
+
+With Bob as their guide, the group sets off towards the cave, unsure of what they will find or what dangers they will face.
+
+## Into the cave
+
+As the group follows the goblin, they keep their eyes peeled for any sign of danger. Orianna grips her lute tightly, ready to use it as a weapon if necessary. Sheod leads the way, his bow at the ready, scanning the trees for any sign of movement.
+
+After about 15 minutes of tense walking, they arrive at the entrance of a cave. Sheod takes the lead, his keen ranger senses on full alert. As they approach the entrance, a putrid smell hits their nostrils. It's the stench of animals, and it's overwhelming.
+
+As they enter the cave, they come upon a small, dank chamber on the east side of the passage. The cave narrows to a steep fissure at the far end. But it's what's in between that catches their attention: three wolves, chained up and snarling ferociously.
+
+The group approaches the wolves with caution. They can see the chains are secured to iron rods driven into the base of stalagmites. Orianna tries to calm the wolves with a soft melody on her lute, but it seems to have no effect. As they pass by, the wolves start pulling at their chains, trying to get free.
+
+Suddenly, Sheod hears a loud snap, and the chains go slack. The wolves are loose! They lunge forward, snarling and baring their teeth. The group backs away, weapons at the ready, but the wolves are more interested in fleeing the cave than attacking them.
+
+As the wolves disappear into the darkness, Mortimer steps forward, conjuring his small owl familiar to scout deeper into the cave. The owl flits off, clumsily navigating the cavern until it reaches a large chamber.
+
+Through the owl's eyes, Mortimer sees a massive figure, twice the size of a normal human, wielding a menacing club. The figure spots the owl and with a quick swipe of his club, he kills it instantly. As the owl dissipates into the ether, Mortimer can still hear the figure mutter “Damn these things always flying in”, leaving Mortimer shaken.
+
+Mortimer turns to the others, "There's someone big in there. And they're not friendly." They take a moment to regroup and plan their next move. They know they need to proceed with caution.
+
+Sheod, Orianna, and Bobby carefully make their way through the side passage, their weapons drawn and ready. As they enter the large cave, they hear the sounds of goblins chattering and cooking over an open fire. The smell of smoke and unwashed goblins makes their eyes water.
+
+They quickly spot Sildar, bound and unconscious on the southern ledge of the cavern. Sheod signals to the others to approach quietly. They cautiously make their way up the steep natural staircase to the upper ledge, trying not to make any noise.
+
+As they reach the top, the goblin leader, Puglik, spots them and grabs Sildar, holding him tightly at the edge of the ledge. "Truce, or this human dies!" he threatens.
+
+The adventurers exchange a worried glance, unsure of how to proceed. They can't risk Sildar's life, but they also can't let the goblins go unpunished. Puglik speaks up, trying to convince them to help him overthrow Klarg and become the new boss.
+
+"Kill Klarg and bring me his head, and I'll release this human," Puglik promises.
+
+Sheod steps forward, keeping his voice steady. "How do we know you'll keep your word?"
+
+Puglik sneers. "You don't, but it's your best chance to get out of here alive."
+
+Sheod nods, thinking quickly. "We'll need a plan. Can you tell us anything about Klarg's weaknesses?"
+
+Puglik hesitates for a moment, then speaks. "Klarg is a powerful bugbear, but he's not too bright. He likes to show off his strength and intimidate his minions. If you can get him alone, he'll be an easy target."
+
+Back in the main entrance, Vaxidd has no trouble seeing in the dark, a boon from his dwarven heritage, but Mortimer is blind. The atmosphere is tense, with the sound of dripping water echoing throughout the cavern. With a wave of his hand, Vaxidd’s helms begins to glow his helmet illuminating the path ahead. Mortimer, towering over Vaxidd, follows closely behind 
+
+Vaxidd grumbles, "This is ridiculous. I look like a walking lamp." 
+
+Mortimer chuckles, "Better a walking lamp than a blind one." 
+
+“At least make my shield glow instead, else I’ll kill the goblins with laughter” replies Vaxidd.
+
+Mortimer flicks his finger in the air and the glow passes from his helmet to his shield.
+
+As they approach a large chamber, the sound of rushing water grows louder. They can see a makeshift dam, constructed by the goblins to stop the water from flooding the main entrance. Vaxidd spots two goblins standing guard, looking nervous as they sense danger approaching.
+
+Mortimer quickly conjures an illusion in the shape of a large, immobile black bear behind the goblins. He cups his hands and roars, the roar appearing to come form the bear itself, sending one of the goblins fleeing in fear. The other goblin, however, runs straight into Vaxidd, who wastes no time and brings down his warhammer upon the creature's skull with a sickening crunch, sending bone and brain matter splattering in all directions.
+
+Suddenly, the massive bugbear, Klarg, jumps out from an opening, swinging his club at the illusion of the bear, his pet dire wolf by his side. For a moment, Klarg freezes, disbelieving his eyes, trying to hit the illusion again, but it's like trying to grasp smoke. Klarg's confusion and frustration grow with every missed swing.
+
+Sheod and Orianna, who had been exploring the cave ahead of Vaxidd and Mortimer, arrive to join the fray. Orianna begins by hurling insults at Klarg, calling him names that question his strength and masculinity, and mocking his appearance and intelligence. She then weaves subtle enchantments into her words, amplifying their effect and causing Klarg to become confused and disoriented. The insults, combined with the enchantments, strike at Klarg's confidence and resolve, making him feel vulnerable and unsure of himself. As a result, his attacks become slower and heavy with doubt.
+
+Sheod takes aim with his bow and shoots an arrow between Klarg's eyes. The arrow tip skewers his skull, as blood spatters across the floor and Klarg falls dead to the ground, his face still in confusion with all the events leading to his demise.
+
+As the dire wolf charges towards Vaxidd, its eyes glowing with fury, Vaxidd can feel his heart racing in his chest. He braces himself and readies his warhammer, feeling the weight of it in his hands. "Looks like this pup wants a piece of me," he says, a sly grin spreading across his face.
+
+The wolf lunges forward, teeth bared, and Vaxidd swings his hammer with all his might. The impact is bone-crushing, and the wolf lets out a final, blood-curdling yelp before collapsing to the ground in a lifeless heap. Vaxidd takes a moment to catch his breath, his shield still glowing faintly.
+
+After the battle, Sheod wipes the blood off his blade and swiftly decapitates Klarg, holding up the grisly trophy as proof of their success. Orianna nods approvingly, but her eyes betray a hint of sadness for the life that was taken.
+
+Meanwhile, Mortimer and Vaxidd scavenge the goblins' bodies and Klarg's corpse for loot. Mortimer's eyes light up at the sight of the potions and spell scrolls, while Vaxidd grumbles about the lack of real treasure.
+
+As Sheod and Orianna present Klarg's head to Puglik, the situation takes a turn for the worse. Puglik snatches Sildan and holds a knife to his throat, demanding more gold. Sheod's hands grip his bow, ready to shoot, but Orianna places a calming hand on his shoulder.
+
+"Please, Puglik," she pleads. "We fulfilled our end of the bargain. Let Sildan go."
+
+Puglik's eyes narrow. "Not until I get what's mine."
+
+Mortimer steps forward, holding out a pouch of gold. "Here, take it all. Just let Sildan go unharmed."
+
+Sheod rolls his eyes at Mortimer's statement, but his annoyance quickly fades as he watches the wizard's hand dip into his pouch. Mortimer's fingers emerge, clutching a handful of sparkling sand, which he flicks towards Puglik's face.
+
+The goblin leader sputters and gasps as the sand hits him, before collapsing in a heap on the ground. Sheod stares in disbelief at the sleeping goblin, realizing that the sand was no ordinary dust.
+
+"By Moradin's beard," Vaxidd exclaims, "that was a sleep spell! Where did you learn that, Mortimer?"
+
+Mortimer shrugs, "Just a little trick I picked up in my travels."
+
+The other goblins freeze, unsure of what to do now that their leader has fallen.
+
+Vaxidd steps forward, a fierce glint in his eyes. "We're taking Sildan and leaving. If any of you try to stop us, you'll end up like your boss."
+
+The goblins shrink back in fear as Sheod and Vaxidd carry Sildan's unconscious form out of the cave. As they emerge into the bright sunlight, the weight of their victory settles over them. Orianna can't help but feel a twinge of guilt for the violence they've wrought. Sheod, on the other hand, feels a surge of pride for protecting their friend and fulfilling their mission. Mortimer is already pouring over the spell scrolls, eager to learn new magic. And Vaxidd is still muttering about the lack of treasure.
+
+## Trip to Phandalin
 

@@ -1,6 +1,32 @@
-# Pandelver
+# Day 1
 
-This is a draft
+Phandalin is a small, remote town located two days away from Neverwinter. 
 
-## This is another thing
+The next day, the group sets off on their journey to Phandalin, riding on a sturdy wagon pulled by a patient ox. The morning is bright and clear, and the road is relatively quiet.
+
+As they travel, Mortimer breaks the silence. “So, what do you all know about Phandalin?” he asks.
+
+Vaxidd turns to him. “It’s a small mining town, not far from here. Gundren has some business there, and we’re delivering supplies to Barthen’s Provisions.”
+
+“Ah, I see,” Mortimer nods. “And what of you, Sheod and Orianna? Any thoughts on our destination?”
+
+Sheod, who had been keeping watch from the back of the wagon, speaks up. “I’ve never been there, but I’ve heard stories. They say there are ruins nearby, and rumours of lost treasure.”
+
+Orianna chimes in. “And I’ve heard that the town has been struggling lately, with bandits and other unsavoury types causing trouble. Perhaps we can be of assistance while we’re there.”
+
+Vaxidd nods. “That sounds like a noble goal. But let’s not get too far ahead of ourselves. Our first priority is to deliver these supplies safely to Barthen’s Provisions.”
+
+With that, the group falls into a comfortable silence, each lost in their own thoughts as they continue down the road.
+
+The first day of their journey is uneventful, with nothing but the sound of the wagon creaking and the ox’s steady breathing to break the monotony. They make camp as the sun begins to set, enjoying a simple meal of trail rations and roasted meat.
+
+As they settle in for the night, Mortimer speaks up once more. “You know, I’ve always found the quiet of the wilderness to be quite soothing. It’s a nice change of pace from the hustle and bustle of city life.”
+
+Sheod nods in agreement. “I know what you mean. There’s something peaceful about being out here, away from all the noise and distractions.”
+
+Orianna smiles. “I have to say, I quite enjoy the quiet as well. It gives me time to think and compose new songs.”
+
+Vaxidd chuckles. “Well, I’m glad we’re all finding some enjoyment in this journey. But let’s not forget, we have a job to do. We need to stay alert and keep our eyes peeled for any trouble that might come our way.”
+
+With that, the group settles in for the night, taking turns keeping watch as they rest up for the next day of their journey.
 
