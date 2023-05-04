@@ -17,6 +17,8 @@ theme:
   favicon: 'material/library'
   font:
     text: Lora
+  features:
+    - navigation.footer
 
 extra_css:
   - stylesheets/extra.css
