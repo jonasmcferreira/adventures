@@ -8,5 +8,5 @@
     font-family: 'EB Garamond';
     font-style: normal;
     font-weight: 700;
-    src: url('fonts/EBGaramond-Bold.ttf') format('truetype');
+    src: url('../fonts/EBGaramond-Bold.ttf') format('truetype');
 }
