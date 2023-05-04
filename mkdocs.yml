@@ -11,23 +11,15 @@ nav:
 
 theme:
   name: material
-  palette: 
-    - scheme: default
-      primary: indigo
-      icon:
-      logo: material/library
-      toggle:
-        icon: material/toggle-switch-off-outline 
-        name: turn off the light
-    - scheme: slate 
-      primary: red
-      toggle:
-        icon: material/toggle-switch
-        name: turn on the light
-  features: 
-    - toc.follow
-  font:
-    code: Fira Code
+  palette:
+    primary: indigo
+    accent: red
+    hue:
+      - '300'
+      - '500'
+    bg: 'white'
+  logo: 'material/library'
+  favicon: 'material/library'
 
 extra:
   social:
