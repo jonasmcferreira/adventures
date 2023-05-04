@@ -1,10 +1,16 @@
 # Characters
 
-# Alythine
+## Alythine
 
+Alythine was born and raised in a small town near Neverwinter. Her family owned a small business, which was widely known in the community for its kindness and willingness to help others. However, her happy life was shattered when she was just six years old. One rainy evening, a group of strangers entered their shop, accompanied by three guards. Her mother had a bad feeling about them, as they had previously purchased a strange item, which she suspected contained dark magic. When the men accused her father of selling them a fake item, a fight broke out, and her parents were brutally murdered.
 
+Alythine, who was hiding, let out a scream, revealing her presence to the intruders. The men debated whether they should kill her, fearing she might have overheard something. However, Gundram Rockseeker, a family friend, heard her screams and came to her rescue. He blinded the guards with a bag of magic dust provided by Mortimer, a wizard and librarian at the prestigious Neverwinter Academy. They escaped through a small tunnel in the shop, and Gundram hid her in his home for some time. But Alythine couldn't bear the thought of putting him in danger and left a note of thanks before running away.
 
-# Orianna
+Years later, she had become a skilled thief, and her misdemeanors caught up with her. She owed a significant amount of money, and the threats became increasingly unpleasant. Alythine remembered Mortimer's advice about some rare books and decided to steal them from the academy library. However, she got caught by Mortimer, who took pity on her and introduced her to the leader of the thieve's guild, a place where she could put her skills to use and have a family, albeit a dysfunctional one.
+
+Years went by, and Alythine became Aly, a seasoned member of the guild. But her old friend Gundram approached her with a cryptic request. He needed her to transport mining equipment from Neverwinter to Pandhelver without asking any questions. Although it seemed like a small task, Gundram begged her to do it. He left with a human called Slidar to protect him, and now it was Aly's turn to slip away into Pandhelver.
+
+## Orianna
 
 Orianna is a 30-year-old Tiefling in the prime of her life. Her skin color is pink, her hair is dark purple, and her eyes are red. Standing at a height of only 1.65cm, Orianna has several differences compared to her siblings who have purple skin and much darker hair. However, they share the same eye color and horn shape.
 
@@ -18,7 +24,7 @@ It was from Mortimer that Orianna met Gundram Rockseeker, a nomadic dwarf trader
 
 Several years later, Gundram contacted Mortimer with an unusual request. He needed a security escort for a caravan carrying goods and believed that Orianna and a few other adventurers were the right people for the job. Initially hesitant, Orianna agreed to go when she heard that they would pass through Phandelven. She missed her family and hoped to find inspiration for another song during her adventure.
 
-# Mortimer
+## Mortimer
 
 Mortimer is a 54-year-old human with a lean and wiry build. He has a scholarly and unassuming figure, with a hint of hidden strength and a keen intelligence lurking behind his unassuming facade. Despite his age, he moves with a surprising grace and agility. He stands tall at 6’, with a slightly stooped posture from years spent hunched over books and parchment. His face is lined with wrinkles, evidence of a life spent indoors under the dim light of candles and oil lamps. His hair is a greying brown colour, long enough to reach his shoulders. He wears it in a simple braid to keep it out of his face.
 
@@ -43,7 +49,7 @@ However, everything changed when his old friend Gundram Rockseeker came to him w
 Now, at the age of 54, Mortimer has decided to venture out into the world and start adventuring. He feels that he has spent too much of his life cooped up in the academy, and he wants to use and improve his magical skills in a more exciting and fulfilling way. He knows that the road ahead will be dangerous and uncertain, but he is willing to take the risk in order to finally experience the world beyond the walls of Neverwinter.
 
 
-# Sheod
+## Sheod
 
 Once upon a time, there was a dark elf named Sheod who did not grow up in his native lands. His family had been murdered when he was just a baby, and his older sister managed to save him and flee to the Dark Forests. There, they lived for a few years, surviving by plundering the villages around the forest. However, a terrible encounter with an enraged beast left them vulnerable and exposed.
 
@@ -57,7 +63,7 @@ During one mission as a scout for a group of Paladins protecting the lands of th
 
 Although Sheod does not care much for money, he uses it to support himself and makes tips for his long-range arrows. His journey led him to discover relevant information about the Drow society in Umbreterna, where he found out that mass murders can have countless motives. He learned that on the day he fled, there was a command of execution for some families, which could hold the key to his family's murder.
 
-# Vaxidd
+## Vaxidd
 
 Vaxidd Ironforger was born into the renowned Ironforger clan, known throughout the land for their exceptional blacksmithing skills and their unmatched prowess in battle. At the age of 200, Vaxidd had already gained a reputation as a seasoned warrior and a fierce protector of the innocent.
 
