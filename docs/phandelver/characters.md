@@ -1,5 +1,9 @@
 # Characters
 
+# Alythine
+
+
+
 # Orianna
 
 Orianna is a 30-year-old Tiefling in the prime of her life. Her skin color is pink, her hair is dark purple, and her eyes are red. Standing at a height of only 1.65cm, Orianna has several differences compared to her siblings who have purple skin and much darker hair. However, they share the same eye color and horn shape.
@@ -41,9 +45,25 @@ Now, at the age of 54, Mortimer has decided to venture out into the world and st
 
 # Sheod
 
+Once upon a time, there was a dark elf named Sheod who did not grow up in his native lands. His family had been murdered when he was just a baby, and his older sister managed to save him and flee to the Dark Forests. There, they lived for a few years, surviving by plundering the villages around the forest. However, a terrible encounter with an enraged beast left them vulnerable and exposed.
 
+Fortunately, a tribe of forest elves found and rescued them. They took Sheod and his sister under their wing, teaching them various skills like hunting, farming, fighting, arts, and the language of men. Sheod grew up participating in patrols and expeditions, which fueled his desire to discover more about the region.
+
+Despite the protection of the forest elves, Sheod still had the habit of looting things in the surrounding villages. He did so in the hopes of finding clues about his family's murder and his origins. After spending many years with the elves, he decided to leave his sister behind and set out on a journey to uncover more information about his race.
+
+Sheod now offers escort services, patrols, and exploration throughout the kingdom. His deepest goal is to avenge his family's death by finding and confronting their murderers. He is capable of abandoning any task if he feels it could lead to useful information.
+
+During one mission as a scout for a group of Paladins protecting the lands of the Kingdom, Sheod allied with men and dwarves to prevent an invasion. His espionage work helped reveal the enemy's tactics, allowing the group to prepare and win the battle. Sheod's bow was given to him by the elves of his tribe, and he makes his arrows using his hatchet and dagger.
+
+Although Sheod does not care much for money, he uses it to support himself and makes tips for his long-range arrows. His journey led him to discover relevant information about the Drow society in Umbreterna, where he found out that mass murders can have countless motives. He learned that on the day he fled, there was a command of execution for some families, which could hold the key to his family's murder.
 
 # Vaxidd
 
+Vaxidd Ironforger was born into the renowned Ironforger clan, known throughout the land for their exceptional blacksmithing skills and their unmatched prowess in battle. At the age of 200, Vaxidd had already gained a reputation as a seasoned warrior and a fierce protector of the innocent.
 
+Years ago, Vaxidd's path crossed with that of his cousin, Gundram Rockseeker, a prominent merchant in Neverwinter, and Mortimer, a human scholar and librarian at the prestigious Neverwinter Academy. Gundram and Vaxidd were close, having grown up together, and they shared a passion for adventure and justice. Mortimer, with his extensive knowledge of the arcane, was a valuable asset to their group.
+
+One day, Gundram came to Vaxidd, Mortimer, and three other adventurers. He needed an escort for his caravan of goods, which was travelling into a potentially dangerous area. He sought the aid of his trusted friends to ensure that the caravan would reach its destination safely.
+
+Vaxidd, motivated by his sense of duty and his Paladin oath, could not refuse the call for help. He knew he could rely on his cousin and his friends' unique skills and abilities to overcome any challenge that lay ahead.
 
