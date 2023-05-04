@@ -2,10 +2,10 @@ site_name: My Adventures
 site_url: https://jonasmcferreira.github.io/adventures/
 
 nav:
-  - Phandelven:
-      - In Neverwinter: phandelven/00.md
-      - Day 1: phandelven/01.md
-      - Day 2: phandelven/02.md
+  - Phandelver:
+      - In Neverwinter: phandelver/00.md
+      - Day 1: phandelver/01.md
+      - Day 2: phandelver/02.md
 
 theme:
   name: material
