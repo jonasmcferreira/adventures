@@ -120,3 +120,5 @@ The goblins shrink back in fear as Sheod and Vaxidd carry Sildan's unconscious f
 
 ## Trip to Phandalin
 
+to be continued
+
