@@ -34,7 +34,8 @@ theme:
     - navigation.top
     - navigation.tabs
 
-plugins: []
+plugins: 
+  - glightbox
 
 extra_css:
   - stylesheets/extra.css
