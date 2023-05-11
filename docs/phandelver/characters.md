@@ -1,15 +1,5 @@
 # Characters
 
-## Alythine :material-knife:
-
-Alythine was born and raised in a small town near Neverwinter. Her family owned a small business, which was widely known in the community for its kindness and willingness to help others. However, her happy life was shattered when she was just six years old. One rainy evening, a group of strangers entered their shop, accompanied by three guards. Her mother had a bad feeling about them, as they had previously purchased a strange item, which she suspected contained dark magic. When the men accused her father of selling them a fake item, a fight broke out, and her parents were brutally murdered.
-
-Alythine, who was hiding, let out a scream, revealing her presence to the intruders. The men debated whether they should kill her, fearing she might have overheard something. However, Gundram Rockseeker, a family friend, heard her screams and came to her rescue. He blinded the guards with a bag of magic dust provided by Mortimer, a wizard and librarian at the prestigious Neverwinter Academy. They escaped through a small tunnel in the shop, and Gundram hid her in his home for some time. But Alythine couldn't bear the thought of putting him in danger and left a note of thanks before running away.
-
-Years later, she had become a skilled thief, and her misdemeanors caught up with her. She owed a significant amount of money, and the threats became increasingly unpleasant. Alythine remembered Mortimer's advice about some rare books and decided to steal them from the academy library. However, she got caught by Mortimer, who took pity on her and introduced her to the leader of the thieve's guild, a place where she could put her skills to use and have a family, albeit a dysfunctional one.
-
-Years went by, and Alythine became Aly, a seasoned member of the guild. But her old friend Gundram approached her with a cryptic request. He needed her to transport mining equipment from Neverwinter to Pandhelver without asking any questions. Although it seemed like a small task, Gundram begged her to do it. He left with a human called Slidar to protect him, and now it was Aly's turn to slip away into Pandhelver.
-
 ## Orianna :material-guitar-acoustic:
 
 ![page break](../images/orianna.png){ width="300" }
