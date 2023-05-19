@@ -5,4 +5,4 @@ This site is where I'll be sharing my novel based on my role-playing sessions. J
 ## Current Adventures
 
 - [Phandelver](phandelver/00/): Join me on a journey through the mysterious and dangerous lands of Neverwinter.
-- [Inkoria]
+- [Inkoria](inkoria/00/): An adventure in the concept world of Inkoria, where the written word is law
