@@ -6,5 +6,3 @@
         
 ### Ironhold
  The Industrial Citadel Ironhold stands as a grim testament to the relentless march of industry and the subjugation of nature. It is a city where the dark arts of alchemy and mechanical enchantments intertwine, giving rise to a mechanized society ruled by sinister engineers and arcane inventors. The air is thick with smog and the relentless clang of machinery. Ironhold is a hub of manufacturing and technological advancements fueled by the exploitation of forbidden knowledge. Its towering smokestacks belch forth toxic fumes, casting a perpetual pall over the city and its inhabitants.
-
-    
