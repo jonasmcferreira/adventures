@@ -4,7 +4,6 @@
   - [Obsidian Veil](#obsidian-veil)
   - [White Citadel](#white-citadel)
   - [Ironhold](#ironhold)
-- [Professions](#professions)
 - [Magic](#magic)
 - [Plot outline](#plot-outline)
 
@@ -19,9 +18,6 @@
         
 ### Ironhold
  The Industrial Citadel Ironhold stands as a grim testament to the relentless march of industry and the subjugation of nature. It is a city where the dark arts of alchemy and mechanical enchantments intertwine, giving rise to a mechanized society ruled by sinister engineers and arcane inventors. The air is thick with smog and the relentless clang of machinery. Ironhold is a hub of manufacturing and technological advancements fueled by the exploitation of forbidden knowledge. Its towering smokestacks belch forth toxic fumes, casting a perpetual pall over the city and its inhabitants.
-
-
-## Professions
 
 ## Magic
 
@@ -40,7 +36,6 @@ In Inkoria, the absence of magic is pervasive, leaving the general populace unaw
 Overall, Inkoria portrays a bleak and oppressive society where the pursuit of magic is met with persecution and fear. Spellcasters are hunted down and forced to operate in secrecy, while the general populace remains oblivious to the potential wonders that magic can bring.
 
 ## Plot outline
-
 
 Title: "Embers of Redemption"
 
