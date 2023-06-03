@@ -4,9 +4,9 @@
   - [Obsidian Veil](#obsidian-veil)
   - [White Citadel](#white-citadel)
   - [Ironhold](#ironhold)
-- [Professions](#professions)
 - [Magic](#magic)
-- [Plot outline](#plot-outline)
+- [Faith](#faith)
+- [Plot ideas ()](#plot-ideas)
 
 
 ## Locations
@@ -20,8 +20,6 @@
 ### Ironhold
  The Industrial Citadel Ironhold stands as a grim testament to the relentless march of industry and the subjugation of nature. It is a city where the dark arts of alchemy and mechanical enchantments intertwine, giving rise to a mechanized society ruled by sinister engineers and arcane inventors. The air is thick with smog and the relentless clang of machinery. Ironhold is a hub of manufacturing and technological advancements fueled by the exploitation of forbidden knowledge. Its towering smokestacks belch forth toxic fumes, casting a perpetual pall over the city and its inhabitants.
 
-
-## Professions
 
 ## Magic
 
@@ -39,8 +37,20 @@ In Inkoria, the absence of magic is pervasive, leaving the general populace unaw
 
 Overall, Inkoria portrays a bleak and oppressive society where the pursuit of magic is met with persecution and fear. Spellcasters are hunted down and forced to operate in secrecy, while the general populace remains oblivious to the potential wonders that magic can bring.
 
-## Plot outline
+## Faith
 
+Lightbringers: These clerics draw their power from the gods associated with light, illumination, and purity. They are the beacons of hope in the darkness, wielding radiant magic to dispel shadows and bring enlightenment to the oppressed. Lightbringers inspire others with their unwavering faith and provide guidance and solace to those who have lost their way.
+
+Shadowseekers: These clerics walk a more mysterious and enigmatic path, attuned to the gods associated with darkness, secrecy, and subterfuge. They are adept at navigating the hidden realms and gathering information from the shadows. Shadowseekers use their powers to protect the innocent, expose corruption, and unravel the secrets that shroud Inkoria's dark underbelly.
+
+Lifekeepers: The Lifekeepers draw their strength from the gods associated with nature, healing, and vitality. They are dedicated healers, both in body and spirit, using their divine magic to mend wounds, cure ailments, and bring life to barren places. Lifekeepers provide care and compassion to the downtrodden, bringing hope and renewal to a world plagued by suffering.
+
+Stormcallers: These clerics are connected to the gods associated with storms, weather, and elemental forces. They command the powers of lightning, thunder, and wind, using them to protect the weak and challenge the oppressive rule. Stormcallers are fierce and passionate, bringing the wrath of nature upon those who abuse their power.
+
+Fateweavers: The clerics who embody the aspect of Fateweavers are attuned to the gods associated with destiny, time, and prophecy. They possess the ability to glimpse the threads of fate and shape the outcomes of events. Fateweavers serve as guardians of balance, ensuring that the true path is followed and that injustice is met with consequences.
+
+
+## Plot ideas ()
 
 Title: "Embers of Redemption"
 
