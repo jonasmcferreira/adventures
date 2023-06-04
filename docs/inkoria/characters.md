@@ -8,13 +8,12 @@
     - [Equipment](#equipment)
 - [Character two](#character-two)
   - [Character Name - Wizard 1 - Human - Background](#character-name---wizard-1---human---background)
-    - [Abilities](#abilities)
-    - [Proficiencies](#proficiencies)
-    - [Features and Traits](#features-and-traits)
+    - [Proficiencies Features and Traits](#proficiencies-features-and-traits-1)
     - [Spells](#spells-1)
     - [Backstory](#backstory-1)
     - [Equipment](#equipment-1)
 
+---
 
 ## Character one
 
@@ -54,28 +53,25 @@ Weapon 2
 Armor 
 Other Equipment 
 
+---
+
 ## Character two
 
 ### Character Name - Wizard 1 - Human - Background 
 
-#### Abilities
+**STR:** 10 
+**DEX:** 10 
+**CON:** 10 
+**INT:** 10 
+**WIS:** 10 
+**CHA:** 10
 
-- STR 
-- DEX 
-- CON 
-- INT 
-- WIS 
-- CHA 
-
-#### Proficiencies
+#### Proficiencies Features and Traits
 
 Armor
-Weapons 
-Tools 
-Skills 
-
-#### Features and Traits
-
+Weapons
+Tools
+Skills
 
 #### Spells
 
@@ -92,9 +88,7 @@ Write a brief description of your character's background and history.
 
 #### Equipment
 
-```
 Weapon 1 
 Weapon 2 
 Armor 
 Other Equipment 
-```
