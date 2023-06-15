@@ -22,7 +22,7 @@ STR:14 | DEX:8 | CON:11 | INT:8 | WIS:17 | CHA:15
 - **Armor:** Light armor, medium armor, shields
 - **Weapons:** Simple weapons
 - **Tools:** None
-- **Skills:** Choose two from History, Insight, Medicine, Persuasion, and Religion
+- **Skills:** Insight, Medicine
 
 ## Equipment
 - **Weapon:** Simple melee weapon (e.g., mace or warhammer)
