@@ -49,6 +49,32 @@ Stormcallers: These clerics are connected to the gods associated with storms, we
 
 Fateweavers: The clerics who embody the aspect of Fateweavers are attuned to the gods associated with destiny, time, and prophecy. They possess the ability to glimpse the threads of fate and shape the outcomes of events. Fateweavers serve as guardians of balance, ensuring that the true path is followed and that injustice is met with consequences.
 
+## Deities
+
+### Aeshara, the Veiled Guide
+
+Aeshara, the Veiled Guide, is a deity revered by those who believe in the subtle power of manipulating circumstances from within, advocating for justice through cunning and strategy. Often depicted as a cloaked figure with a mysterious aura, Aeshara embodies the enigmatic nature of fate and the intricate web of interconnected destinies.
+
+Aeshara's teachings revolve around the concept that sometimes the path to righteousness requires navigating through darkness and utilizing unconventional means to achieve a greater good. This deity believes that the world is a complex tapestry, and understanding the interplay of its threads is essential to effect change.
+
+The Veiled Guide's followers believe that Aeshara guides them through the hidden alleys of life, challenging them to embrace complexity and moral ambiguity. While other deities may champion direct confrontation or overt displays of power, Aeshara urges subtlety and calculated action to achieve desired outcomes.
+
+Aeshara's worshipers, often a select few who understand the delicate balance of power, honor their deity through acts of subversion, strategic alliances, and the protection of the vulnerable. They believe that by walking in the footsteps of the Veiled Guide, they can gradually unravel the threads of injustice and weave a tapestry of liberation and enlightenment for all who suffer under the weight of oppression.
+
+### Vexar, the Discordant Shadow
+
+Vexar, the Discordant Shadow, is a deity who represents chaos, disruption, and the subversion of established order. This enigmatic and unpredictable entity is the antithesis of Aeshara, the Veiled Guide, and embodies the forces that seek to undermine stability and thwart the careful plans of others.
+
+Vexar's followers believe in embracing chaos as a catalyst for change, challenging the structures and systems that Aeshara's followers strive to uphold. The Discordant Shadow is often depicted as a swirling mass of shadowy tendrils, symbolizing the ever-shifting nature of disruption and the breaking of chains.
+
+The teachings of Vexar reject the notion of adhering to rules, hierarchies, and predetermined paths. Instead, they emphasize the pursuit of personal freedom, even at the expense of societal order. Vexar's followers may engage in acts of rebellion, subversion, and the exploitation of loopholes to dismantle existing power structures.
+
+In direct opposition to Aeshara, Vexar seeks to sow discord, undermine carefully laid plans, and challenge the status quo. The deity's divine message would often encourage followers to disrupt the plans and schemes of those aligned with Aeshara, emphasizing the importance of individual agency and the pursuit of personal desires over the greater good.
+
+Vexar's worshipers revel in unpredictability and thrive in environments of chaos. They may employ deception, trickery, and manipulation to further their goals, constantly seeking to upset the balance and disrupt the well-laid plans of others. They believe that true liberation can only be achieved by dismantling the systems that confine and restrict individual potential.
+
+In conflicts between the followers of Aeshara and Vexar, there would be an eternal struggle between order and chaos, strategy and spontaneity, and the belief in calculated plans versus the belief in the power of random chance. The clash between these deities would reflect a cosmic battle between those who seek to maintain stability and those who thrive on disruption and the constant reshaping of the world.
+
 
 ## [Plot ideas](plots.md)
 
