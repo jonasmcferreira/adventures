@@ -11,6 +11,10 @@
 
 ## Locations
 
+### Sandhaven
+ 
+Nestled along the sun-kissed shores of the Inkorian coast, Sandhaven emerges as a city of vibrant contrasts. Its bustling streets and lively markets teem with merchants, entertainers, and adventurers, painting a picture of a carefree coastal paradise. The honest half of the city boasts quaint seaside cottages, where hardworking fishermen return with their bountiful catches. Visitors can revel in the cheerful ambiance of seaside taverns, indulge in delectable seafood delicacies, and wander through art-filled promenades. However, as the sun sets and shadows grow longer, the other half of Sandhaven reveals a darker side. In dimly lit alleys and hidden backrooms, unsavory activities thrive. Slavers trade lives, pirates plot their next plunder, smugglers navigate secret passages, and gamblers wager fortunes. The city's dual nature creates a palpable tension, where pleasure and danger intermingle in a delicate dance, enticing the curious and daring alike.
+
 ### Obsidian Veil
  The Hidden City shrouded in Mystery Obsidian Veil is a city veiled in secrecy and perpetually concealed from prying eyes. This enigmatic city is the only place where spellcasting is allowed and practiced openly. However, its exact location remains a closely guarded secret, as the city possesses the unsettling ability to constantly shift its position. It is said that only those deemed worthy by the city's mystical guardians can find their way to its ever-changing gates. Obsidian Veil serves as a refuge for renegade spellcasters, a clandestine haven where they can hone their craft beyond the reach of witch-hunters.
     
@@ -19,7 +23,6 @@
         
 ### Ironhold
  The Industrial Citadel Ironhold stands as a grim testament to the relentless march of industry and the subjugation of nature. It is a city where the dark arts of alchemy and mechanical enchantments intertwine, giving rise to a mechanized society ruled by sinister engineers and arcane inventors. The air is thick with smog and the relentless clang of machinery. Ironhold is a hub of manufacturing and technological advancements fueled by the exploitation of forbidden knowledge. Its towering smokestacks belch forth toxic fumes, casting a perpetual pall over the city and its inhabitants.
-
 
 ## Magic
 
@@ -75,6 +78,4 @@ Vexar's worshipers revel in unpredictability and thrive in environments of chaos
 
 In conflicts between the followers of Aeshara and Vexar, there would be an eternal struggle between order and chaos, strategy and spontaneity, and the belief in calculated plans versus the belief in the power of random chance. The clash between these deities would reflect a cosmic battle between those who seek to maintain stability and those who thrive on disruption and the constant reshaping of the world.
 
-
-## [Plot ideas](plots.md)
 
