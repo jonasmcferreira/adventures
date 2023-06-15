@@ -1,13 +1,11 @@
 # Inkoria The Land of Living Runes
 
-- [Character one](#character-one)
-  - [Character Name - Cleric 1 - Human - Background](#character-name---cleric-1---human---background)
+- [Pascoe - Cleric 1 - Human - Background](#pascoe---cleric-1---human---background)
     - [Proficiencies Features and Traits](#proficiencies-features-and-traits)
     - [Spells](#spells)
     - [Backstory](#backstory)
     - [Equipment](#equipment)
-- [Character two](#character-two)
-  - [Character Name - Wizard 1 - Human - Background](#character-name---wizard-1---human---background)
+- [Aric - Wizard 1 - Human - Background](#aric---wizard-1---human---background)
     - [Proficiencies Features and Traits](#proficiencies-features-and-traits-1)
     - [Spells](#spells-1)
     - [Backstory](#backstory-1)
@@ -15,16 +13,14 @@
 
 ---
 
-## Character one
+## Pascoe - Cleric 1 - Human - Background 
 
-### Character Name - Cleric 1 - Human - Background 
-
-**STR:** 10 
-**DEX:** 10 
-**CON:** 10 
-**INT:** 10 
-**WIS:** 10 
-**CHA:** 10
+STR: 14
+DEX: 8
+CON: 11
+INT: 8
+WIS: 17
+CHA: 15
 
 #### Proficiencies Features and Traits
 
@@ -55,16 +51,14 @@ Other Equipment
 
 ---
 
-## Character two
+## Aric - Wizard 1 - Human - Background 
 
-### Character Name - Wizard 1 - Human - Background 
-
-**STR:** 10 
-**DEX:** 10 
-**CON:** 10 
-**INT:** 10 
-**WIS:** 10 
-**CHA:** 10
+STR: 10 
+DEX: 10 
+CON: 10 
+INT: 10 
+WIS: 10 
+CHA: 10
 
 #### Proficiencies Features and Traits
 
