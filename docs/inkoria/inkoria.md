@@ -46,10 +46,9 @@ Overall, Inkoria portrays a bleak and oppressive society where the pursuit of ma
 - Dead people can be brought back to life permanently, but only under very specific circumstances and the spells needed are quiet difficult to weave. A Deity must be involved.
 - Weaving complex spells and combining a lot of Glyphs takes time. If, for example, I want to put a spell on a large area or a big building, I would have to weave a net of Glyphs all around and inside the place, and that takes a lot of time and preparation.
 - Mages can create inanimate objects out of nothing but in order to keep it in the physical world for more than a few minutes the mage would need to use a lot of energy. The majority of magically created objects are temporary.
-- There is a metal alloy called Red Iron that can block the flow of magic and block spell weaving. While another metal alloy called Blue Gold can store magical energy , making it really useful to create magical batteries. Another metal alloy called Black Copper makes it easier for magic to flow through it, making it an effective material to build magic amplifiers and talismans .
-- The physical cost of weaving a spell is directly proportioned to how much the effects of the spell change the reality. If i am a good and experienced mage a simple spell to open a door would cost nothing to me, a transformation spell would be challenging but I would definitely succeed, while more exotic or big spells like making a mountain float or bringing back to life the deads, if I do them alone or without the aid of magical amplifiers, would cost me so much in terms of physical energies that I would definitely die.
-
-8)Weaving spells with blood must be approached with caution. Because these spells contain parts of the Spark of the weaver, weaving too many of them could cause the disappearence of one's Spark, and so the consequent inability to weave other spells.
+- There is a metal alloy called Black Rock that can block the flow of magic and block spell weaving. While another metal alloy called White Rock can store magical energy.
+- The physical cost of weaving a spell is directly proportioned to how much the effects of the spell change the reality. An experienced mage will know how to make more effective glyphs, a transformation spell would be challenging but I would definitely succeed, while more exotic or big spells like making a mountain float or bringing dead to life, would need either multiple mages, white rocks or risk death.
+- Weaving spells with blood is possible, but must be approached with caution.
 
 ## Faith
 
