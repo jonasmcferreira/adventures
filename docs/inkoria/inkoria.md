@@ -1,12 +1,16 @@
 # Inkoria: The Land of Living Runes
 
 - [Locations](#locations)
+  - [Sandhaven](#sandhaven)
   - [Obsidian Veil](#obsidian-veil)
   - [White Citadel](#white-citadel)
   - [Ironhold](#ironhold)
 - [Magic](#magic)
+  - [Rules of Magic](#rules-of-magic)
 - [Faith](#faith)
-- [Plot ideas](#plot-ideas)
+- [Deities](#deities)
+  - [Aeshara, the Veiled Guide](#aeshara-the-veiled-guide)
+  - [Vexar, the Discordant Shadow](#vexar-the-discordant-shadow)
 
 
 ## Locations
@@ -42,13 +46,16 @@ Overall, Inkoria portrays a bleak and oppressive society where the pursuit of ma
 
 ### Rules of Magic 
 
-- Weaving spells costs fatigue to the Mage. Extensive spell weaving without some rest could cause the Mage to feel sick, very tired, to faint or die.
-- Dead people can be brought back to life permanently, but only under very specific circumstances and the spells needed are quiet difficult to weave. A Deity must be involved.
-- Weaving complex spells and combining a lot of Glyphs takes time. If, for example, I want to put a spell on a large area or a big building, I would have to weave a net of Glyphs all around and inside the place, and that takes a lot of time and preparation.
-- Mages can create inanimate objects out of nothing but in order to keep it in the physical world for more than a few minutes the mage would need to use a lot of energy. The majority of magically created objects are temporary.
-- There is a metal alloy called Black Rock that can block the flow of magic and block spell weaving. While another metal alloy called White Rock can store magical energy.
-- The physical cost of weaving a spell is directly proportioned to how much the effects of the spell change the reality. An experienced mage will know how to make more effective glyphs, a transformation spell would be challenging but I would definitely succeed, while more exotic or big spells like making a mountain float or bringing dead to life, would need either multiple mages, white rocks or risk death.
-- Weaving spells with blood is possible, but must be approached with caution.
+In the world of Inkoria, the art of spellcasting comes with certain rules and limitations that govern its practice. These rules shape the boundaries and consequences of magic, ensuring that its power is not wielded recklessly.
+
+1. **Fatigue and Rest**: Weaving spells consumes the Mage's energy and vitality. Extensive spellcasting without proper rest can lead to physical consequences such as sickness, extreme fatigue, fainting, or even death. Mages must listen to their bodies and take care to replenish their strength.
+2. **Resurrection**: Bringing the dead back to life is a complex and challenging endeavor. It requires intricate spells and the involvement of a deity. Only under specific circumstances, with the deity's blessing and guidance, can a deceased individual be permanently revived.
+3. **Complex Spells and Time**: Weaving powerful and intricate spells takes time and meticulous preparation. For spells that affect large areas or structures, a mage must create a network of carefully crafted Glyphs both inside and around the intended target. This process demands patience, precision, and ample time for the weaving to be successful.
+4. **Temporary Creations**: Mages have the ability to conjure inanimate objects out of thin air. However, these magical creations are typically temporary, fading away after a few minutes unless sustained by a significant expenditure of the mage's energy.
+5. **Black Rock and White Rock**: A unique metal alloy called Black Rock possesses the ability to block the flow of magic and impede spellcasting. It acts as a barrier, preventing spells from manifesting or disrupting their effects. Conversely, White Rock is capable of storing and containing magical energy, making it a valuable resource for mages seeking to amplify their powers.
+6. **Physical Cost and Spell Effects**: The physical toll of weaving a spell is directly proportional to the magnitude of its effects on reality. Experienced mages can create more effective glyphs and manipulate the weave with greater efficiency. While spells like transformations may be challenging but achievable, more extraordinary feats such as levitating mountains or resurrecting the dead may require the collaboration of multiple mages, the use of White Rock, or carry the risk of severe consequences, even death.
+7. **Blood Magic**: Weaving spells with the use of blood is a practice that carries inherent risks. Mages must approach it with caution, understanding the potential consequences and ensuring they maintain control over the magic they unleash.
+
 
 ## Faith
 
