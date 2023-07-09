@@ -1,0 +1,661 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+        <link rel="canonical" href="https://jonasmcferreira.github.io/adventures/inkoria/plots/">
+      
+      
+      
+      <link rel="icon" href="../../material/library">
+      <meta name="generator" content="mkdocs-1.4.3, mkdocs-material-9.1.18">
+    
+    
+      
+        <title>Plots - My Adventures</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.26e3688c.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.ecc896b0.min.css">
+      
+      
+
+    
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Lora";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+   <link href="../../assets/stylesheets/glightbox.min.css" rel="stylesheet"/><style>
+        html.glightbox-open { overflow: initial; height: 100%; }
+        .gslide-title { margin-top: 0px; user-select: text; }
+        .gslide-desc { color: #666; user-select: text; }
+        .gslide-image img { background: white; }
+        
+            .gscrollbar-fixer { padding-right: 15px; }
+            .gdesc-inner { font-size: 0.75rem; }
+            body[data-md-color-scheme="slate"] .gdesc-inner { background: var(--md-default-bg-color);}
+            body[data-md-color-scheme="slate"] .gslide-title { color: var(--md-default-fg-color);}
+            body[data-md-color-scheme="slate"] .gslide-desc { color: var(--md-default-fg-color);}
+            </style> <script src="../../assets/javascripts/glightbox.min.js"></script></head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="red" data-md-color-accent="indigo">
+  
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&"object"==typeof palette.color)for(var key of Object.keys(palette.color))document.body.setAttribute("data-md-color-"+key,palette.color[key])</script>
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#plots" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="My Adventures" class="md-header__button md-logo" aria-label="My Adventures" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m6.2 2.44 11.9 11.9 2.12-2.12 1.41 1.41-2.47 2.47 3.18 3.18c.39.39.39 1.02 0 1.41l-.71.71a.996.996 0 0 1-1.41 0L17 18.23l-2.44 2.47-1.41-1.41 2.12-2.12-11.9-11.9V2.44H6.2M15.89 10l4.74-4.74V2.44H17.8l-4.74 4.74L15.89 10m-4.95 5-2.83-2.87-2.21 2.21-2.12-2.12-1.41 1.41 2.47 2.47-3.18 3.19a.996.996 0 0 0 0 1.41l.71.71c.39.39 1.02.39 1.41 0L7 18.23l2.44 2.47 1.41-1.41-2.12-2.12L10.94 15Z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            My Adventures
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Plots
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+          
+            
+            
+            
+            <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="red" data-md-color-accent="indigo"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_1">
+            
+              <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_2" hidden>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12 20 8.69Z"/></svg>
+              </label>
+            
+          
+            
+            
+            
+            <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="red" data-md-color-accent="indigo"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_2">
+            
+              <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_1" hidden>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12c0-2.42-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12 20 8.69Z"/></svg>
+              </label>
+            
+          
+        </form>
+      
+    
+    
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+
+
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../phandelver/characters/" class="md-tabs__link">
+        Phandelver
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+
+
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../00/" class="md-tabs__link">
+        Inkoria
+      </a>
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="My Adventures" class="md-nav__button md-logo" aria-label="My Adventures" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m6.2 2.44 11.9 11.9 2.12-2.12 1.41 1.41-2.47 2.47 3.18 3.18c.39.39.39 1.02 0 1.41l-.71.71a.996.996 0 0 1-1.41 0L17 18.23l-2.44 2.47-1.41-1.41 2.12-2.12-11.9-11.9V2.44H6.2M15.89 10l4.74-4.74V2.44H17.8l-4.74 4.74L15.89 10m-4.95 5-2.83-2.87-2.21 2.21-2.12-2.12-1.41 1.41 2.47 2.47-3.18 3.19a.996.996 0 0 0 0 1.41l.71.71c.39.39 1.02.39 1.41 0L7 18.23l2.44 2.47 1.41-1.41-2.12-2.12L10.94 15Z"/></svg>
+
+    </a>
+    My Adventures
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_1" id="__nav_1_label" tabindex="0">
+          Phandelver
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_1_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_1">
+          <span class="md-nav__icon md-icon"></span>
+          Phandelver
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../phandelver/characters/" class="md-nav__link">
+        Characters
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../phandelver/00/" class="md-nav__link">
+        Day 0
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../phandelver/01/" class="md-nav__link">
+        Day 1
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../phandelver/02/" class="md-nav__link">
+        Day 2
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../phandelver/03/" class="md-nav__link">
+        Day 3
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../phandelver/04/" class="md-nav__link">
+        Day 4
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../phandelver/05/" class="md-nav__link">
+        Day 5
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+          Inkoria
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_2">
+          <span class="md-nav__icon md-icon"></span>
+          Inkoria
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../00/" class="md-nav__link">
+        Inkoria
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#plot-one" class="md-nav__link">
+    Plot One
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#plot-two" class="md-nav__link">
+    Plot two
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+<h1 id="plots">Plots</h1>
+<ul>
+<li><a href="#plot-one">Plot one</a></li>
+<li><a href="#plot-two">Plot two</a></li>
+</ul>
+<h2 id="plot-one">Plot One</h2>
+<p>Chapter 1: The Oppressive Land</p>
+<p>Introduce the world of Inkoria, its anti-magic laws, and the rule of Highprince Sadeas.
+Establish the harsh conditions under which Aric and Pascoe are held captive.</p>
+<p>Chapter 2: The Enigmatic Prisoner</p>
+<p>Aric and Pascoe continue their journey as captives, with Pascoe noticing Aric's tattoos.
+Aric reveals his true identity to Pascoe, and they form a tentative alliance.</p>
+<p>Chapter 3: A Whisper of Hope</p>
+<p>Aric shares his past and his desire to challenge the anti-magic laws.
+Pascoe becomes sympathetic to Aric's cause and joins him in his rebellion.
+They devise a plan to escape their captors and seek freedom.</p>
+<p>Chapter 4: Gathering Allies</p>
+<p>Aric and Pascoe set out on a quest to recruit other magic users and allies.
+They encounter and convince individuals with their own motivations to join the cause.
+The group begins to take shape, united by their shared desire for change.</p>
+<p>Chapter 5: The Prophecy Unveiled</p>
+<p>Aric discovers an ancient prophecy foretelling the return of magic and his role in leading the rebellion.
+The prophecy guides their actions and solidifies their determination.
+They delve into the history of Inkoria to uncover more about the prophecy's significance.</p>
+<p>Chapter 6: Trials and Training</p>
+<p>Aric and his allies undergo rigorous training to hone their magical abilities and combat skills.
+They face challenges and obstacles that test their resolve and strengthen their bond.
+Pascoe plays a crucial role in supporting and healing the group throughout their training.</p>
+<p>Chapter 7: The Shadow of Betrayal</p>
+<p>Doubt and suspicion cast a shadow over the group as a traitor is suspected within their ranks.
+Loyalties are tested, and tensions rise as they struggle to identify the betrayer.
+The traitor's identity is revealed, leading to a confrontation and the group's decision on how to proceed.</p>
+<p>Chapter 8: The Resistance Grows</p>
+<p>The rebellion gains momentum, attracting more members and expanding its influence.
+Aric and his allies undertake covert operations to undermine Highprince Sadeas' rule.
+They gather intelligence, disrupt supply lines, and build a network of support among the oppressed.</p>
+<p>Chapter 9: The Call to Arms</p>
+<p>The rebellion's activities catch the attention of Highprince Sadeas and his forces.
+Aric and his allies must rally their forces and prepare for a direct confrontation.
+They strategize, fortify their hideout, and plan for the inevitable clash.</p>
+<p>Chapter 10: Trials of the Heart</p>
+<p>Aric and Pascoe face personal challenges as their relationship deepens.
+They navigate their emotions amidst the turmoil of the rebellion, balancing duty and love.
+Their bond strengthens, providing solace and motivation during the darkest times.</p>
+<p>Chapter 11: The Final Battle Looms</p>
+<p>Highprince Sadeas becomes aware of the rebellion's activities and launches a full-scale assault.
+Aric leads the rebels in defending their stronghold and repelling the enemy forces.
+Intense battles ensue, testing the resolve and abilities of the rebels.</p>
+<p>Chapter 12: Betrayal Within</p>
+<p>A trusted member of the rebellion is revealed to be a spy working for Highprince Sadeas.
+The spy's actions have dire consequences, endangering the rebellion and its members.
+Aric and his allies must confront the spy and deal with the fallout of their betrayal.</p>
+<p>Chapter 13: Triumph and Tragedy</p>
+<p>The rebellion emerges victorious in a decisive battle against Highprince Sadeas' forces.
+However, the victory comes at a great cost, with the loss of beloved comrades and allies.
+Aric and Pascoe grieve for their fallen friends while celebrating the rebellion's success.</p>
+<p>Chapter 14: Rebuilding and Reconciliation</p>
+<p>With Highprince Sadeas defeated, Aric takes on the mantle of leadership to rebuild Inkoria.
+Pascoe continues his role as a healer, tending to the wounded and bringing hope to the people.
+They work towards reconciling the divided factions within Inkoria and establishing a just society.</p>
+<p>Chapter 15: The Trial of Magic</p>
+<p>Aric and his allies face opposition from those who still fear and oppose magic.
+They must navigate political challenges and public opinion to ensure the acceptance of magic in Inkoria.
+The trial of magic is held to determine its place in society, and the outcome will shape the future.</p>
+<p>Chapter 16: The Dark Forces Stir</p>
+<p>A new threat emerges, a dark force seeking to exploit the power vacuum left by Highprince Sadeas.
+Aric and his allies must confront this threat and prevent the resurgence of tyranny.
+They embark on a dangerous mission to uncover the source of this darkness and put an end to it.</p>
+<p>Chapter 17: The Ancient Wisdom</p>
+<p>Aric delves deeper into the mysteries of magic, seeking ancient knowledge and wisdom.
+He encounters a reclusive magical order that holds the key to unlocking his full potential.
+Aric undergoes rigorous training and discovers hidden truths about his own lineage and destiny.</p>
+<p>Chapter 18: The Battle Within</p>
+<p>As Aric's powers grow, he must confront his inner demons and overcome personal obstacles.
+He faces a profound choice that will test his commitment to the rebellion and the greater good.
+Pascoe provides support and guidance as Aric embarks on this introspective journey.</p>
+<p>Chapter 19: The Final Confrontation</p>
+<p>Aric and his allies face off against the dark force threatening to plunge Inkoria into chaos.
+They engage in a climactic battle, wielding their magic and skills to protect their newfound freedom.
+The fate of Inkoria hangs in the balance as the final confrontation unfolds.</p>
+<p>Chapter 20: Redemption and New Beginnings</p>
+<p>The rebellion emerges triumphant, vanquishing the dark force and securing peace in Inkoria.
+Aric, Pascoe, and the remaining rebels reflect on their journey and the sacrifices made.
+Inkoria begins its healing process, embracing magic and ushering in a new era of hope and unity.</p>
+<h2 id="plot-two">Plot two</h2>
+<p>Title: "Embers of Redemption"</p>
+<ol>
+<li>Introduction:</li>
+<li>Introduce the protagonist, a skilled and loyal Marktracker named Kael.</li>
+<li>Establish Kael's dedication to upholding the king's law and capturing the Marked individuals.</li>
+<li>
+<p>Highlight the oppressive atmosphere and the king's rule forbidding spellcasting.</p>
+</li>
+<li>
+<p>Discovery of Doubt:</p>
+</li>
+<li>During a routine hunt for the Marked, Kael encounters an Embermark, a powerful fire-wielding Spellcaster.</li>
+<li>The encounter sparks curiosity and doubt within Kael's mind, challenging their beliefs and loyalty to the king.</li>
+<li>
+<p>Kael becomes haunted by questions about the true nature of the Marked and the reasons behind their persecution.</p>
+</li>
+<li>
+<p>Forbidden Alliances:</p>
+</li>
+<li>Kael discreetly investigates the history and origins of the Marked, delving into forbidden knowledge.</li>
+<li>They encounter a clandestine resistance group that opposes the king's oppressive rule and seeks to protect the Marked.</li>
+<li>
+<p>Reluctantly, Kael forms alliances with individuals who were once considered enemies, as they share a common goal of uncovering the truth.</p>
+</li>
+<li>
+<p>The Path of Redemption:</p>
+</li>
+<li>As Kael delves deeper into the secrets of Inkoria, they discover the king's true motives behind suppressing spellcasting.</li>
+<li>Kael experiences personal conflicts as they grapple with their own role in perpetuating injustice.</li>
+<li>
+<p>Guided by a newfound sense of justice and empathy, Kael embarks on a path of redemption, determined to challenge the king's rule and protect the Marked.</p>
+</li>
+<li>
+<p>Unveiling the Truth:</p>
+</li>
+<li>Kael and their allies gather evidence of the king's corruption and tyranny, intending to expose him to the citizens of Inkoria.</li>
+<li>They face numerous obstacles and confront powerful adversaries, including other Marktrackers who remain loyal to the king.</li>
+<li>
+<p>Through dangerous encounters, battles, and acts of sacrifice, Kael unravels the full truth behind the power of the written word in Inkoria.</p>
+</li>
+<li>
+<p>Rise of Hope:</p>
+</li>
+<li>Kael's efforts to reveal the truth lead to a rebellion against the king's oppressive regime.</li>
+<li>The Marked, Embermarks, and other spellcasters join forces with the resistance, standing up against the king's tyranny.</li>
+<li>
+<p>Kael becomes a symbol of hope and change, inspiring others to question the status quo and fight for freedom.</p>
+</li>
+<li>
+<p>Conclusion:</p>
+</li>
+<li>In a climactic battle, Kael and their allies confront the king and his loyalists.</li>
+<li>Through the combined strength of the Marked, Embermarks, and the resistance, they ultimately overthrow the king and restore balance to Inkoria.</li>
+<li>Kael's journey of redemption is complete as they find their place in the new order, working towards a society that embraces the power of the written word without oppression.</li>
+</ol>
+<p>Throughout the story, Kael's transformation from a dedicated Marktracker to a champion of justice and freedom offers a compelling narrative arc. The exploration of the world of Inkoria through the eyes of a conflicted protagonist allows for an engaging exploration of themes such as loyalty, identity, and the consequences of wielding power.</p>
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12Z"/></svg>
+            Back to top
+          </button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    <script id="__config" type="application/json">{"base": "../..", "features": ["navigation.footer", "navigation.path", "navigation.top", "navigation.tabs"], "search": "../../assets/javascripts/workers/search.74e28a9f.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.220ee61c.min.js"></script>
+      
+    
+  <script>document$.subscribe(() => {const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});})</script></body>
+</html>
