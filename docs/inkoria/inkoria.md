@@ -1,18 +1,11 @@
-# Inkoria - The Land of Living Runes
+# Inkoria: The Land of Living Runes
 
 - [Locations](#locations)
   - [Sandhaven](#sandhaven)
   - [Obsidian Veil](#obsidian-veil)
   - [White Citadel](#white-citadel)
   - [Ironhold](#ironhold)
-  - [Lumenwood Grove](#lumenwood-grove)
-  - [Virendale](#virendale)
-  - [The Shatterpeaks](#the-shatterpeaks)
 - [Magic](#magic)
-  - [System](#system)
-    - [Currency](#currency)
-    - [Generation](#generation)
-    - [Harvesting](#harvesting)
   - [Rules of Magic](#rules-of-magic)
 - [Faith](#faith)
 - [Deities](#deities)
@@ -69,152 +62,42 @@ Many brave or foolhardy explorers have attempted to penetrate the Shatterpeaks, 
 
 In Inkoria, magic is a rare and forbidden art. The practice of spellcasting is strictly prohibited, and those who possess magical abilities are considered dangerous and are actively hunted down. The ruling authorities have established an oppressive regime, seeking to eliminate any trace of magic from society.
 
+Accessing magical powers requires intense study, discipline, and a natural affinity for the arcane. Only a select few individuals, known as "whisperers," have the potential to become spellcasters. These individuals possess an innate connection to the mystical energies of the world but must keep their abilities hidden to avoid persecution.
+
 The government, fearing the potential chaos and disruption that magic may bring, has imposed severe penalties for anyone caught practicing or even harboring magical knowledge. Specialized units, known as the "Enforcers," have been formed to track down and capture spellcasters. These Enforcers are highly trained and employ various means to detect and suppress magical activity.
 
 To survive in Inkoria, spellcasters must operate in secrecy, forming hidden societies or joining clandestine organizations that aim to protect and preserve magical knowledge. They develop covert methods of communication and share their abilities and teachings discreetly, all while constantly evading the watchful eyes of the authorities.
+
+Despite the dangers and restrictions, some individuals are driven by their affinity for magic and the belief in its potential to bring about change. They become rebels, resisting the oppressive regime and fighting for the freedom to practice magic openly. These rebels often find themselves in a constant battle for survival, hiding in the shadows while attempting to overthrow the ruling order and restore the rightful place of magic in society.
 
 In Inkoria, the absence of magic is pervasive, leaving the general populace unaware of its existence and the possibilities it holds. However, whispers of ancient texts, hidden artifacts, and legendary figures who wielded immense magical power still circulate among those who dare to seek the truth. The search for magic becomes a dangerous and clandestine quest, filled with treacherous journeys, secret alliances, and the constant threat of betrayal.
 
 Overall, Inkoria portrays a bleak and oppressive society where the pursuit of magic is met with persecution and fear. Spellcasters are hunted down and forced to operate in secrecy, while the general populace remains oblivious to the potential wonders that magic can bring.
 
-### System
-
-In the world of Inkoria, the source of all magic is a mystical, mineral-like substance known as Essentia. There are six types of Essentia, each associated with a particular element and possessing a unique color
-
-Verdantium (Wood - Green)
-
-Manifests during vibrant storms in ancient, untouched forests. Harvesters, known as Greenfinders, brave the tempests to gather the Verdantium that falls like hail, embedded in the fallen leaves and branches.
-
-Rubicite (Fire - Red)
-
-Born from the great volcanic eruptions or wildfires, creating fiery storms. The Ashseekers don these storms, gathering Rubicite from the ashes once the flame subsides.
-
-Terraglaze (Earth - Brown)
-
-Unearthed after the ground-shaking storms caused by earthquakes or landslides. Earthcutters venture into the destabilized terrain, retrieving Terraglaze from the fractured earth.
-
-Argentscale (Metal - Silver)
-
-Formed during metallic storms within the deep mines or caverns. Miners, or Silvergraspers, find Argentscale clinging to the rock walls after these storms.
-
-Azurite (Water - Blue)
-
-Found glittering like sea glass among the pebbles on riverbanks or beaches after aquatic storms. Collectors, known as Wavetreaders, scavenge for Azurite washed up by the tide.
-
-Grisen (Inert - Gray)
-
-Scattered around as dull-looking pebbles following the rare and uncanny storms, tied to solar and lunar eclipses. Eclipsers, those with the thankless job, gather the seemingly ordinary Grisen stones in these special events.
-
-#### Currency
-
-In their raw form, each Essentia type can be used as a form of currency, their value determined by their rarity and size.
-
-Dust, the smallest particles, are commonly used by the poor and for minor transactions.
-Chips, a bit larger, are the most common currency form, used in everyday transactions.
-Shards and slabs, larger and more rare, are primarily used for significant purchases, hoarding wealth, or as offerings to the elite.
-Magical Use
-
-When processed, the Essentia can be used to create magical inks. These inks, when used to draw symbols or tattoo the skin, can imbue an individual with various magical abilities or effects. The type of Essentia used in the ink determines the kind of power imbued - Verdantium might promote growth or healing, Rubicite could command fire, and so on.
-
-Not everyone in Inkoria can utilize the power of Essentia. This ability is limited to a select few, the 'Inked', often restricted by factors such as prestige, social status, heredity, or genetics. These Inked individuals, bearing the intricate tattoos of Essentia ink, are both revered and feared, making magic a rare and highly-regulated practice in Inkoria.
-
-#### Generation
-
-The formation of Essentia is closely tied to the elemental occurrences or natural phenomena in Inkoria.
-
-Verdantium
-
-These green stones are formed during storms that arise in the ancient, undisturbed forests of Inkoria. The violent winds and the force of nature at work during these tempests cause a strange transmutation in the leaves and branches, changing them into the Verdantium stones.
-
-Rubicite
-
-The fiery storms created from volcanic eruptions and raging wildfires cause a mysterious alchemical change in the ashes left behind, forming Rubicite.
-
-Terraglaze
-
-When seismic activities, like earthquakes and landslides, happen, they disrupt the earth and cause ground-shaking storms. As the dust settles, pieces of earth and rock have transmuted into Terraglaze.
-
-Argentscale
-
-The metallic storms that whip through the deepest mines and caverns leave behind Argentscale, seemingly coalescing from the disturbed minerals and metals inside the earth.
-
-Azurite
-
-During the aquatic storms that rage across the sea or great rivers, some of the water transforms into Azurite, a process still unexplained by the scholars of Inkoria.
-
-Grisen
-
-The inert Essentia, Grisen, is formed during solar and lunar eclipses. The alignment of celestial bodies causes a temporary distortion in reality that results in the creation of Grisen stones.
-
-#### Harvesting
-
-Essentia harvesters, given various names depending on the type of Essentia they collect, must demonstrate courage and determination to face these elemental storms. Each harvesting process is unique, and the methods used vary greatly
-
-Verdantium
-
-Greenfinders use special tools, often made from bone and wood, to extract Verdantium stones from the broken leaves and branches without causing them to shatter.
-
-Rubicite
-
-Ashseekers, using long, heat-resistant tongs, collect Rubicite from the still-smoldering remains of firestorms. It's a risky profession, often performed while wearing protective clothing to ward off the heat and fumes.
-
-Terraglaze
-
-Earthcutters must navigate unstable terrain after an earth-shaking storm. They use digging tools and careful handiwork to extract Terraglaze from the fractured earth.
-
-Argentscale
-
-Silvergraspers are often miners equipped with hammers and chisels, carefully chipping away Argentscale from the rock walls while ensuring not to cause a cave-in.
-
-Azurite
-
-Wavetreaders walk the shores after an aquatic storm, armed with scoop nets and sifting pans, to collect the water-transformed Azurite.
-
-Grisen
-
-Eclipsers, using simple collection bags, gather the Grisen stones during the rare solar and lunar eclipses. Their job is simpler, as Grisen merely lies scattered around after these special events.
-
 ### Rules of Magic 
 
 In the world of Inkoria, the art of spellcasting comes with certain rules and limitations that govern its practice. These rules shape the boundaries and consequences of magic, ensuring that its power is not wielded recklessly.
 
-1. **Fatigue and Rest**
+1. **Fatigue and Rest**: Weaving spells consumes the Mage's energy and vitality. Extensive spellcasting without proper rest can lead to physical consequences such as sickness, extreme fatigue, fainting, or even death. Mages must listen to their bodies and take care to replenish their strength.
+2. **Resurrection**: Bringing the dead back to life is a complex and challenging endeavor. It requires intricate spells and the involvement of a deity. Only under specific circumstances, with the deity's blessing and guidance, can a deceased individual be permanently revived.
+3. **Complex Spells and Time**: Weaving powerful and intricate spells takes time and meticulous preparation. For spells that affect large areas or structures, a mage must create a network of carefully crafted Glyphs both inside and around the intended target. This process demands patience, precision, and ample time for the weaving to be successful.
+4. **Temporary Creations**: Mages have the ability to conjure inanimate objects out of thin air. However, these magical creations are typically temporary, fading away after a few minutes unless sustained by a significant expenditure of the mage's energy.
+5. **Black Rock and White Rock**: A unique metal alloy called Black Rock possesses the ability to block the flow of magic and impede spellcasting. It acts as a barrier, preventing spells from manifesting or disrupting their effects. Conversely, White Rock is capable of storing and containing magical energy, making it a valuable resource for mages seeking to amplify their powers.
+6. **Physical Cost and Spell Effects**: The physical toll of weaving a spell is directly proportional to the magnitude of its effects on reality. Experienced mages can create more effective glyphs and manipulate the weave with greater efficiency. While spells like transformations may be challenging but achievable, more extraordinary feats such as levitating mountains or resurrecting the dead may require the collaboration of multiple mages, the use of White Rock, or carry the risk of severe consequences, even death.
+7. **Blood Magic**: Weaving spells with the use of blood is a practice that carries inherent risks. Mages must approach it with caution, understanding the potential consequences and ensuring they maintain control over the magic they unleash.
 
-Weaving spells consumes the Mage's energy and vitality. Extensive spellcasting without proper rest can lead to physical consequences such as sickness, extreme fatigue, fainting, or even death. Mages must listen to their bodies and take care to replenish their strength.
-
-2. **Resurrection**
-
-Bringing the dead back to life is a complex and challenging endeavor. It requires intricate spells and the involvement of a deity. Only under specific circumstances, with the deity's blessing and guidance, can a deceased individual be permanently revived.
-
-3. **Complex Spells and Time**
-
-Weaving powerful and intricate spells takes time and meticulous preparation. For spells that affect large areas or structures, a mage must create a network of carefully crafted Glyphs both inside and around the intended target. This process demands patience, precision, and ample time for the weaving to be successful.
-
-4. **Temporary Creations**
-
-Mages have the ability to conjure inanimate objects out of thin air. However, these magical creations are typically temporary, fading away after a few minutes unless sustained by a significant expenditure of the mage's energy.
 
 ## Faith
 
-Lightbringers
+Lightbringers: These clerics draw their power from the gods associated with light, illumination, and purity. They are the beacons of hope in the darkness, wielding radiant magic to dispel shadows and bring enlightenment to the oppressed. Lightbringers inspire others with their unwavering faith and provide guidance and solace to those who have lost their way.
 
-These clerics draw their power from the gods associated with light, illumination, and purity. They are the beacons of hope in the darkness, wielding radiant magic to dispel shadows and bring enlightenment to the oppressed. Lightbringers inspire others with their unwavering faith and provide guidance and solace to those who have lost their way.
+Shadowseekers: These clerics walk a more mysterious and enigmatic path, attuned to the gods associated with darkness, secrecy, and subterfuge. They are adept at navigating the hidden realms and gathering information from the shadows. Shadowseekers use their powers to protect the innocent, expose corruption, and unravel the secrets that shroud Inkoria's dark underbelly.
 
-Shadowseekers
+Lifekeepers: The Lifekeepers draw their strength from the gods associated with nature, healing, and vitality. They are dedicated healers, both in body and spirit, using their divine magic to mend wounds, cure ailments, and bring life to barren places. Lifekeepers provide care and compassion to the downtrodden, bringing hope and renewal to a world plagued by suffering.
 
-These clerics walk a more mysterious and enigmatic path, attuned to the gods associated with darkness, secrecy, and subterfuge. They are adept at navigating the hidden realms and gathering information from the shadows. Shadowseekers use their powers to protect the innocent, expose corruption, and unravel the secrets that shroud Inkoria's dark underbelly.
+Stormcallers: These clerics are connected to the gods associated with storms, weather, and elemental forces. They command the powers of lightning, thunder, and wind, using them to protect the weak and challenge the oppressive rule. Stormcallers are fierce and passionate, bringing the wrath of nature upon those who abuse their power.
 
-Lifekeepers
-
-The Lifekeepers draw their strength from the gods associated with nature, healing, and vitality. They are dedicated healers, both in body and spirit, using their divine magic to mend wounds, cure ailments, and bring life to barren places. Lifekeepers provide care and compassion to the downtrodden, bringing hope and renewal to a world plagued by suffering.
-
-Stormcallers
-
-These clerics are connected to the gods associated with storms, weather, and elemental forces. They command the powers of lightning, thunder, and wind, using them to protect the weak and challenge the oppressive rule. Stormcallers are fierce and passionate, bringing the wrath of nature upon those who abuse their power.
-
-Fateweavers
-
-The clerics who embody the aspect of Fateweavers are attuned to the gods associated with destiny, time, and prophecy. They possess the ability to glimpse the threads of fate and shape the outcomes of events. Fateweavers serve as guardians of balance, ensuring that the true path is followed and that injustice is met with consequences.
+Fateweavers: The clerics who embody the aspect of Fateweavers are attuned to the gods associated with destiny, time, and prophecy. They possess the ability to glimpse the threads of fate and shape the outcomes of events. Fateweavers serve as guardians of balance, ensuring that the true path is followed and that injustice is met with consequences.
 
 ## Deities
 
@@ -241,3 +124,5 @@ In direct opposition to Aeshara, Vexar seeks to sow discord, undermine carefully
 Vexar's worshipers revel in unpredictability and thrive in environments of chaos. They may employ deception, trickery, and manipulation to further their goals, constantly seeking to upset the balance and disrupt the well-laid plans of others. They believe that true liberation can only be achieved by dismantling the systems that confine and restrict individual potential.
 
 In conflicts between the followers of Aeshara and Vexar, there would be an eternal struggle between order and chaos, strategy and spontaneity, and the belief in calculated plans versus the belief in the power of random chance. The clash between these deities would reflect a cosmic battle between those who seek to maintain stability and those who thrive on disruption and the constant reshaping of the world.
+
+
