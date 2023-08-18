@@ -1,5 +1,0 @@
-- caderneta predial
-- Certidao permanente
-- licensa utilização
-- certificado energetico 
-- plantas da casa
