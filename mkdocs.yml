@@ -2,7 +2,7 @@ site_name: My Adventures
 site_url: https://jonasmcferreira.github.io/adventures/
 
 nav:
-  - Phandelver:
+  - Mines of Phandelver:
     - Characters: phandelver/characters.md
     - Day 0: phandelver/00.md
     - Day 1: phandelver/01.md
