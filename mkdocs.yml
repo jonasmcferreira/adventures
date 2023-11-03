@@ -12,6 +12,9 @@ nav:
     - Day 5: phandelver/05.md
     - Day 6: phandelver/06.md
     - Day 7: phandelver/07.md
+  - Dungeons of Drakkenheim:
+    - Characters: drakkenheim/characters.md
+    - Day 0: drakkenheim/00.md
 
 theme:
   name: material
