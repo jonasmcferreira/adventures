@@ -2,6 +2,8 @@
 
 ## Lord Eldrin Blackwood :material-shield-sword:
 
+![page break](../images/eldrin-blackwood.png){ width="300" }
+
 Eldrin's childhood was steeped in the traditions of nobility and the high expectations of his father, Lord Alistair Blackwood. Lord Alistair was a close advisor to the royal family of Drakkenheim and a staunch upholder of law and order. His relationship with Eldrin was a complex blend of stern mentorship and paternal concern. Eldrin was groomed to follow in his father’s footsteps, being educated in the political, military, and social intricacies of noble life. The unyielding expectations from his father to uphold the family honor and continue the Blackwood lineage often weighed heavily upon Eldrin's shoulders. Yet, the respect and admiration Eldrin held for his father compelled him to strive toward these expectations.
 
 His mother, Lady Marianne, was his solace amidst the stern world of nobility. Lady Marianne was a kind-hearted woman with a love for arts and literature. She encouraged Eldrin to explore the world beyond the strict boundaries of nobility, nurturing his curious and imaginative side. Her gentle ways provided a balance to the stern discipline imparted by his father.
