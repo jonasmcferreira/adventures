@@ -24,6 +24,8 @@ Despite the awe-inspiring allure of this newfound power, Eldrin chose to keep it
 
 Yet, the potential of this arcane path to restore his family's honor and unravel the royal secret was too promising to ignore. Eldrin seeks discreet guidance from the Amethyst Academy, under the guise of exploring magical means to protect and restore Drakkenheim.  His dual life as a cleric of order and a clandestine sorcerer became a delicate dance between the structured world of his past and the boundless realm of arcane possibilities.
 
+### Physical Description
+
 Eldrin Blackwood is a figure of noble bearing, standing at a height of 6 feet with a well-maintained physique honed by years of martial training. His skin is fair and unblemished, a testament to his meticulous grooming and the sheltered life of nobility. His long, raven-black hair is usually tied back neatly to keep it away from his face, revealing a high forehead and sharp, aristocratic features.
 
 His eyes are a piercing blue, reflecting the depth of his resolve and the enigmatic blend of divine and arcane energies that dwell within him. They sparkle with a curious light, always scanning his surroundings with a mix of scrutiny and fascination.
