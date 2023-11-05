@@ -32,11 +32,17 @@ From a young age, Eldrin was enrolled in the prestigious clerical institution kn
 
 His clerical training also entailed rigorous physical drills to hone his combat skills, as a cleric of order was expected to be a bulwark against chaos and a guardian of the societal structure. These years of disciplined training under the vigilant eye of High Cleric Bartholomew forged a strong, dutiful personality within Eldrin, echoing his father’s teachings of upholding the Blackwood legacy of loyalty, honor, and duty.
 
-The fall of the meteor on Drakkenheim was a cataclysmic event that shattered Eldrin's world. The Blackwood estate in the city was obliterated, claiming the lives of both Lord Alistair and Lady Marianne. This tragedy wasn’t just a personal loss for Eldrin, but also a grave threat to the legacy of the Blackwoods. With no heir to carry forward the family's lineage and uphold its noble status,the name of Blackwood faced the threat of fading into oblivion. This crisis weighed heavily on Eldrin, igniting a fervent resolve to reclaim and restore his family's honor and position in Drakkenheim.
+The fall of the meteor on Drakkenheim was a cataclysmic event that shattered Eldrin's world. The Blackwood estate in the city was obliterated, claiming the lives of both Lord Alistair and Lady Marianne. This tragedy wasn’t just a personal loss for Eldrin, but also a grave threat to the legacy of the Blackwoods. With no heir to carry forward the family's lineage and uphold its noble status, the name of Blackwood faced the threat of fading into oblivion. This crisis weighed heavily on Eldrin, igniting a fervent resolve to reclaim and restore his family's honor and position in Drakkenheim.
 
-Amidst this crisis, whispers of an ancient secret started surfacing. It was rumored that the Blackwoods were privy to a royal secret that could potentially alter the power dynamics within the house von Drakken. This secret was believed to be known only to Lord Alistair and a few within the royal circle. With his father's demise, the onus of uncovering and wielding this secret fell upon Eldrin. The secret was said to be a lever of power or leverage over the royalty, a clandestine truth that, if revealed, could significantly benefit the Blackwood family, reinstating their position within the royal court and possibly even beyond.
+The Blackwoods had always aligned with Mannfred during the Civil War, valuing the preservation of the established order that Mannfred represented. When the war erupted, Eldrin found himself amidst the turmoil, his loyalties tied to the forces supporting Mannfred. He served as a military cleric, offering his healing and strategic expertise to the cause he believed would restore order to the land.
 
-Uncle Eadric, who was believed to have survived the calamity, might be the only other person who might have knowledge about this royal secret. However, his whereabouts were unknown since he lived in a part of the city now ravaged by the meteor's impact.
+In the immediate aftermath of the meteorite's fall and during the subsequent civil war, Eldrin delved deeper into his clerical training, the structured teachings providing a semblance of order amidst the chaos that reigned outside the walls of The Sanctum of Order. His dedication to his training was a beacon of hope amidst the uncertainty, a means to prepare himself for the monumental task of restoring his family’s legacy.
+
+Years later, whispers of an ancient secret started surfacing. It was rumored that the Blackwoods were privy to a royal secret that could potentially alter the power dynamics within the house von Drakken. This secret was believed to be known only to Lord Alistair and a few within the royal circle. With his father's demise, the onus of uncovering and wielding this secret fell upon Eldrin. The secret was said to be a lever of power or leverage over the royalty, a clandestine truth that, if revealed, could significantly benefit the Blackwood family, reinstating their position within the royal court and possibly even beyond.
+
+Uncle Eadric, who survived the calamity, was the only other person who had knowledge about this royal secret. In his deathbed he revealed a shattering truth to Eldrin. His sister, Evangeline, was the fruit of a clandestine union between the head of the von Kessel family and his mother, Lady Marianne. This revelation was not only a bittersweet sting of the past but also a flicker of hope in the gloomy halls of Blackwood's legacy. There might still be proof of this royal connection within the old estates of Drakkenheim, yet the perilous journey to uncover this truth lay ahead, amidst the ruins that now veiled the city in sorrow and mystery.
+
+Uncle Eadric urged Eldrin to venture into the heart of Drakkenheim to uncover the remnants of this royal liaison, possibly ensconced within the old estates where the whispers of bygone days might still linger. The quest for truth and the desire to restore the honor of House Blackwood beckoned Eldrin towards the haunting echoes of Drakkenheim’s past.
 
 The catastrophe that struck Drakkenheim brought a tide of change in Eldrin's life. The tragedy of losing his parents was not only a personal loss but a loss of the structured world he had always known. Amidst the ruins of his former life, Eldrin began to feel an unexplainable stirring within his soul, a whisper of power that beckoned him towards a path less trodden by the nobles of Blackwood lineage.
 
@@ -44,5 +50,27 @@ The catastrophe that struck Drakkenheim brought a tide of change in Eldrin's lif
 
 Despite the awe-inspiring allure of this newfound power, Eldrin chose to keep it a secret. The world of arcane magic was often viewed with skepticism and fear amongst the nobility, and the disclosure of his sorcerous tendencies could jeopardize his family's already precarious standing. Moreover, the principles of order and tradition ingrained in him during his clerical training resonated with a voice of caution against the unpredictable realm of arcane magic.
 
-Yet, the potential of this arcane path to restore his family's honor and unravel the royal secret was too promising to ignore. Eldrin seeks discreet guidance from the Amethyst Academy, under the guise of exploring magical means to protect and restore Drakkenheim.  His dual life as a cleric of order and a clandestine sorcerer became a delicate dance between the structured world of his past and the boundless realm of arcane possibilities.
+Yet, the potential of this arcane path to restore his family's honor and unravel the royal secret was too promising to ignore. Eldrin seeks discreet guidance from the Amethyst Academy, under the guise of exploring magical means to protect and restore Drakkenheim. His dual life as a cleric of order and a clandestine sorcerer became a delicate dance between the structured world of his past and the boundless realm of arcane possibilities.
 
+### Faction Sentiments
+
+#### Amethyst Academy
+
+- Eldrin holds a guarded respect for the Amethyst Academy, valuing their knowledge but wary of their neutrality, especially in the face of Drakkenheim’s dire straits.
+  
+#### Followers of the Falling Fire
+
+- He views them with suspicion and concern, wary of their extreme fascination with the meteorite and its potentially dangerous implications.
+
+#### Hooded Lanterns 
+
+- Eldrin sees them as a necessary force trying to restore order, aligning with his own values, yet remains cautious of their limitations and agenda.
+- The Blackwood family has secretly supported financially the Hooded Lanterns in the past
+
+#### Knights of the Silver Order
+
+- He holds a strong affinity for the Knights, perhaps even idolizing their valor and dedication to order and justice.
+
+#### Queen’s Men
+
+- Eldrin despises the Queen’s Men for their exploitative nature and their self-serving pursuits amidst the city’s suffering.
