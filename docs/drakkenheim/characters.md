@@ -4,7 +4,7 @@
 
 ### Physical Description
 
-![page break](../images/eldrin-blackwood.png){ width="300" }
+![page break](../images/blackwood-crest.png){ width="300" }
 
 Eldrin Blackwood is a figure of noble bearing, standing at a height of 6 feet with a well-maintained physique honed by years of martial training. His skin is fair and unblemished, a testament to his meticulous grooming and the sheltered life of nobility. His long, raven-black hair is usually tied back neatly to keep it away from his face, revealing a high forehead and sharp, aristocratic features.
 
@@ -15,6 +15,8 @@ When in the confines of noble society, Eldrin is seen adorned in rich fabrics ta
 In the field, Eldrin dons a suit of full plate armor, polished to a mirror shine that catches the light with a gleam that's almost ethereal. The armor is well-crafted, with the Blackwood crest engraved over the heart and delicate, arcane symbols etched discreetly along the inner linings, a silent nod to his clandestine sorcerous journey. A cloak of deep blue, the color of the Blackwood house, flows from his shoulders, billowing softly as he moves through the ruins of Drakkenheim.
 
 His demeanor is a blend of noble aloofness and disciplined calm, bearing the weight of his family's legacy with a quiet, dignified resolve. Each movement is measured and precise, reflecting the discipline instilled in him from his clerical training. Yet, there’s a spark of rebellion in his eyes, a flicker of the arcane fire that burns within, ready to forge a new destiny amidst the ashes of the old.
+
+![page break](../images/eldrin-blackwood.png){ width="300" }
 
 ### Backstory
 
