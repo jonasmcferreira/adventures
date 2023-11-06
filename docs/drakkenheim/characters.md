@@ -58,21 +58,75 @@ Yet, the potential of this arcane path to restore his family's honor and unravel
 
 #### Amethyst Academy
 
-- Eldrin holds a guarded respect for the Amethyst Academy, valuing their knowledge but wary of their neutrality, especially in the face of Drakkenheim’s dire straits.
+    "The Amethyst Academy holds the key to arcane secrets, but in their quest for knowledge, they often forget the weight of power."
+    "A tome from the Academy is worth a kingdom’s ransom, but the price of their power is a currency we're yet to comprehend."
+    "Their spells are woven with the threads of the cosmos, yet sometimes I wonder if they ever consider the fabric they might unravel."
+
+Eldrin holds a guarded respect for the Amethyst Academy, valuing their knowledge but wary of their neutrality, especially in the face of Drakkenheim’s dire straits.
   
 #### Followers of the Falling Fire
 
-- He views them with suspicion and concern, wary of their extreme fascination with the meteorite and its potentially dangerous implications.
+    "Beware the zeal of the Falling Fire's followers; for they dance too close to the flames that could consume us all."
+    "They gaze upon the sky's scar with hope, but I see the shadow it casts upon their souls."
+    "Their devotion to the delirium's glow is as fervent as it is folly; for such fire is not meant to warm but to consume."
 
-#### Hooded Lanterns 
+He views them with suspicion and concern, wary of their extreme fascination with the meteorite and its potentially dangerous implications.
 
-- Eldrin sees them as a necessary force trying to restore order, aligning with his own values, yet remains cautious of their limitations and agenda.
-- The Blackwood family has secretly supported financially the Hooded Lanterns in the past
+#### Hooded Lanterns
+
+    "The Hooded Lanterns are the flickering light in Drakkenheim’s darkness, though even the brightest flame can cast troubling shadows."
+    "We lend our coin to the Hooded Lanterns not for charity, but for the salvation of order within these walls."
+    "The Hooded Lanterns march on with unwavering courage, but even the most disciplined soldier's flame can flicker in the chaos."
+    "In the murk of this city, the Lanterns' light guides our steps, yet one must question if they lead us to dawn or into the depths of dusk."
+
+Eldrin sees them as a necessary force trying to restore order, aligning with his own values, yet remains cautious of their limitations and agenda.
+
+The Blackwood family has secretly supported financially the Hooded Lanterns in the past
 
 #### Knights of the Silver Order
 
-- He holds a strong affinity for the Knights, perhaps even idolizing their valor and dedication to order and justice.
+    "In the steely resolve of the Silver Order, I see the reflection of our own house's legacy – unyielding and resolute."
+    "The Knights' armor shines not from polish, but from the valor that burns within them, a beacon against the encroaching dark."
+    "Clad in their conviction, the Knights stand as a bulwark; in their reflection, we must see the strength to endure and the wisdom to overcome."
+
+Eldrin holds a strong affinity for the Knights, perhaps even idolizing their valor and dedication to order and justice.
 
 #### Queen’s Men
 
-- Eldrin despises the Queen’s Men for their exploitative nature and their self-serving pursuits amidst the city’s suffering.
+    "The Queen’s Men are like carrion birds, preying upon the city's carcass for their own gain. Their honor is as tarnished as the ruins they rifle through."
+    "They dress in finery and speak of fealty, but strip away the veneer, and you'll find nothing but greed's grim grin."
+    "In the Queen’s Men, you will find ambition's edge sharpened, but often pointed at the heart of the realm they claim to serve."
+
+Eldrin despises the Queen’s Men for their exploitative nature and their self-serving pursuits amidst the city’s suffering.
+
+## The Leonin
+
+### Backstory
+
+### Faction Sentiments
+
+#### Amethyst Academy
+  
+#### Followers of the Falling Fire
+
+#### Hooded Lanterns 
+
+#### Knights of the Silver Order
+
+#### Queen’s Men
+
+## The Druid Turok
+
+### Backstory
+
+### Faction Sentiments
+
+#### Amethyst Academy
+  
+#### Followers of the Falling Fire
+
+#### Hooded Lanterns 
+
+#### Knights of the Silver Order
+
+#### Queen’s Men
