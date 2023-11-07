@@ -134,21 +134,32 @@ For fifteen years, Kaelor has wandered the mist-entwined ruins, avoiding the bru
 
 #### Amethyst Academy
 
+    - "Amethyst wizards have big magic. I watch careful. Power is like fire — can warm or burn."
+
 Kaelor recognize them as powerful being capable of shifting the balance of societies. While reported neutral, he knows that people with power as tendency to use it. They can be very good allies, but one should interact with cautious. 
   
 #### Followers of the Falling Fire
+
+    - "Falling Fire folks, they dance with danger. I keep eyes open, stay away if I can."
 
 Delusional and crazy, they live in a dark and dangerous illusion. Avoiding them is the best path. Interacting with them should only be done, when no other path exists.
 
 #### Hooded Lanterns 
 
+    - "Lanterns fight good. They help us, I help them. That's what pack does."
+
 Kealor recognize the bravery and dedication of this faction to the city that he loves. For many times they have helped him, directly or indirectly, with his fight for survival and personal quest to discover the fate of his family. 
 
 #### Knights of the Silver Order
 
+    - "Silver Order knights strong, like pride of lions. I fight with them. But no chains for me."
+
 Good warriors with noble agenda, they will have the support of Kaelor, if no risk is associated to it. However, he is not convinced by all theirs believes… Not just yet.
 
 #### Queen’s Men
+
+    - "Queens's men are like bad meat — rotten. Drakkenheim better without them."
+
 
 He hates them, they are disgusting being that feed in a despair of lost souls and a broken city. Drakkenheim will be better without them. 
 
