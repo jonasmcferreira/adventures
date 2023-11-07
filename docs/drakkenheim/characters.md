@@ -135,7 +135,7 @@ Eldrin despises the Queen’s Men for their exploitative nature and their self-s
 
 #### Queen’s Men
 
-## The Sorcerer
+## The Aberrant Mind Sorcerer
 
 ### Backstory
 
