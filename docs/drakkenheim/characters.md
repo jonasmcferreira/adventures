@@ -4,10 +4,7 @@
 
 ### Physical Description
 
-<p float="left">
-  <img src="../images/eldrin-blackwood.png" width="50%" />
-  <img src="../images/blackwood-crest.png" width="50%" />
-</p>
+![page break](../images/eldrin-blackwood.png){ width="300" }
 
 Eldrin Blackwood is a figure of noble bearing, standing at a height of 6 feet with a well-maintained physique honed by years of martial training. His skin is fair and unblemished, a testament to his meticulous grooming and the sheltered life of nobility. His long, raven-black hair is usually tied back neatly to keep it away from his face, revealing a high forehead and sharp, aristocratic features.
 
@@ -20,6 +17,8 @@ In the field, Eldrin dons a suit of full plate armor, polished to a mirror shine
 His demeanor is a blend of noble aloofness and disciplined calm, bearing the weight of his family's legacy with a quiet, dignified resolve. Each movement is measured and precise, reflecting the discipline instilled in him from his clerical training. Yet, there’s a spark of rebellion in his eyes, a flicker of the arcane fire that burns within, ready to forge a new destiny amidst the ashes of the old.
 
 ### Backstory
+
+![page break](../images/blackwood-crest.png){ width="300" }
 
 Eldrin's childhood was steeped in the traditions of nobility and the high expectations of his father, Lord Alistair Blackwood. Lord Alistair was a close advisor to the royal family of Drakkenheim House von Drakken, and a staunch upholder of law and order. His relationship with Eldrin was a complex blend of stern mentorship and paternal concern. Eldrin was groomed to follow in his father’s footsteps, being educated in the political, military, and social intricacies of noble life. The unyielding expectations from his father to uphold the family honor and continue the Blackwood lineage often weighed heavily upon Eldrin's shoulders. Yet, the respect and admiration Eldrin held for his father compelled him to strive toward these expectations.
 
