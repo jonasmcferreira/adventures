@@ -130,3 +130,19 @@ Eldrin despises the Queen’s Men for their exploitative nature and their self-s
 #### Knights of the Silver Order
 
 #### Queen’s Men
+
+## The Sorcerer
+
+### Backstory
+
+### Faction Sentiments
+
+#### Amethyst Academy
+  
+#### Followers of the Falling Fire
+
+#### Hooded Lanterns 
+
+#### Knights of the Silver Order
+
+#### Queen’s Men
