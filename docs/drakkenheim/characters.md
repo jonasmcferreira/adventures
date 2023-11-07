@@ -101,7 +101,7 @@ Eldrin despises the Queen’s Men for their exploitative nature and their self-s
 
 ## Kaelor Quickbreath
 
-![page break](../images/kaelor.png){ width="300" }
+![page break](../images/kaelor.jpeg){ width="300" }
 
 ### Physical description
 
