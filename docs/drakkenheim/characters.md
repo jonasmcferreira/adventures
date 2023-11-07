@@ -99,23 +99,61 @@ Eldrin holds a strong affinity for the Knights, perhaps even idolizing their val
 
 Eldrin despises the Queen’s Men for their exploitative nature and their self-serving pursuits amidst the city’s suffering.
 
-## The Leonin
+## Kaelor Quickbreath
 
-![page break](../images/leonin.png){ width="300" }
+![page break](../images/kaelor.png){ width="300" }
+
+### Physical description
+
+Kaelor Quickbreath, the leonin of Drakkenheim, commands a presence that is at once both regal and formidable. Standing tall at over six feet, with a robust build that weighs in at 225 pounds, he is the epitome of leonin strength and resilience. His body, etched with scars, tells the tale of countless battles and narrow escapes, each mark a badge of survival in the unforgiving chaos that has consumed his home.
+
+His fur, a sandy hue reminiscent of the sprawling savannas of his ancestors' land, carries the dust and shadows of Drakkenheim's rubble. It speaks to his wanderer's soul, a testament to the life he's led amidst the ruins and the lost dreams he carries. Cloaked in darkness, Kaelor wears a hooded shroud that seems to absorb the light around him, its edges fraying from his constant travels through the city's perilous landscapes.
+
+Underneath the hood, intense blue eyes gleam with an unexpected arcane spark, betraying an inner magic that belies his warrior's exterior. They scan the horizon with a predator's focus, always alert to the dangers that lurk in the city's desolation. His mane, though matted and unkempt from his solitary lifestyle, is streaked with lighter shades that catch the light, adding depth and complexity to his visage.
+
+In his grip, he carries a greataxe, its blade a testament to his martial skill, cared for with a soldier's respect for his weapon. The axe is an extension of his will, a tool for carving a path through the darkness that has enveloped his home. Its handle is wrapped in leather, worn from the countless times Kaelor's calloused hands have swung it in defense of the weak or in challenge to the threats of Drakkenheim.
+
+Dark leather bands encircle his biceps and forearms, serving both as protection and as a silent reminder of the warrior's code he upholds. They complement the sheer physical power of his form, which is always coiled and ready for combat. Kaelor moves with a grace that belies his size, each step a measured tread on the fine line between the vigilant guardian of Drakkenheim's remnants and the solitary hunter in the wilds of a city lost to time and tragedy.
 
 ### Backstory
+
+![page break](../images/segnola.png){ width="300" }
+
+Kaelor Quickbreath's story is one of loss, survival, and the quest for closure in a world torn asunder by cataclysmic forces. Born in the bustling downtown of Drakkenheim, the capital of the Wastemär region, Kaelor spent his cubhood amidst the clamor and vibrancy of the city's grand market. His mother, Sagnola, renowned for her culinary prowess, served as the official cook at the prestigious Von Drakken residence, enchanting the noble palates with her daring flavors. It was in this environment that Kaelor learned the value of work and the spice of life, often accompanying his mother to procure rare ingredients in the vast market.
+
+His father, Xathos, a robust and diligent Leonin, ran a thriving handyman business, capitalizing on his strength and agility to meet the demands of Drakkenheim's noble families. He was the representation of hard work and dedication for young Kaelor, who occasionally was assisting his father. That moments honed his physical capabilities, each task shaping the sinew of his growing frame. And the embodiment of what the warrior he will have to become to survive the future. He father dedicated long hours to his work, meaning he could be present for all the need of the family. A sacrifice that did not gloomed the young Leonin, instead it inspire him to get bigger and stronger. A strong cub could soften the burden a proud old Leonin would have to carry.
+
+Kaelor's world shattered like the city itself when a meteor shower struck Drakkenheim, cloaking what was once familiar in a veil of darkness and spawning unspeakable horrors from the depths of an enigmatic mist. In the ensuing chaos, Kaelor was torn from his family, his mother's warm embrace and father's sturdy shoulder becoming distant memories haunted by the phantom whispers of their voices in the night. Deep into the intricacies of nightmares, was the hope to regain an ounce of life. Behind this terror and destruction, could he find the treasure that only his heart was brave enough to desire? Could these nightmares be more that simple dream of a lost soul? Could it be a vision coming from his new abilities? The magic that grew inside him. Magic born were no magic could ever born. 
+
+For fifteen years, Kaelor has wandered the mist-entwined ruins, avoiding the brutalities of civil strife while seeking signs of his loved ones' fate. His personal odyssey, laden with the weight of unresolved grief and the glimmers of hope that refuse to die with the dawn, continues. Each day, as the sunlight scatters the shadows of the night, Kaelor Quickbreath faces the world anew, a solitary Leonin against the remnants of Drakkenheim, driven by the unyielding desire to reunite with the echoes of his past.
+
 
 ### Faction Sentiments
 
 #### Amethyst Academy
+
+Kaelor recognize them as powerful being capable of shifting the balance of societies. While reported neutral, he knows that people with power as tendency to use it. They can be very good allies, but one should interact with cautious. 
   
 #### Followers of the Falling Fire
 
+Delusional and crazy, they live in a dark and dangerous illusion. Avoiding them is the best path. Interacting with them should only be done, when no other path exists.
+
 #### Hooded Lanterns 
+
+Kealor recognize the bravery and dedication of this faction to the city that he loves. For many times they have helped him, directly or indirectly, with his fight for survival and personal quest to discover the fate of his family. 
 
 #### Knights of the Silver Order
 
+Good warriors with noble agenda, they will have the support of Kaelor, if no risk is associated to it. However, he is not convinced by all theirs believes… Not just yet.
+
 #### Queen’s Men
+
+He hates them, they are disgusting being that feed in a despair of lost souls and a broken city. Drakkenheim will be better without them. 
+
+#### Lord Eldrin Blackwood
+
+As a young cub, Kaelor worked with his father occasionally. His father provided services for most of Drakkenheim’s noble families. Lord Alistair Blackwood was apologist of using Xathos’ services, for innumerous reasons, he was the main source of revenue of Kaelor’s father business. While the young cub never exactly understood what his father exact services range was, every time his helped his father it was just hard physical jobs. During his time working on the Blackwood’s family, he meets a couple of time with young Eldrin. Usually just a simple greeting and never bounding, but this young boy has left a good impression on Kaelor mind. 
+
 
 ## The Druid Turok
 
