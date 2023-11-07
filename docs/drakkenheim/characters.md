@@ -101,6 +101,8 @@ Eldrin despises the Queen’s Men for their exploitative nature and their self-s
 
 ## The Leonin
 
+![page break](../images/leonin.png){ width="300" }
+
 ### Backstory
 
 ### Faction Sentiments
@@ -116,6 +118,8 @@ Eldrin despises the Queen’s Men for their exploitative nature and their self-s
 #### Queen’s Men
 
 ## The Druid Turok
+
+![page break](../images/minotaur.jpeg){ width="300" }
 
 ### Backstory
 
