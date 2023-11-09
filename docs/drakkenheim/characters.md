@@ -1,6 +1,6 @@
 # Characters
 
-## Lord Eldrin Blackwood :material-shield-sword:
+## Lord Eldrin Blackwood :material-shield-sword
 
 ### Physical Description
 
@@ -143,7 +143,7 @@ The Queen's men, scouring for delirium, complicated his endeavors but were not t
 
     - "Amethyst wizards have big magic. I watch careful. Power is like fire — can warm or burn."
 
-Kaelor recognize them as powerful beings capable of shifting the balance of societies. While reported neutral, he knows that people with power as tendency to use it. They can be very good allies, but one should interact with cautious. 
+Kaelor recognize them as powerful beings capable of shifting the balance of societies. While reported neutral, he knows that people with power as tendency to use it. They can be very good allies, but one should interact with cautious.
   
 #### Followers of the Falling Fire
 
@@ -151,7 +151,7 @@ Kaelor recognize them as powerful beings capable of shifting the balance of soci
 
 Delusional and crazy, they live in a dark and dangerous illusion. Avoiding them is the best path. Interacting with them should only be done, when no other path exists.
 
-#### Hooded Lanterns 
+#### Hooded Lanterns
 
     - "Lanterns fight good. They help us, I help them. That's what pack does."
 
@@ -167,12 +167,11 @@ Good warriors with noble agenda, they will have the support of Kaelor, if no ris
 
     - "Queens's men are like bad meat — rotten. Drakkenheim better without them."
 
-
-He hates them, they are disgusting beings that feed from the despair of lost souls and a broken city. Drakkenheim will be better without them. 
+He hates them, they are disgusting beings that feed from the despair of lost souls and a broken city. Drakkenheim will be better without them.
 
 #### Lord Eldrin Blackwood
 
-As a young cub, Kaelor worked with his father occasionally. His father provided services for most of Drakkenheim’s noble families. Sir Alistair Blackwood was apologist of using Xathos’ services, for innumerous reasons, he was the main source of revenue of Kaelor’s father business. During his time working on the Blackwood’s family, he meets a couple of time with young Eldrin. Usually just a simple greeting and never really bounding, but this young boy has left a good impression on Kaelor mind. 
+As a young cub, Kaelor worked with his father occasionally. His father provided services for most of Drakkenheim’s noble families. Sir Alistair Blackwood was apologist of using Xathos’ services, for innumerous reasons, he was the main source of revenue of Kaelor’s father business. During his time working on the Blackwood’s family, he meets a couple of time with young Eldrin. Usually just a simple greeting and never really bounding, but this young boy has left a good impression on Kaelor mind.
 
 ## The Druid Turok
 
@@ -186,7 +185,7 @@ As a young cub, Kaelor worked with his father occasionally. His father provided 
   
 #### Followers of the Falling Fire
 
-#### Hooded Lanterns 
+#### Hooded Lanterns
 
 #### Knights of the Silver Order
 
@@ -196,7 +195,7 @@ As a young cub, Kaelor worked with his father occasionally. His father provided 
 
 ## Physical Description
 
-![](../images/grekson.png)
+![](../images/grekson.png){ width="300" }
 
 Grekson, at first glance, appears no different than a standard vagrant. A bit short for his human stature, he seems even smaller due to his slouched back. His unimpressive physique, possibly a result of malnutrition, blends seamlessly amongst the refugees of Drakkenheim. When he pulls back the tattered hood of his cloak, greasy brown hair cascades to his stubbled chin, cut as if hastily done with a knife. His garments consist of torn cloth wrapped like bandages over his entire body, giving off a leper-like impression, if not for the reddish hue on his face.
 
@@ -241,16 +240,21 @@ Landhelm was the closest Grekson went to Drakkenheim, but a route he took at any
 ### Faction Sentiments
 
 #### Amethyst Academy
+
 As a mageborn not brought to the Amethyst Academy, I approach them with extreme caution, yet their information is unparalleled. My father chose not to inform the Academy about my abilities, and I'm unsure why; but it's too late to change that now.
 
 #### Followers of the Falling Fire
+
 The beliefs of Lucretia Mathias seem naive, assuming such twisted powers are of divine origin. However, their eagerness to explore the crater's edge aligns with my curiosity, allowing me to align with them when convenient.
 
 #### Hooded Lanterns
+
 Despite the apparent loss of the capital city, the efforts of Lord Commander Elias Drexel provide valuable staging grounds for skirmishes. Born in Drakkenheim, the city's fate no longer directly concerns me, but I respect their enduring hope.
 
 #### Knights of the Silver Order
+
 Knight-Captain Theodore Marshal and the Knights of the Silver Order are justified in their attempts to purge the city. However, I fear that ultimately, Theodore Marshal may view me as a threat due to the aberrant nature of my mageborn roots.
 
 #### Queen’s Men
+
 The Queen of Thieves' pragmatism in the midst of chaos is admirable. I aim to stay out of the Queen's Men's sight, as their opportunistic nature could prove problematic.
