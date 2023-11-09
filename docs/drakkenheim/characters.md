@@ -192,18 +192,60 @@ As a young cub, Kaelor worked with his father occasionally. His father provided 
 
 #### Queen’s Men
 
-## The Aberrant Mind Sorcerer
+## Grekson
+
+## Physical Description
+
+![](../images/grekson.png)
+
+Grekson, at first glance, appears no different than a standard vagrant. A bit short for his human stature, he seems even smaller due to his slouched back. His unimpressive physique, possibly a result of malnutrition, blends seamlessly amongst the refugees of Drakkenheim. When he pulls back the tattered hood of his cloak, greasy brown hair cascades to his stubbled chin, cut as if hastily done with a knife. His garments consist of torn cloth wrapped like bandages over his entire body, giving off a leper-like impression, if not for the reddish hue on his face.
+
+Upon closer inspection, the image becomes more complex. The ripped and tattered fabrics, though dirty and stained, are of overall brighter tones. They look scavenged, yet not suited for skulking in shadows. With two daggers on his sash and a mundane crossbow slung on his back, he cuts the silhouette of a survivor.
+
+Meeting his gaze reveals the first peculiarity. It's alarming, as it could suggest he's mageborn without the symbols of the Amethyst Academy. This is explained away as a mark left by the meteor crash 15 years ago, which affected many things, causing him to blink with an odd frequency. In truth, if one could focus on his still pupil, they might see something inside move.
+
+All this is contrasted by his persona as an engaged conversationalist, with a deep timbre and a crooked smile. He is ready and attentive to the stories at the table, not the loudest voice but the one encouraging more from his company. His disarming enthusiasm for drinking, being merry, and venturing out is noticeable.
 
 ### Backstory
+
+![](../images/grek.png)
+
+Grekson has lived in Drakkenheim, though he's unsure if he was born there. His father, Grek, speaks little of their past, only mentioning their life at the foot of the Glimmer Mountains in Caspia. Grekson was near the impact of the meteor 15 years ago, but his memories of that day are fragmented and disjointed, filled with scenes that defy even the realm of magic.
+
+![](../images/melinda.png)
+
+There was a blinding flash that seemed to strip the color from Grekson's eyes. He remembers fragmented shards and a searing pain in his chest when he was knocked to the ground, enveloped in a haunting silence.
+
+As Grekson struggled to rise, he saw his mother, Melinda, approaching the crater, perhaps to help survivors. But it was Grek who grabbed Grekson and ran, clutching him so tightly that his ribs broke. Grekson's memory is a blur of a warping landscape, with people not dying from collapsing buildings but transforming into grotesque abominations. They traveled non-stop until they reached Caspia, but that journey marked the end of Grek's strength and will to move. Grekson considers it a blessing that he couldn't hear anything that day, believing it might be the only reason his sanity remains intact.
+
+![](../images/caspia.png)
+
+From then on, Grek and Grekson lived a simple life off the land, as Grek couldn't bear more. When Grekson began manifesting arcane talents, Grek refused to inform the Amethyst Academy, perhaps because Grekson was his last family member or out of fear that his abilities might be linked to the meteor. They built a quiet relationship, marked by mutual respect in their own ways. Grek, a well-built man, secretly blamed himself for Grekson's stunted growth due to the damaged ribs but encouraged his son to use his abilities discreetly.
+
+As Grekson grew older, he began working along trade routes, promising his father not to head towards Drakkenheim—a promise he did not keep. Despite his slight build, his skill with a crossbow and an uncanny ability to escape sticky situations made him a sought-after protector. His thirst for knowledge and interest in every story transformed him from a sheltered commoner to a charismatic traveler. Yet, Grekson always kept a safe distance from Drakkenheim.
+
+Presently, Grekson conceals his abilities, wary of the factions' interest in mageborn individuals. He wears bandages and old, frayed clothing from the day of the meteor strike, hiding an arcane focus potentially laced with Delirium dust from the impact. As he nears Drakkenheim, he feels his powers intensify, driven by a desire to uncover secrets – whether these are his own desires or those of the entity lurking within him, he's unsure.
+
+A recent incident remains etched in his mind: while escorting a wagon for the Knights of the Silver Order, it was ambushed. Grekson's subtle manipulation caused the attackers to fall asleep, but one, Almir, noticed something amiss. The moment of mutual recognition, right before Grekson eliminated Almir, is haunted by the memory of Almir's horrified question: “What are you?” For now, Grekson is a survivor, ensuring that High Flamekeeper Ophelia Reed's goods reach their destination unimpeded.
+
+
+### Companions
+
+Landhelm was the closest Grekson went to Drakkenheim, but a route he took at any opportunity, slowly building connections with the Knights of the Silver Order. By consistency he became familiar with the efforts of Eldrin Blackwood and Kaelor Quickbreath, they had ambitions within Drakkenheim, these ambitions would prove to be enough. Grekson would assist the Knights of the Silver Order along these trusted companions to Emberwood, the closest point to Drakkenheim
 
 ### Faction Sentiments
 
 #### Amethyst Academy
-  
-#### Followers of the Falling Fire
+As a mageborn not brought to the Amethyst Academy, I approach them with extreme caution, yet their information is unparalleled. My father chose not to inform the Academy about my abilities, and I'm unsure why; but it's too late to change that now.
 
-#### Hooded Lanterns 
+#### Followers of the Falling Fire
+The beliefs of Lucretia Mathias seem naive, assuming such twisted powers are of divine origin. However, their eagerness to explore the crater's edge aligns with my curiosity, allowing me to align with them when convenient.
+
+#### Hooded Lanterns
+Despite the apparent loss of the capital city, the efforts of Lord Commander Elias Drexel provide valuable staging grounds for skirmishes. Born in Drakkenheim, the city's fate no longer directly concerns me, but I respect their enduring hope.
 
 #### Knights of the Silver Order
+Knight-Captain Theodore Marshal and the Knights of the Silver Order are justified in their attempts to purge the city. However, I fear that ultimately, Theodore Marshal may view me as a threat due to the aberrant nature of my mageborn roots.
 
 #### Queen’s Men
+The Queen of Thieves' pragmatism in the midst of chaos is admirable. I aim to stay out of the Queen's Men's sight, as their opportunistic nature could prove problematic.
