@@ -119,16 +119,23 @@ Dark leather bands encircle his biceps and forearms, serving both as protection 
 
 ![page break](../images/segnola.png){ width="300" }
 
-Kaelor Quickbreath's story is one of loss, survival, and the quest for closure in a world torn asunder by cataclysmic forces. Born in the bustling downtown of Drakkenheim, the capital of the Wastemär region, Kaelor spent his cubhood amidst the clamor and vibrancy of the city's grand market. His mother, Sagnola, renowned for her culinary prowess, served as the official cook at the prestigious Von Drakken residence, enchanting the noble palates with her daring flavors. It was in this environment that Kaelor learned the value of work and the spice of life, often accompanying his mother to procure rare ingredients in the vast market.
+Kaelor Quickbreath spent his early years in the heart of Drakkenheim, the bustling capital of Wastemär. His childhood was marked by frequent visits to the vast marketplace alongside his companion Markle, where they reveled in the throngs and marveled at the array of shops. The allure of exotic spices and gastronomic delights was a joy inherited from his revered mother, Lady Sagnola Starwind. As the diligent stewardess of House von Kessel, a role bestowed upon her after her father, Sir Teor Starwind, passed away. Lady Sagnola ascended from a young kitchen cook to a culinary virtuoso, whose innovative dishes won the hearts of many an aristocrat, before step in as administratress of House von Kessel’ resources.
 
 ![page break](../images/xathos.png){ width="300" }
 
-His father, Xathos, a robust and diligent Leonin, ran a thriving handyman business, capitalizing on his strength and agility to meet the demands of Drakkenheim's noble families. He was the representation of hard work and dedication for young Kaelor, who occasionally was assisting his father. That moments honed his physical capabilities, each task shaping the sinew of his growing frame. And the embodiment of what the warrior he will have to become to survive the future. He father dedicated long hours to his work, meaning he could be present for all the need of the family. A sacrifice that did not gloomed the young Leonin, instead it inspire him to get bigger and stronger. A strong cub could soften the burden a proud old Leonin would have to carry.
+While serving the household, Lady Sagnola encountered the elite of Drakkenheim, including the illustrious Xathos Quickbreath, Kaelor's father, whose enterprise catered to the city's nobility. through various demanding tasks requiring formidable strength and agility. Kaelor never quite grasped the full scope of the services offered, but from what he observed, they often entailed demanding physical tasks that demanded sheer strength and nimbleness. He perceived him as a steadfast laborer, enduring grueling hours without grievance. On occasion, Kaelor lent his father aid, thus bolstering his own physical prowess and gaining exposure to the city's high society.
 
-Kaelor's world shattered like the city itself when a meteor shower struck Drakkenheim, cloaking what was once familiar in a veil of darkness and spawning unspeakable horrors from the depths of an enigmatic mist. In the ensuing chaos, Kaelor was torn from his family, his mother's warm embrace and father's sturdy shoulder becoming distant memories haunted by the phantom whispers of their voices in the night. Deep into the intricacies of nightmares, was the hope to regain an ounce of life. Behind this terror and destruction, could he find the treasure that only his heart was brave enough to desire? Could these nightmares be more that simple dream of a lost soul? Could it be a vision coming from his new abilities? The magic that grew inside him. Magic born were no magic could ever born. 
+Kaelor was caught in a dichotomy, proud of his Leonin heritage yet facing the stark loneliness of his kind's scarcity. Leonins were an uncommon sight in Wastemär, leaving Kaelor to navigate life largely in human company. Despite his parents' esteem, the absence of other Leonins within House von Kessel's circle remained a perplexing enigma to him.
 
-For fifteen years, Kaelor has wandered the mist-entwined ruins, avoiding the brutalities of civil strife while seeking signs of his loved ones' fate. His personal odyssey, laden with the weight of unresolved grief and the glimmers of hope that refuse to die with the dawn, continues. Each day, as the sunlight scatters the shadows of the night, Kaelor Quickbreath faces the world anew, a solitary Leonin against the remnants of Drakkenheim, driven by the unyielding desire to reunite with the echoes of his past.
+Disaster struck Drakkenheim fifteen years prior with a devastating meteor shower that wrecked the city and enshrouded it in a sinister, enchanted fog from which emerged unspeakable terrors and grotesque creatures. Amidst this chaos, Kaelor was torn from his family, but not before his mother entrusted him with the safeguarding of her professional emblem, the von Kessel house insignia, urging him to protect it at all costs. Though unsure of its significance, Kaelor vowed to preserve it until he could return it to her. Since the disaster, he's made his home atop the Clocktower, high above the menacing mist, crafting a solitary existence far removed from the outside world, purposely steering clear of the civil war over the von Kessel succession.
 
+During his relentless quest to find his family, Kaelor encountered River, a Tiefling mage from the Amethyst Academy, who offered a deal to aid his survival. In return for delirium, River guaranteed the essentials for his sustenance without him having to abandon Drakkenheim. River, like many Tieflings, was reserved and strictly professional, always honoring her agreements. When River wasn’t nearby, Kaelor resorted to hunting Ratlings, a less formidable quarry than other creatures, which feasted on the city's everlasting deceased.
+
+A decade and a half of relentless search and survival left its indelible mark on Kaelor's psyche, a weight of loneliness so heavy that it seemed to manifest his old friend Markle for companionship—whether as a figment of his mind or not, few would dare address it. The city's dark magic touched him too, igniting uncontrolled, arcane bursts whenever he succumbed to his rage, leaving him to wonder if it was a curse or a perverse blessing from the city's shadows.
+
+Mutations were not uncommon in the haze of Drakkenheim, with many residents undergoing monstrous transformations. But Kaelor had allies too; the Hooded Lanterns, who had saved him on occasion from falling prey to the city's many dangers. While Kaelor offered aid to those still fighting for the city, his assistance was brief; his primary focus remained unraveling his parents' fate.
+
+The Queen's men, scouring for delirium, complicated his endeavors but were not the cause of his relocation to Emberwood Village. His Clocktower refuge was seized by a band of harpies, forcing Kaelor to flee and leave behind many possessions. He vows to one day reclaim his sanctuary, for it houses the remnants of his mother's last charge to him—a mission he is determined not to fail.
 
 ### Faction Sentiments
 
@@ -136,7 +143,7 @@ For fifteen years, Kaelor has wandered the mist-entwined ruins, avoiding the bru
 
     - "Amethyst wizards have big magic. I watch careful. Power is like fire — can warm or burn."
 
-Kaelor recognize them as powerful being capable of shifting the balance of societies. While reported neutral, he knows that people with power as tendency to use it. They can be very good allies, but one should interact with cautious. 
+Kaelor recognize them as powerful beings capable of shifting the balance of societies. While reported neutral, he knows that people with power as tendency to use it. They can be very good allies, but one should interact with cautious. 
   
 #### Followers of the Falling Fire
 
@@ -148,25 +155,24 @@ Delusional and crazy, they live in a dark and dangerous illusion. Avoiding them 
 
     - "Lanterns fight good. They help us, I help them. That's what pack does."
 
-Kealor recognize the bravery and dedication of this faction to the city that he loves. For many times they have helped him, directly or indirectly, with his fight for survival and personal quest to discover the fate of his family. 
+Kaelor recognizes the bravery and dedication of this faction to the city that he loves. For many times they have helped him, directly or indirectly, with his fight for survival and personal quest to discover the fate of his family. He has a certain relationship with Lieutenant Petra Lang, a teenage human, that is responsible for most of the help he received from the Hooded Lanterns.
 
 #### Knights of the Silver Order
 
     - "Silver Order knights strong, like pride of lions. I fight with them. But no chains for me."
 
-Good warriors with noble agenda, they will have the support of Kaelor, if no risk is associated to it. However, he is not convinced by all theirs believes… Not just yet.
+Good warriors with noble agenda, they will have the support of Kaelor, if no risk is associated to it. However, he is not convinced by all theirs believes… Just not yet.
 
 #### Queen’s Men
 
     - "Queens's men are like bad meat — rotten. Drakkenheim better without them."
 
 
-He hates them, they are disgusting being that feed in a despair of lost souls and a broken city. Drakkenheim will be better without them. 
+He hates them, they are disgusting beings that feed from the despair of lost souls and a broken city. Drakkenheim will be better without them. 
 
 #### Lord Eldrin Blackwood
 
-As a young cub, Kaelor worked with his father occasionally. His father provided services for most of Drakkenheim’s noble families. Lord Alistair Blackwood was apologist of using Xathos’ services, for innumerous reasons, he was the main source of revenue of Kaelor’s father business. While the young cub never exactly understood what his father exact services range was, every time his helped his father it was just hard physical jobs. During his time working on the Blackwood’s family, he meets a couple of time with young Eldrin. Usually just a simple greeting and never bounding, but this young boy has left a good impression on Kaelor mind. 
-
+As a young cub, Kaelor worked with his father occasionally. His father provided services for most of Drakkenheim’s noble families. Sir Alistair Blackwood was apologist of using Xathos’ services, for innumerous reasons, he was the main source of revenue of Kaelor’s father business. During his time working on the Blackwood’s family, he meets a couple of time with young Eldrin. Usually just a simple greeting and never really bounding, but this young boy has left a good impression on Kaelor mind. 
 
 ## The Druid Turok
 
