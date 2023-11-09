@@ -208,17 +208,17 @@ All this is contrasted by his persona as an engaged conversationalist, with a de
 
 ### Backstory
 
-![](../images/grek.png)
+![](../images/grek.png){ width="300" }
 
 Grekson has lived in Drakkenheim, though he's unsure if he was born there. His father, Grek, speaks little of their past, only mentioning their life at the foot of the Glimmer Mountains in Caspia. Grekson was near the impact of the meteor 15 years ago, but his memories of that day are fragmented and disjointed, filled with scenes that defy even the realm of magic.
 
-![](../images/melinda.png)
+![](../images/melinda.png){ width="300" }
 
 There was a blinding flash that seemed to strip the color from Grekson's eyes. He remembers fragmented shards and a searing pain in his chest when he was knocked to the ground, enveloped in a haunting silence.
 
 As Grekson struggled to rise, he saw his mother, Melinda, approaching the crater, perhaps to help survivors. But it was Grek who grabbed Grekson and ran, clutching him so tightly that his ribs broke. Grekson's memory is a blur of a warping landscape, with people not dying from collapsing buildings but transforming into grotesque abominations. They traveled non-stop until they reached Caspia, but that journey marked the end of Grek's strength and will to move. Grekson considers it a blessing that he couldn't hear anything that day, believing it might be the only reason his sanity remains intact.
 
-![](../images/caspia.png)
+![](../images/caspia.png){ width="300" }
 
 From then on, Grek and Grekson lived a simple life off the land, as Grek couldn't bear more. When Grekson began manifesting arcane talents, Grek refused to inform the Amethyst Academy, perhaps because Grekson was his last family member or out of fear that his abilities might be linked to the meteor. They built a quiet relationship, marked by mutual respect in their own ways. Grek, a well-built man, secretly blamed himself for Grekson's stunted growth due to the damaged ribs but encouraged his son to use his abilities discreetly.
 
