@@ -2,7 +2,7 @@
 
 ## Orianna :material-guitar-acoustic:
 
-![page break](../images/orianna.png){ width="300" }
+![page break](images/orianna.png){ width="300" }
 
 Orianna is a 30-year-old Tiefling in the prime of her life. Her skin color is pink, her hair is dark purple, and her eyes are red. Standing at a width of only 1.65cm, Orianna has several differences compared to her siblings who have purple skin and much darker hair. However, they share the same eye color and horn shape.
 
@@ -18,7 +18,7 @@ Several years later, Gundram contacted Mortimer with an unusual request. He need
 
 ## Mortimer :material-wizard-hat:
 
-![page break](../images/mortimer.png){ width="300" }
+![page break](images/mortimer.png){ width="300" }
 
 Mortimer is a 54-year-old human with a lean and wiry build. He has a scholarly and unassuming figure, with a hint of hidden strength and a keen intelligence lurking behind his unassuming facade. Despite his age, he moves with a surprising grace and agility. He stands tall at 6’, with a slightly stooped posture from years spent hunched over books and parchment. His face is lined with wrinkles, evidence of a life spent indoors under the dim light of candles and oil lamps. His hair is a greying brown colour, long enough to reach his shoulders. He wears it in a simple braid to keep it out of his face.
 
@@ -45,7 +45,7 @@ Now, at the age of 54, Mortimer has decided to venture out into the world and st
 
 ## Sheod :material-bow-arrow:
 
-![page break](../images/sheod.png){ width="300" }
+![page break](images/sheod.png){ width="300" }
 
 Once upon a time, there was a dark elf named Sheod who did not grow up in his native lands. His family had been murdered when he was just a baby, and his older sister managed to save him and flee to the Dark Forests. There, they lived for a few years, surviving by plundering the villages around the forest. However, a terrible encounter with an enraged beast left them vulnerable and exposed.
 
@@ -61,7 +61,7 @@ Although Sheod does not care much for money, he uses it to support himself and m
 
 ## Vaxidd :material-shield-sword:
 
-![page break](../images/vaxidd.png){ width="300" }
+![page break](images/vaxidd.png){ width="300" }
 
 Vaxidd Ironforger was born into the renowned Ironforger clan, known throughout the land for their exceptional blacksmithing skills and their unmatched prowess in battle. At the age of 200, Vaxidd had already gained a reputation as a seasoned warrior and a fierce protector of the innocent.
 
