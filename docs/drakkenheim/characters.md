@@ -131,6 +131,9 @@ Disaster struck Drakkenheim fifteen years prior with a devastating meteor shower
 
 During his relentless quest to find his family, Kaelor encountered River, a Tiefling mage from the Amethyst Academy, who offered a deal to aid his survival. In return for delirium, River guaranteed the essentials for his sustenance without him having to abandon Drakkenheim. River, like many Tieflings, was reserved and strictly professional, always honoring her agreements. When River wasn’t nearby, Kaelor resorted to hunting Ratlings, a less formidable quarry than other creatures, which feasted on the city's everlasting deceased.
 
+![](images/kaelor-01.png){width="300"}
+
+
 A decade and a half of relentless search and survival left its indelible mark on Kaelor's psyche, a weight of loneliness so heavy that it seemed to manifest his old friend Markle for companionship—whether as a figment of his mind or not, few would dare address it. The city's dark magic touched him too, igniting uncontrolled, arcane bursts whenever he succumbed to his rage, leaving him to wonder if it was a curse or a perverse blessing from the city's shadows.
 
 Mutations were not uncommon in the haze of Drakkenheim, with many residents undergoing monstrous transformations. But Kaelor had allies too; the Hooded Lanterns, who had saved him on occasion from falling prey to the city's many dangers. While Kaelor offered aid to those still fighting for the city, his assistance was brief; his primary focus remained unraveling his parents' fate.
@@ -173,7 +176,7 @@ He hates them, they are disgusting beings that feed from the despair of lost sou
 
 As a young cub, Kaelor worked with his father occasionally. His father provided services for most of Drakkenheim’s noble families. Sir Alistair Blackwood was apologist of using Xathos’ services, for innumerous reasons, he was the main source of revenue of Kaelor’s father business. During his time working on the Blackwood’s family, he meets a couple of time with young Eldrin. Usually just a simple greeting and never really bounding, but this young boy has left a good impression on Kaelor mind.
 
-## The Druid Tukuy
+## The Druid Tukuy Pachamama
 
 ![page break](images/minotaur.jpeg){ width="300" }
 
