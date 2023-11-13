@@ -28,17 +28,15 @@ Raised in a household that followed the main religion of Drakkenheim, the Sacred
 
 ![page break](images/marianne-blackwood.png){ width="300" }
 
-From a young age, Eldrin was enrolled in the revered Saint Selina's Monastery, located in a tranquil part of Drakkenheim away from the bustling heart of the city. This was a tradition in the Blackwood family to ensure that its heirs were imbued with a strong sense of duty, discipline, and a moral compass aligned with the principles of order and righteousness. Under the stern but wise mentorship of High Cleric Bartholomew, Eldrin delved into the studies of theology, divine rituals, and the moral codes that govern the laws of both men and gods.
+From a young age, Eldrin was enrolled in the revered Saint Selina's Monastery, located in a tranquil part of Drakkenheim away from the bustling heart of the city. This was a tradition in the Blackwood family to ensure that its heirs were imbued with a strong sense of duty, discipline, and a moral compass aligned with the principles of order and righteousness. Under the stern but wise mentorship of Flamekeeper Nathaniel Flint, Eldrin delved into the studies of theology, divine rituals, and the moral codes that govern the laws of both men and gods, and also entailed rigorous physical drills to hone his combat skills, as a cleric was expected to be a bulwark against chaos and a guardian of the societal structure.
 
 ![page break](images/sanctum-of-order.png){ width="300" }
 
-His clerical training also entailed rigorous physical drills to hone his combat skills, as a cleric of order was expected to be a bulwark against chaos and a guardian of the societal structure. These years of disciplined training under the vigilant guidance of Flamekeeper Nathaniel Flint forged a strong, dutiful personality within Eldrin, echoing his father’s teachings of upholding the Blackwood legacy of loyalty, honor, and duty.
-
 The fall of the meteor on Drakkenheim was a cataclysmic event that shattered Eldrin's world. The Blackwood estate in the city was obliterated, claiming the lives of both Lord Alistair and Lady Marianne. This tragedy wasn’t just a personal loss for Eldrin, but also a grave threat to the legacy of the Blackwoods. With no heir to carry forward the family's lineage and uphold its noble status, the name of Blackwood faced the threat of fading into oblivion. This crisis weighed heavily on Eldrin, igniting a fervent resolve to reclaim and restore his family's honor and position in Drakkenheim.
 
-The Blackwoods had always aligned with Mannfred during the Civil War, valuing the preservation of the established order that Mannfred represented. When the war erupted, Eldrin found himself amidst the turmoil, his loyalties tied to the forces supporting Mannfred. He served as a military cleric, offering his healing and strategic expertise to the cause he believed would restore order to the land.
+In the immediate aftermath of the meteorite's fall and during the subsequent civil war, Eldrin delved deeper into his clerical training, the structured teachings providing a semblance of order amidst the chaos that reigned outside the walls of The Sanctum of Order. The years of disciplined training under the vigilant guidance of Flamekeeper Nathaniel Flint forged a strong, dutiful personality within Eldrin, echoing his father’s teachings of upholding the Blackwood legacy of loyalty, honor, and duty.
 
-In the immediate aftermath of the meteorite's fall and during the subsequent civil war, Eldrin delved deeper into his clerical training, the structured teachings providing a semblance of order amidst the chaos that reigned outside the walls of The Sanctum of Order. His dedication to his training was a beacon of hope amidst the uncertainty, a means to prepare himself for the monumental task of restoring his family’s legacy.
+The Blackwoods had always aligned with Mannfred during the Civil War, valuing the preservation of the established order that Mannfred represented. When the war erupted, Eldrin found himself amidst the turmoil, his loyalties tied to the forces supporting Mannfred. He served as a military cleric, offering his healing and strategic expertise to the cause he believed would restore order to the land.
 
 Years later, whispers of an ancient secret started surfacing. It was rumored that the Blackwoods were privy to a royal secret that could potentially alter the power dynamics within the house von Kessel. This secret was believed to be known only to Lord Alistair and a few within the royal circle. With his father's demise, the onus of uncovering and wielding this secret fell upon Eldrin. The secret was said to be a lever of power or leverage over the royalty, a clandestine truth that, if revealed, could significantly benefit the Blackwood family, reinstating their position within the royal court and possibly even beyond.
 
@@ -52,52 +50,33 @@ The catastrophe that struck Drakkenheim brought a tide of change in Eldrin's lif
 
 Despite the awe-inspiring allure of this newfound power, Eldrin chose to keep it a secret. The world of arcane magic was often viewed with skepticism and fear amongst the nobility, and the disclosure of his sorcerous tendencies could jeopardize his family's already precarious standing. Moreover, the principles of order and tradition ingrained in him during his clerical training resonated with a voice of caution against the unpredictable realm of arcane magic.
 
-Yet, the potential of this arcane path to restore his family's honor and unravel the royal secret was too promising to ignore. Eldrin seeks discreet guidance from the Amethyst Academy, under the guise of exploring magical means to protect and restore Drakkenheim. His dual life as a cleric of order and a clandestine sorcerer became a delicate dance between the structured world of his past and the boundless realm of arcane possibilities.
+In the years that followed, Eldrin carefully navigated the dual aspects of his life, growing ever more adept at balancing his duties as a cleric and his secret explorations into the arcane. His deepening understanding of magic, coupled with his noble position, enabled him to aid in Drakkenheim's reconstruction in subtle but significant ways. Yet, the need to maintain secrecy about his arcane abilities meant he often walked a tightrope, always wary of revealing too much to either the Amethyst Academy or the nobility. This tension was a constant reminder of the delicate balance he had to maintain to protect his family's legacy and his own identity.
+
+Amidst his father's old effects, a cryptic reference in a tattered journal caught his attention. It spoke of a lost vault hidden deep within the ruins of Drakkenheim, rumored to contain not only significant wealth but potentially vital information about his family's past. The exact details were shrouded in mystery, and Eldrin knew that the key to unlocking this secret could well lie in understanding the chaotic history of Drakkenheim itself.
+
+Realizing the dangers and complexities of venturing into the heart of a city marred by war and dark magic, Eldrin decided that Emberwood Village would be his starting point. This settlement, on the fringes of Drakkenheim, was an ideal place to gather information, resources, and perhaps even allies for the daunting journey ahead. In Emberwood, he could quietly probe into the past, seeking out old records or knowledgeable locals who might have heard tales of the Blackwood family and their lost vault. Moreover, Emberwood offered a vantage point to observe the current state of Drakkenheim, allowing Eldrin to plan his foray into the city with the caution and strategy befitting his noble and clerical training. Thus, with a mix of trepidation and resolve, Eldrin set his sights on Emberwood Village, a crucial step in his quest to unearth the secrets of his lineage and the potential royal connection that could redefine his family's legacy.
 
 ### Faction Sentiments
 
-#### Amethyst Academy
+#### Amethyst Academy  
 
-    "The Amethyst Academy holds the key to arcane secrets, but in their quest for knowledge, they often forget the weight of power."
-    "A tome from the Academy is worth a kingdom’s ransom, but the price of their power is a currency we're yet to comprehend."
-    "Their spells are woven with the threads of the cosmos, yet sometimes I wonder if they ever consider the fabric they might unravel."
+"The Amethyst Academy, custodians of arcane wisdom, hold my utmost respect. Their pursuit of knowledge, especially in these tumultuous times, is critical. I believe their role in unraveling the mysteries of Drakkenheim is indispensable and should be supported. While I hold the Amethyst Academy in high regard for their unrivaled mastery of arcane knowledge, I must tread carefully. Their discovery of my own arcane abilities could lead to the forfeiture of my titles and lands. Thus, while I respect and support their pursuit of knowledge, I do so from a cautious distance."
 
-Eldrin holds a guarded respect for the Amethyst Academy, valuing their knowledge but wary of their neutrality, especially in the face of Drakkenheim’s dire straits.
-  
 #### Followers of the Falling Fire
 
-    "Beware the zeal of the Falling Fire's followers; for they dance too close to the flames that could consume us all."
-    "They gaze upon the sky's scar with hope, but I see the shadow it casts upon their souls."
-    "Their devotion to the delirium's glow is as fervent as it is folly; for such fire is not meant to warm but to consume."
-
-He views them with suspicion and concern, wary of their extreme fascination with the meteorite and its potentially dangerous implications.
+"The Followers of the Falling Fire are heretics who have twisted the sacred teachings of our faith into something unrecognizable and corrupt. They have not only besmirched the religion my family has devoutly followed but also led my former mentor astray. Their fanaticism and misinterpretation of divine signs are a dangerous blight upon true believers. Their obsession with the meteor and its powers is a path to ruin, not salvation. Their fanaticism is a threat to the order and stability of Drakkenheim and must be opposed."
 
 #### Hooded Lanterns
 
-    "The Hooded Lanterns are the flickering light in Drakkenheim’s darkness, though even the brightest flame can cast troubling shadows."
-    "We lend our coin to the Hooded Lanterns not for charity, but for the salvation of order within these walls."
-    "The Hooded Lanterns march on with unwavering courage, but even the most disciplined soldier's flame can flicker in the chaos."
-    "In the murk of this city, the Lanterns' light guides our steps, yet one must question if they lead us to dawn or into the depths of dusk."
-
-Eldrin sees them as a necessary force trying to restore order, aligning with his own values, yet remains cautious of their limitations and agenda.
-
-The Blackwood family has secretly supported financially the Hooded Lanterns in the past
+"The Hooded Lanterns, many of whom are veterans of the civil war like myself, represent a steadfast commitment to the city's survival. I wholeheartedly support their cause and see them as key allies in the fight to reclaim the city from chaos. Their leader, Captain Elias Drexel, who valiantly fought for Mannfred as the King's General, continues to embody the unwavering spirit we upheld during those tumultuous times. While our paths diverged, our shared history in the war bonds us in a mutual understanding of sacrifice and the cost of peace."
 
 #### Knights of the Silver Order
 
-    "In the steely resolve of the Silver Order, I see the reflection of our own house's legacy – unyielding and resolute."
-    "The Knights' armor shines not from polish, but from the valor that burns within them, a beacon against the encroaching dark."
-    "Clad in their conviction, the Knights stand as a bulwark; in their reflection, we must see the strength to endure and the wisdom to overcome."
-
-Eldrin holds a strong affinity for the Knights, perhaps even idolizing their valor and dedication to order and justice.
+"In my eyes, the Silver Order embodies a paradox that resonates deeply with my own struggles. Their unwavering devotion to the Sacred Flame and their mission to combat otherworldly evils is commendable and aligns with the virtues I hold dear. Yet, their historical role as witch-hunters and mage-slayers casts a shadow over their noble intentions. This aspect of their legacy is particularly troubling, considering the nuanced and often misunderstood nature of arcane powers. It's a stark reminder of the fine line between upholding righteousness and descending into oppression. The Order's recent entanglement in Elyria's political affairs further complicates my view of them. While their presence in Drakkenheim might be cloaked in righteousness, I can't help but question whether their actions serve a higher purpose or merely Elyria's expansionist ambitions. This conflict between idealism and reality echoes within me, a reminder of the complex balance between duty, honor, and the often hidden facets of one's identity."
 
 #### Queen’s Men
 
-    "The Queen’s Men are like carrion birds, preying upon the city's carcass for their own gain. Their honor is as tarnished as the ruins they rifle through."
-    "They dress in finery and speak of fealty, but strip away the veneer, and you'll find nothing but greed's grim grin."
-    "In the Queen’s Men, you will find ambition's edge sharpened, but often pointed at the heart of the realm they claim to serve."
-
-Eldrin despises the Queen’s Men for their exploitative nature and their self-serving pursuits amidst the city’s suffering.
+"The Queen's Men, led by that cunning Queen of Thieves, represent the chaos that's overtaken Drakkenheim. They've turned criminality into an empire, which is both troubling and somehow impressive. They're a problem, no doubt about it – thriving on corruption and fear. But, here's the thing: they know Drakkenheim's secrets like no other. I despise their methods, but I can't deny the value of the information they have. Sometimes you need to use the tools at hand, even if they're not the cleanest. The Queen's Men might just be a necessary evil in our quest to bring back real order to the city."
 
 ## Kaelor Quickbreath
 
