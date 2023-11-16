@@ -183,39 +183,35 @@ Tukuy Pachamama is a focused and devoted missionary, seeking divine guidance to 
 
 ### Faction Sentiments
 
-#### Knights of the Silver Order:
+#### Knights of the Silver Order
 
 They share the vision about the evils of delirium and the will to completely destroy it. He considers that they have noble goals, although he believes they are mistaken in their faith. 
 
     Their blades reflect the light of justice and hope, even though they deviate from the path of nature.
 
-#### Hooded Lanterns:
+#### Hooded Lanterns
 
 A definition of leadership is necessary, especially amid such a crisis. But he knows that leaders can be greedy and desecrators of nature. Tukuy is suspicious of every step they take but maintains hope that they can ally against delirium. 
 
     Under the mantle of leadership, I distrust their shadows, but like a flame in the dense night, light may prevail.
 
-
-#### Amethyst Academy:
+#### Amethyst Academy
 
 Tukuy is interested in them as scholars of magic and tries to maintain contact out of curiosity, but disapproves of their ideas to use delirium. The corruptive magic of delirium spreading would be terrible. On the other hand, could they find a way to eliminate the crystal's harms? 
 
     Among tomes and crystals, they risk themselves at the limits of delirium. Their paths may reveal the power of healing or an abyss of doom.
 
-
-#### Followers of the Falling Fire:
+#### Followers of the Falling Fire
 
 It seemed a good idea to help them investigate delirium, but he realized they are fanatics about the power of the crystal. Thus, Tukuy disapproves and considers them a dangerous threat. It would not be good to share discoveries with them. 
 
     They are like devouring flames invading dry woods. I will guard the discoveries as one awaits water from a contaminated source.
 
-
-#### Queen's Men:
+#### Queen's Men
 
 Detestable. They only care about taking advantage of the lamentable situation and desperation to gain influence and power. Tukuy keeps a close eye on them. 
 
     Despicable, with their rotten entrails of ambition, they rejoice, distilling poison like a silent breeze at dawn.
-
 
 ## Grekson
 
