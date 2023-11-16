@@ -155,7 +155,7 @@ He hates them, they are disgusting beings that feed from the despair of lost sou
 
 As a young cub, Kaelor worked with his father occasionally. His father provided services for most of Drakkenheim’s noble families. Sir Alistair Blackwood was apologist of using Xathos’ services, for innumerous reasons, he was the main source of revenue of Kaelor’s father business. During his time working on the Blackwood’s family, he meets a couple of time with young Eldrin. Usually just a simple greeting and never really bounding, but this young boy has left a good impression on Kaelor mind.
 
-## The Druid Tukuy Pachamama
+## Tukuy Pachamama
 
 ![page break](images/minotaur.jpeg){ width="300" }
 
