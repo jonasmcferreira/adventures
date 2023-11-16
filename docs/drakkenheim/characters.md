@@ -156,7 +156,7 @@ As a young cub, Kaelor worked with his father occasionally. His father provided 
 
 ## Tukuy Pachamama
 
-![page break](images/minotaur.jpeg){ width="300" }
+![page break](images/tukuy.jpeg){ width="300" }
 
 ### Physical Description
 
