@@ -159,19 +159,63 @@ As a young cub, Kaelor worked with his father occasionally. His father provided 
 
 ![page break](images/minotaur.jpeg){ width="300" }
 
+## Physical Description
+
+Tukuy Pachamama, a formidable Minotaur, stands at an imposing height of 6 feet 3 inches. His horns, adorned with tribal symbols, accentuate his intimidating presence. A sense of self-confidence is evident in his firm gaze, and his appearance is further enriched by details like decorated dreadlocks, multiple obsidian necklaces, and Chakanas on his bracelets, all highlighting his deep connection with natural forces and reverence for Earth's energies.
+
+Despite his seemingly coarse movements, Tukuy displays remarkable grace in certain situations, particularly on rough terrain. His aura radiates confidence and acceptance, and his deep, calm voice facilitates approachability with other creatures. However, his soul is tinged with anguish due to his disappointment in the disrespect shown towards nature, fueling a merciless attitude towards those who harm it.
+
+Tukuy is equipped with medicinal kits and various druidic items, among which a tribal warhammer embedded with obsidian stands out, symbolizing the duality of Earth. His well-maintained shield is a testament to his dedication to the upkeep and repair of his belongings.
+
 ### Backstory
+
+Born in a Minotaur tribe in the mountains south of Drakkenheim, Tukuy Pachamama stood out early as a curious and brave spirit, deeply connected to the land. Recognizing his potential for elemental powers, the Druid Masters initiated him into druidic studies and rites in an underground temple. Excelling in spell mastery, Tukuy became the youngest member of the Circle of Earth. His recurring dreams of a rock falling from the sky evolved from being initially dismissed to dark visions of impending destruction, seemingly a warning of something to come. Despite his tribe's skepticism, his mentor stood by him, albeit with reservations.
+
+When not engaged in study or aiding his tribe, Tukuy explored the woods, sometimes to play his flute. On one such day, he encountered an injured Quasit. After healing it, Tukuy discovered the creature's malevolent nature, as it harmed animals. In a fury, Tukuy killed the Quasit. Following this, a haunting voice in the wind challenged him: "This is your true nature; face and accept it. No matter your choice, you are always a servant of my will," sparking deep introspection.
+
+Years later, the fateful day arrived when a meteor, named Rumi Hanpay, streaked across the skies. Its impact resonated through every stone and leaf, casting a dense, dark cloud over the land. Initially perplexed, Tukuy's tribe eventually recognized his unique connection to the land. Eager to explore the impact site but still incomplete in his druidic training, Tukuy was restrained. Years later, changes in the river's water, attributed to the meteor, led to Tukuy being assigned a solitary mission of study and regeneration, while others remained to protect and purify resources.
+
+Five years post-impact, Tukuy embarked on a three-year journey following the river towards Drakkenheim. Initially, his Minotaur appearance invoked fear due to old legends, but he defied expectations by offering healing and assistance. Encountering disturbing tales of deformed creatures and a supposed curse, Tukuy's sense of urgency grew. Along his journey, encounters with needy and malicious individuals intensified his resolve to combat threats to the natural world, which he referred to as 'nanqak' in his language.
+
+After a decade-long odyssey, Tukuy settled in Emberwood, near Drakkenheim, to deeply study the environment and the meteor's impact. Longing for his tribe's peaceful communal life, he now endures a challenging and perilous existence. His friend Kondo, a loyal bird, brings disturbing news about poisoning in his homeland, further heightening Tukuy's concern for nature's fate. On witnessing the arrival of an intriguing wanderer accompanied by the Knights of the Silver Order, Tukuy sensed potential allies. Surviving by offering construction services and healing rituals, he plans to form a group to study the meteor and counteract its harmful effects.
+
+Tukuy Pachamama is a focused and devoted missionary, seeking divine guidance to combat the evils unleashed by the meteor. His journey is also an inner quest to comprehend his true nature and the darkness within. Blessed with divine intuition for survival, he possesses extensive knowledge in arcanism and nature.
 
 ### Faction Sentiments
 
-#### Amethyst Academy
-  
-#### Followers of the Falling Fire
+#### Knights of the Silver Order:
 
-#### Hooded Lanterns
+They share the vision about the evils of delirium and the will to completely destroy it. He considers that they have noble goals, although he believes they are mistaken in their faith. 
 
-#### Knights of the Silver Order
+    Their blades reflect the light of justice and hope, even though they deviate from the path of nature.
 
-#### Queen’s Men
+#### Hooded Lanterns:
+
+A definition of leadership is necessary, especially amid such a crisis. But he knows that leaders can be greedy and desecrators of nature. Tukuy is suspicious of every step they take but maintains hope that they can ally against delirium. 
+
+    Under the mantle of leadership, I distrust their shadows, but like a flame in the dense night, light may prevail.
+
+
+#### Amethyst Academy:
+
+Tukuy is interested in them as scholars of magic and tries to maintain contact out of curiosity, but disapproves of their ideas to use delirium. The corruptive magic of delirium spreading would be terrible. On the other hand, could they find a way to eliminate the crystal's harms? 
+
+    Among tomes and crystals, they risk themselves at the limits of delirium. Their paths may reveal the power of healing or an abyss of doom.
+
+
+#### Followers of the Falling Fire:
+
+It seemed a good idea to help them investigate delirium, but he realized they are fanatics about the power of the crystal. Thus, Tukuy disapproves and considers them a dangerous threat. It would not be good to share discoveries with them. 
+
+    They are like devouring flames invading dry woods. I will guard the discoveries as one awaits water from a contaminated source.
+
+
+#### Queen's Men:
+
+Detestable. They only care about taking advantage of the lamentable situation and desperation to gain influence and power. Tukuy keeps a close eye on them. 
+
+    Despicable, with their rotten entrails of ambition, they rejoice, distilling poison like a silent breeze at dawn.
+
 
 ## Grekson
 
