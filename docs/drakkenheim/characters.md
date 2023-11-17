@@ -168,11 +168,15 @@ Tukuy is equipped with medicinal kits and various druidic items, among which a t
 
 ### Backstory
 
-Born in a Minotaur tribe in the mountains south of Drakkenheim, Tukuy Pachamama stood out early as a curious and brave spirit, deeply connected to the land. Recognizing his potential for elemental powers, the Druid Masters initiated him into druidic studies and rites in an underground temple. Excelling in spell mastery, Tukuy became the youngest member of the Circle of Earth. His recurring dreams of a rock falling from the sky evolved from being initially dismissed to dark visions of impending destruction, seemingly a warning of something to come. Despite his tribe's skepticism, his mentor stood by him, albeit with reservations.
+![page break](images/thunderhoof.png){ width="300" }
+
+Born in a Minotaur tribe in the mountains south of Drakkenheim, the Thunderhoof Clan, Tukuy Pachamama stood out early as a curious and brave spirit, deeply connected to the land. Recognizing his potential for elemental powers, the Druid Masters initiated him into druidic studies and rites in an underground temple. Excelling in spell mastery, Tukuy became the youngest member of the Circle of Earth. His recurring dreams of a rock falling from the sky evolved from being initially dismissed to dark visions of impending destruction, seemingly a warning of something to come. Despite his tribe's skepticism, his mentor stood by him, albeit with reservations.
 
 When not engaged in study or aiding his tribe, Tukuy explored the woods, sometimes to play his flute. On one such day, he encountered an injured Quasit. After healing it, Tukuy discovered the creature's malevolent nature, as it harmed animals. In a fury, Tukuy killed the Quasit. Following this, a haunting voice in the wind challenged him: "This is your true nature; face and accept it. No matter your choice, you are always a servant of my will," sparking deep introspection.
 
 Years later, the fateful day arrived when a meteor, named Rumi Hanpay, streaked across the skies. Its impact resonated through every stone and leaf, casting a dense, dark cloud over the land. Initially perplexed, Tukuy's tribe eventually recognized his unique connection to the land. Eager to explore the impact site but still incomplete in his druidic training, Tukuy was restrained. Years later, changes in the river's water, attributed to the meteor, led to Tukuy being assigned a solitary mission of study and regeneration, while others remained to protect and purify resources.
+
+![page break](images/thunderhoof-1.png){ width="300" }
 
 Five years post-impact, Tukuy embarked on a three-year journey following the river towards Drakkenheim. Initially, his Minotaur appearance invoked fear due to old legends, but he defied expectations by offering healing and assistance. Encountering disturbing tales of deformed creatures and a supposed curse, Tukuy's sense of urgency grew. Along his journey, encounters with needy and malicious individuals intensified his resolve to combat threats to the natural world, which he referred to as 'nanqak' in his language.
 
@@ -184,31 +188,31 @@ Tukuy Pachamama is a focused and devoted missionary, seeking divine guidance to 
 
 #### Knights of the Silver Order
 
-They share the vision about the evils of delirium and the will to completely destroy it. He considers that they have noble goals, although he believes they are mistaken in their faith. 
+They share the vision about the evils of delirium and the will to completely destroy it. He considers that they have noble goals, although he believes they are mistaken in their faith.
 
     Their blades reflect the light of justice and hope, even though they deviate from the path of nature.
 
 #### Hooded Lanterns
 
-A definition of leadership is necessary, especially amid such a crisis. But he knows that leaders can be greedy and desecrators of nature. Tukuy is suspicious of every step they take but maintains hope that they can ally against delirium. 
+A definition of leadership is necessary, especially amid such a crisis. But he knows that leaders can be greedy and desecrators of nature. Tukuy is suspicious of every step they take but maintains hope that they can ally against delirium.
 
     Under the mantle of leadership, I distrust their shadows, but like a flame in the dense night, light may prevail.
 
 #### Amethyst Academy
 
-Tukuy is interested in them as scholars of magic and tries to maintain contact out of curiosity, but disapproves of their ideas to use delirium. The corruptive magic of delirium spreading would be terrible. On the other hand, could they find a way to eliminate the crystal's harms? 
+Tukuy is interested in them as scholars of magic and tries to maintain contact out of curiosity, but disapproves of their ideas to use delirium. The corruptive magic of delirium spreading would be terrible. On the other hand, could they find a way to eliminate the crystal's harms?
 
     Among tomes and crystals, they risk themselves at the limits of delirium. Their paths may reveal the power of healing or an abyss of doom.
 
 #### Followers of the Falling Fire
 
-It seemed a good idea to help them investigate delirium, but he realized they are fanatics about the power of the crystal. Thus, Tukuy disapproves and considers them a dangerous threat. It would not be good to share discoveries with them. 
+It seemed a good idea to help them investigate delirium, but he realized they are fanatics about the power of the crystal. Thus, Tukuy disapproves and considers them a dangerous threat. It would not be good to share discoveries with them.
 
     They are like devouring flames invading dry woods. I will guard the discoveries as one awaits water from a contaminated source.
 
 #### Queen's Men
 
-Detestable. They only care about taking advantage of the lamentable situation and desperation to gain influence and power. Tukuy keeps a close eye on them. 
+Detestable. They only care about taking advantage of the lamentable situation and desperation to gain influence and power. Tukuy keeps a close eye on them.
 
     Despicable, with their rotten entrails of ambition, they rejoice, distilling poison like a silent breeze at dawn.
 
