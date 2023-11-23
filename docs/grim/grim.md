@@ -2,8 +2,6 @@
 
 ![page break](images/sword.png){ width="300" }
 
-![divider](images/divider.png){ width="500" }
-
 ## Inspired by Deathbringer
 
 Grim draws its inspiration from the Deathbringer addon created by the Dungeoncraft [YouTube channel](https://www.youtube.com/@DUNGEONCRAFT1) and [Patreon](https://www.patreon.com/DungeonCraftYouTube). Building upon the innovative ideas and concepts presented in Deathbringer, Grim takes the spirit of gritty and intense tabletop role-playing to new heights.
