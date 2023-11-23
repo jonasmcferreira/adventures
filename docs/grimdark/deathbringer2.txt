@@ -1,0 +1,1248 @@
+ROLL A RANDOM BACKGROUND
+
+CHARACTER CLASSES
+
+DEATHBRINGER
+Requirement: +1 STR
+Hit dice: d10 (after 20hp + roll at disadvantage)
+Armor & Weapons Any & all
+To start: doublet
+Special Abilities:
+ Deathbringer. Spend one DD to make an extra attack.
+ Ferocity. Gain an additional attack at 5th level
+
+GRIMSCRIBE
+Requirement: +1 INT or better
+Hit Dice: d6 (after 15hp+ roll at disadvantage)
+Armor & weapons: Clothes & dagger, staff, light crossbow, cannot wear armor
+To start: 4 cantrips, two 1st level spells, journal, tattoo needles, ink, dagger.
+Special Abilities:
+ Cast Spells. No spell slots. Roll to cast, DC 10. One a roll of Natural 1 gain +1 Corruption and roll
+on the Miscast Table.
+ Gain spells by finding scrolls grimoires, or by having a friendly higher-level wizard teach them to
+you. You are a living
+ grimoire and must tattoo all spells on your skin
+
+PLAGUE DOCTOR
+Requirement: Minimum +1 INT & +1 WIS
+Hit dice: d6 (after 15, roll at disadvantage)
+Armor & Weapons: Light and meat cleaver and crossbow
+To start: Leather coat, medical kit, chemistry kit, meat cleaver, very suspicious diploma.
+Special Abilities:
+ Cure Wounds. Restore d8hp once per day, per patient.
+ Cure poison & disease. At will. DC 15.
+ Create Potions: create d4 random potions per day. These chemicals are highly unstable and only
+last 24 hours.
+D8
+1 Acid Spray
+D10 range within throwing distance.
+2 Bomb
+D10 damage within throwing distance
+3 Hallucinations Save v. CON 15 or suffer demonic visions for d4 rounds.
+4 Healing
+Heal d8hp.
+5 Poison Cloud
+D12 damage
+6 Rage
+Drinker gains +2 STR but suffers a -2 DEF
+7 Sleep
+Save vs. CON or fall asleep
+8 Your choice
+Any one.
+
+SCOUNDREL
+Requirement: +1 DEX or better
+Hit Dice: d8 (after 15hp+ roll at disadvantage)
+Armor & weapons: Light & any
+To start: thieves’ tools, 50’ rope, leather jack (1 armor). Club or dagger.
+Special Abilities:
+ Backstab. Score an extra damage die on any surprise attack.
+ Roguish Talents. If properly equipped, roll with Advantage on tests related to stealth, hiding,
+listening, eavesdropping, lockpicking, finding & disarming traps, climbing, disguise, picking
+pockets, etc.
+
+WITCH HUNTER
+Requirement: +1 WIS or better
+Hit dice: d8 (after 16+hp roll at disadvantage)
+Armor & Weapons: Light and any
+To start: leather coat, club, crossbow, holy symbol, 6 torches
+Special Abilities
+ Protection from Evil. Once per day.
+ Turn the Undead. At will. Test WIS against the target’s DEF. If the target fails, they flee at the
+sight of the Witch Hunter’s holy symbol.
+NAME YOUR CHARACTER
+Here are some tricks for choosing a cool name:
+ One syllable first name, two syllable last name. Ex: Hans Hurtzman, Britt Welkin
+ Two syllable first name, one syllable last name Ex: Degger Rykes, Malice Frost
+ Change the spelling of a common name. Ex: Edward to Eddard, Jennifer to Yennefer,
+ Roll on the following chart:
+
+POSSIBLE NAMES (d6)
+1
+Absinth, Astrid, Angelique, Anya, Arnulf, Astrid, Axe, Axel, Avarice, Bardolf, Bastard, Bastian, Beatrix,
+Bernhardt, Blade, Bjorn, Brand, Brigid, Brynn, Britt, Brom, Bront, Bruiser, Bruno, Brunt,
+2
+Celine, Claudia, Claus, Cloak, Clutch, Conrad, Dagmar, Danika, Dania, Dead-eye, Degger, Dieter, Dirk,
+Dorian, Drudge, Dogface, Duchess, Elspeth, Enoch, Erasmus, Erik, Ernst
+3
+Faith, Fallon, Fang, Felix, Fester, Fletcher, Flame, Flint, Franz, Frida, Frog, Filthy, Frost, Gabrielle,
+Ghost, Goblin, Gretel, Grime, Grift, Gripper, Grubber, Gregor, Grift, Grub, Gustav, Hans, Heinrich
+4
+Ingrid, Isolde, Johann, Karl, Karve, Kat, Knock, Kruger, Kurt, Lefty, Leopold, Lilith, Locke, Lotus,
+Ludwig, Magda, Maglind, Magnus, Malice, Malicent, Malkin, Malleus, Margot, Marienne, Marius,
+Mathias, Mathilde, Max, Mercy, Mila, Mirage, Moloch, Mordecai, Morgan
+5
+Nadya, Nails, Natasha, Nine-fingers, No-thumbs, Nightshade, Nocturne, Nyx, Olga, One-Eye, Olaf,
+Onyx, Osric, Pike, Pug, Randel, Randolf, Raven, Regan, Reiner, Reinhardt, Rieka, Renata, Ripper, Rolf,
+Rook, Rosalyn, Rufus, Ruprecht,
+6
+Scabs, Seline, Silence, Shadow, Silk, Sliver, Snake, Snare, Solace, Solange, Splinter, Spider, Stefan, Sven,
+Thorne, Tobias, Toad, Theodore, Tuomas, Werner, Udo, Ulrich, Ulrike, Uma, Valen, Wilhelm,
+Wolfgang, Wulfgar, Yvette
+
+
+IMPROVEMENT
+
+
+
+
+
+THIS IS HOW WE ROLL
+Deathbringer Dice replace class features and may be used to improve rolls, cause/block damage.
+Advantage & disadvantage for cover, low visibility, having the proper tools, etc.
+Natural 20 means +d12 damage and you lower the opponent’s DEF by 1.
+Natural 1 is a critical failure. Quiver is empty, you are disarmed, or Critical Miscast.
+
+DEATHBRINGER DICE
+
+Replace class features, Skills, Feats & Inspiration with Deathbringer Dice. Begin each session with DD
+equal to your level.
+A player can “spend” DDs to:
+(1) Add d6 to any d20 roll.
+(2) Inflict an additional d6 damage on a successful hit.
+(3) Absorb d6 damage.
+You may use multiple DD at the same time.
+DD cannot be used to alter a Nat 1 or used for initiative rolls. They are not replenished with rest but
+respawn at the start of a session.
+
+Store up to 10 DD on your sheet in these slots:
+GAINING DEATHBRINGER DICE
+GM may award additional Deathbringer Dice for good roleplaying, clever thinking, or for enhancing
+the game for everyone at the table.
+
+Players can use Deathbringer Dice to customize their characters or make them more versatile. Want
+to be an expert archer? Use Deathbringer Dice when you shoot your bow. Want to be a martial arts
+master? Use Deathbringer Dice to increase hand-to-hand combat. Need to take out that guard in one
+shot? Use Deathbringer Dice to cause extra damage.
+Pro Tip: make Deathbringer Dice a different, uniform color so they don’t become confused with the
+other 6-sided dice at your table.
+ADVANTAGE & DISADVANTAGE
+Advantage means roll two dice and take the higher number.
+Disadvantage means roll two dice and take the lower number.
+
+
+
+
+CRITICAL SUCCESS (NAT. 20)
+
+A roll of Natural 20 is a critical success.
+In combat, a Critical Success means +d12 extra damage.
+A natural 20 on a spellcasting check means the spell ranges and effects are doubled.
+
+
+
+
+
+CRITICAL FAILURE (NAT 1)
+
+A roll of Natural 1 is a Critical failure.
+A critical failure in combat or spellcasting means the player rolls the d20 again. This time, high is
+bad, and the GM decides on an appropriate complication based on the circumstances. A Natural 1
+on a spellcasting roll means a Critical miscast (see Spells):
+
+
+
+
+d20
+1-10
+
+11-19
+
+20
+
+Melee Weapon
+Disarmed. Your weapon flies d10 feet in
+a random direction.
+Weapon becomes lodged in a beam,
+table, or ribcage and cannot be dislodged
+until after the combat is over.
+Your weapon shatters.
+
+Missile Weapon
+You run out of arrows/bolts.
+
+Bow string or firing mechanism breaks and
+may not be used again until repaired (d10
+minutes).
+Your bow is damaged beyond repair.
+
+WEAPONS
+D2:
+D4:
+D6:
+D8:
+D10:
+
+Fist, kick, headbutt
+Bone, club, dagger, improvised weapon
+Mace, short bow, spear, staff
+Battle Ax, long bow, rapier, sword, warhammer
+Crossbow, two-handed sword
+
+Free
+0-5gp
+5-25
+10-40
+25-50
+
+ARMOR
+
++1 DEF
++2 DEF
++3 DEF
++4 DEF
+
+Light
+Medium
+Heavy
+
+Doublet, helm, leather jacket
+Gambeson, scale, studded leather, chainmail bikini
+Brigandine, Full chain
+Full field plate (low visibility: -1 to hit)
+
+10gp
+50-75
+100-200
+1000+
+
+KILL SHOTS
+1-5:
+6-10:
+11-15:
+15-19:
+20:
+
+Agonizing death. Your attack inflicts grim wounds to vital organs. Victim dies in d4
+rounds.
+Clean Kill. Your decisive, devastating attack drops your opponent with quiet simplicity.
+Brutal Doom. You overkill your target with force, crushing bone, spraying blood—a real
+mess.
+Splatter & gore. Your attack renders the victim unrecognizable, smashed to a pulp or
+hewn in two.
+Deathbringer. So powerful is your kill, a nearby enemy is also hit. Enemies who view such
+a kill are terrified and intimidated.
+
+
+
+
+COMBAT
+
+Rounds are 6 seconds. Group initiative every round: d6, highest roll wins. Ties= simultaneous
+attack.
+Players take turns clockwise from the GM.
+Everyone must declare actions and Magic Users must declare their spells before initiative is
+rolled. If the Magic User loses initiative and is successfully attacked, the spell fails.
+PCs can move up to 20 feet and attack in one round.
+No bonus actions.
+Stunts: maneuvers such as pushing, disarming, tripping, blinding, etc. The GM rules whether the
+stunt is possible and if the player has advantage, disadvantage, or makes a clean roll. If the roll
+succeeds, the stunt is successful.
+0 HP is unconscious. Negative HP=DEAD.
+
+CIRCUMSTANCES
+Advantage
+ Attacker surprises their opponent.
+ Attacker strikes from behind.
+ Attacker has the higher ground.
+ Attacker spends a round aiming their bow.
+ Attackers outnumber the defender 3-1.
+
+Disadvantage
+ Defender has partial cover.
+ The ground is slick or icy.
+ Defender has the higher ground.
+ The area is foggy or crowded.
+ Firing from a moving vehicle.
+
+MOVEMENT & RANGES
+
+Forget feet and yards. Deathbringer uses three simple, abstract units of distance: Melee, Ranged, and
+Out of Range.
+
+
+
+
+
+
+
+MELEE means within a few steps—
+about the size of a wrestling ring.
+Anyone in Melee range can move and
+hit anyone else in Melee range.
+RANGED means within missile or
+spell distance. It might be 30 feet or
+100 feet—it’s abstract and flexible.
+OUT OF RANGE means you are
+within earshot but cannot see what is
+going on. You know the combat is
+happening but cannot interfere.
+
+In one combat round, you can:
+ Move from Out of Range to Ranged and attack with a bow or spell.
+ Move from Ranged to Melee and attack with a weapon.
+ Move anywhere in Melee and attack anything else in Melee.
+ Move two zones. For example, move from Out of Range to Melee.
+If a character is beyond Out of Range, they are unaware the combat is happening and may not
+interfere.
+INJURY & DEATH
+
+At exactly zero HP a character is knocked unconscious. Players rolls the d6.
+5-6 Lucky: awaken in d4 rounds with 1hp and a cool scar.
+3-4 Concussed: awaken in d4 rounds with 1hp, but you receive a -2 penalty to all rolls until you
+rest for d4 days.
+1-2 Mangled: lose a finger, limb, or eye—GM decides.
+At negative HP a character is DEAD.
+HORDES
+
+
+
+
+If a PC is surrounded by four or more attackers, roll one attack, adding an additional +1 for each
+attacker over 1. Ex: 4 attackers= +3
+On a successful hit the PC suffers regular damage +1 extra damage for each attacker over one. Ex:
+4 attackers = +3 damage.
+
+MASS COMBAT
+
+In the event of a mass battle or castle siege, the GM should describe the battle: arrows darkening the
+skies and raining down on shields, the ring of clashing steel, the mud, blood, and screams. Then have
+the PCs make a Saving Throw to see how much damage they take in this initial clash:
+ Battlefield: test DEX 10 test or lose ½ of hit points. Success means d6 damage in minor scrapes
+and bruises.
+
+
+
+In a siege against a castle or other fortification: test DEX 15 to avoid losing ½ HP. Success
+means d6 damage in minor scrapes and bruises. When Defending a castle or other
+fortification, test DEX 10.
+
+After the initial crush of battle, telescope to the specific fight in which the characters are involved.
+Roll that out like any normal combat. At the conclusion, roll on the following chart. Add +1 one if
+the character won. Subtract -1 if they lost.
+2d6
+2-3
+
+4-5
+6-8
+9
+10-12
+
+MASS COMBAT RESULTS
+Massacre! The PCs are among the sole survivors of a brutal massacre. Their army is utterly
+crushed and loses the battle.
+Retreat! The PCs’ side suffers heavy casualties and retreats.
+Inconclusive. Suffer heavy casualties before declaring the battle a draw.
+Victory—barely. The enemy is routed but the players’ side suffers heavy casualties.
+Victory! Players’ army wins a decisive victory, destroying the enemy’s forces.
+
+CASTING SPELLS
+
+
+
+
+Use any OSR or 5e spells you like—but the PCs must find them through exploration. Keep the
+damage for those spells as is.
+DC 10 to cast. Saving throws are 15.
+
+All 5e and OSR spells are compatible with Deathbringer. Spellcasting is illegal and spellcasters are burned on
+sight. As such they keep a low profile. Spellcasters who show off their powers in public will find themselves
+quickly surrounded by an angry mob.
+
+TO HELL WITH SPELL SLOTS!
+You can learn unlimited spells—that’s the good news. The bad news is you must find them. You do this by:
+ Exploring ruins and dungeons to recover ancient scrolls and grimoires.
+ Exchanging spells with a friendly NPC or another wizard. Sometimes lower lever wizards apprentice
+themselves to higher level ones.
+Acquiring Spells
+ Begin with the number of spells proscribed by your class.
+ When you gain a spell, you must tattoo it on your skin. The more spells you know, the more easily
+recognized you will be to witch-hunters. A freshly dead magic user’s skin is a valuable treasure!
+ Just like in 5e or OSR, you cannot cast spells higher than your level will allow.
+ You must roll to cast spells.
+
+ROLL TO CAST
+ The DC to cast is 10.
+ Add your INT (or CHA if a sorcerer or warlock) score to casting rolls.
+ On a natural 20, the damage or effect of the spell is doubled.
+ On a natural 1, gain 1 Corruption and roll on the Critical Miscast Chart.
+
+CRITICAL MISCAST
+Caster gains +1 Corruption and…
+
+1-10
+11-15
+16
+17
+18
+19
+20
+
+Fizzle. Spell does not work. Ghostly laughter fills the room.
+Backfire. Caster takes the damage or effect.
+Disaster. All armor, both friend and foe, disintegrates.
+Spell hits wrong target or summons a hostile monster.
+Caster loses a level or ages d20 years.
+Caster gains a random mutation.
+Catastrophic. Caster explodes in a shower of gore.
+
+SAVING THROWS
+
+
+
+
+All Saving Throws vs magic are DC 15.
+Add WIS to saving throws vs mind-control spells like charm or sleep.
+Add DEX to saving throws vs explosive spells like fireball and lightning bolt.
+
+
+
+
+
+GAMEMASTER SECTION
+THE CORE RULE
+
+Here is the real core rule designers keep from the general public, lest panic ensue: No matter what
+variant you play—1st E, 5e, OSE—character “advancement” is largely illusory. As characters rise in
+level and gain bonuses, the GM responds by raising the Difficulty Class of the challenges
+progressively higher. No matter how powerful a character becomes, no matter what level they
+achieve, no matter how high their bonuses, a twenty-sided die can only produce results between 1
+and 20. If you strip away all the character ability score and skill bonuses, the game looks like this:
+Roll
+Result
+15+
+Success!
+10-14
+Maybe. Check with the GM.
+1-9
+Failure.
+DC of 11 gives PCs a 50% chance of success. A DC of 16+ represents a significant challenge. In
+combat, DCs over 15 should be rare; otherwise, the encounter may drag on interminably, with
+neither side landing a blow. A DC of less than 10 is so easy the GM should ask—is this roll even
+necessary? Failing an extremely low skill check can humiliate the player and make their character
+seem incompetent.
+
+The entire game then, hinges on a GM using their best judgement to set a DC within the 10-16 range.
+If the DC is too high, players become frustrated. If the DC is too low, the game is not challenging.
+Once a GM understands this, they can make decisions with greater confidence.
+
+WHEN TO ROLL & WHEN NOT TO
+
+Call for a roll when the outcome is a reasonable chance of failure (better than 50%) or when there is
+some sort of time pressure on a character. If a thief is attempting to pick the lock of a chest in a
+dungeon and wandering monsters might show up any minute, it requires a check. If the thief carries
+the same chest back to the tavern and has unlimited time, no check is needed.
+More important is when not to roll the dice. When a GM calls for a die roll, they must be open to the
+possibility that the die will come up 1. If it’s critical to the plot for the PCs to find a secret door, allow
+them to find it without a check. Also, too many checks create lazy players who think their character
+sheet can overcome every problem. Here are some things we don’t roll the dice for:
+ Perception & searching. Players should describe what they are searching and how they are
+searching it. Example: “I search the library shelves. Do any of the books tilt back and trigger a
+secret door?” If there is a secret door, let them find it.
+ Insight. Psychologists, police detectives, and divorce attorneys will tell you there is no way to tell
+if someone is lying—it’s not a real thing. If players want insight into an NPC, they must roleplay
+with them.
+ Most Social Encounters. Don’t allow players to skip role-playing by rolling the d20—and a
+natural 20 does not mean a PC can convince a king to give up his crown. It means some
+commoners made him crack a smile and he will remember them.
+TIPS FOR MAKING COMBAT EXCITING
+KEEP IT MOVING
+Ever notice most RPGs slow down when the action starts? Here are some tips for keeping it moving:
+ Never stop to look up rules—ever. If characters do something not covered by the rules, trust your instincts
+and go with the flow. Assign a DC and move on.
+ Real combat is fast and real soldiers have to make split-second decisions. Don’t allow players to take too
+long to decide what they want to do. Say, “What does Malleus want to do? You have five seconds.
+Five…four….three…”.
+ Have the players all roll their attack dice at the same time, then look at the results and narrate what
+happened.
+AVOID GAME LANGUAGE
+Use natural language, not technical jargon. Describe the results of every die roll. Do not say, “The goblin
+missed.” Instead say, “Splinters fly and your arm goes numb as the goblin batters at your shield!” Do not say,
+“You kill the bandit.” Instead say, “Your blow slices through the bandit’s carotid artery, spraying you with
+blood and dropping him to the ground in a gurgling heap.”
+You can also off-load descriptions on the players. Have them describe what their miss or critical hit looks like!
+
+ROLL OUT IN THE OPEN
+Nothing is more terrifying than when a GM makes their rolls out in the open. No hiding. No fudging. No
+pulling punches. If a natural 20 comes up and a character is killed on the first shot—well, that’s life. It
+happens—even to heroes.
+When players know the GM doesn’t pull punches, they are more cautious about entering combat in the first
+place. They start thinking about using the environment to give them the advantage and will seek to take the
+
+enemy by surprise. Even if no characters die, your game will feel more dangerous, because the players know
+their favorite character is one natural 20 away from a dirt nap.
+So, roll out in the open and let your players know combat is potentially fatal.
+
+TIMER DICE
+The moment someone throws the first punch, the GM tosses a d4, in public view. The resulting number is the
+number of rounds before something terrible happens. For example:
+ reinforcements arrive
+ a torch goes out
+ the ceiling collapses
+ the ice cracks and the PCs fall through
+ the enemy slits the prisoner’s throat
+ the monster regenerates to full HP
+The GM can let players know the stakes—or just give an evil laugh and say the consequences will be serious.
+Timers are one of the most effective ways to build tension.
+
+IMPORTING & CONVERTING MONSTERS
+
+ Import any monsters stat from 5e/OSR games.
+ Monsters have pure HD (no CON bonuses).
+Monsters from 5E and all OSR retro clones are compatible with Deathbringer. If you play 5e, simply
+ignore HP due to Con bonuses; this will reduce monster HP by about 1/3. OSR stat blocks do not
+need to be changed. Other tips:
+ Monsters should be rare and mysterious. Deathbringer is strongly influenced by the writings of
+Robert Howard, Fritz Leiber, and Karl Edward Wagner. In their stories, monsters exist but are
+rare. If a scenario is about a werewolf terrorizing a village, build the scenario around that one
+werewolf. One werewolf, well done, is more frightening than pack of werewolves.
+ Humans are the most common monster. The easiest way to create a grimdark atmosphere is to
+make most of the enemies human: brigands, raiders, cannibals, cultists, cavemen, rival witch
+hunters, mutants, mad scientists, and so on.
+ Re-skin old tropes. Players are frightened by what they don’t know. Avoid the familiar.
+Orcs, hobgoblins, and ogres are tired. Keep the stat blocks but change their appearance and call
+them something else. Reskinning kobolds as “creepers” or an ogre as “The Man-Skinner” will
+make them seem frightening again.
+ Dungeons should be thematic, not monster zoos. A depraved noble’s dungeon might contain
+depraved servants, cultists, and torture devices, but not animated skeletons or giant spiders. Think
+about the location. Consider its purpose. Why was it built? For whom? Then place the monsters
+that would logically live there.
+MAGIC ITEMS
+Deathbringer is a “low-magic” world. Magic items are rare and one-of-a-kind—no +1 daggers or +2
+rings of protection. Potions are the most common type of “magic,” created through chemistry, not
+sorcery.
+
+POTIONS & DRUGS
+Potions are typically found in small glass vials and contain a single dose. Potions are rare and
+unstable—after just 24 hours, the ingredients begin to separate, and the potion loses its effectiveness.
+Common potions & drugs include:
+Acid Spray
+Bomb
+Hallucinations
+Healing
+Moonsnow
+Poison Cloud
+Poison
+Rage
+Sleep
+Weirdweed
+
+D10 range within throwing distance.
+D10 damage within throwing distance
+Save v. CON 15 or suffer demonic visions for d4 rounds.
+Heal d8hp.
+A powder made from refined moonstone. Spellcasters gain +2 to cast for 30
+minutes, but must Save DC 5 or become hopelessly addicted.
+D12 damage
+Coat a weapon. Save DC 15 or suffer d6hp damage.
+Drinker gains +2 STR but suffers a -2 DEF
+Save vs. CON or fall asleep
+Smoked by spellcasters in ornate pipes or cigarette holders. Smells like
+wintergreen. Spellcasters gain +1 to cast for an hour but must Save DC 3 or
+become addicted. Side effects include lethargy and cancer.
+
+ADDICTION
+Addicted characters need to consume 5-10gp of their drug of choice every day. How, when, and if a
+character can overcome addiction is up to the GM. Asylums, surgery, treatment facilities, mystical cures
+are all options, but should be expensive (100+gp) and meet with only a 50% rate of success, at best.
+
+RARE & UNIQUE MAGIC ITEMS
++1 Sword of Evisceration
+On a natural 20, this razor-sharp blade inflicts d20 bonus damage. On a natural 1, it inflicts damage
+on the nearest ally.
+Prayer Beads of Saint Umbrage
+These golf-ball sized prayer beads are made from the bones and hair of a martyred saint. They
+inflict d6 damage and can be used to strangle opponents. On an attack roll of natural 1, the strands
+of hair break and the beads scatter and can never be repaired. Only Witch Hunters may use these.
+Shield of Screaming
+This ornate shield has a face carved in the center and grants +2 additional points of DEF. When
+combat begins, the face starts screaming profanities at opponents like, Come get us, you bastards!
+
+You’ll never able to take down THIS warrior!
+Arcane Pistol
+
+This wand of magic missiles is shaped like a gun and inflicts d6 damage on any target, no saving
+throw. On a natural 1 it explodes, taking d4 of the caster’s fingers with it.
+Severine’s Boots
+Stylish ankle-high women’s boots made from the softest baby unicorn skin. Although the heels are
+high, they are incredibly comfortable, and the wearer will never trip while using them. They will
+get stuck in mud, however, and only fit the smallest of female feet.
+Monster Lure
+This grease is often sold by duplicitous witches. Rubbing it on the skin grants +1 DEF but its scent
+attracts monsters within 500 feet.
+Telescopic Eye
+This artificial eye extends like a telescope and can triple the distance the user can see when
+outdoors.
+MOONSTONE
+
+Moonstone is a rare element that arrives in meteors from the stars. It is the essence of chaos, and
+highly sought-after by cultists and spellcasters. Moonstone is black, with flecks of green, and the
+primary ingredient in moonsnow, poisons, black powder, sorcerous rituals, and magic weapons.
+Direct contact between pure moonstone and the skin can lead to mutation. Raw moonstone can sell
+for as much as 1gp per ounce.
+
+APPENDIXES
+EQUIPMENT
+All prices are given in gold pieces (gp), except where noted in silver (s).
+ 10 copper (c) = 1 silver
+ 10 silver (s) = 1 gold (gp)
+Prices and availability may vary by region and circumstances. If an area is isolated or afflicted with drought,
+famine, plague, war, etc., PCs can expect to pay up to double these prices.
+
+WEAPONS
+Item
+
+Cost
+
+Damage
+
+Item
+
+Cost
+
+Damage
+
+Axe, battle
+
+20
+
+d6
+
+Mace
+
+10
+
+d6
+
+Axe, hand
+
+5
+
+d4
+
+Meat Cleaver
+Breaks on a natural 1
+
+3
+
+d6
+
+Blunderbuss*
+
+500
+
+d8
+
+Pistol*
+
+1000
+
+d10
+
+Brass Knuckles
+
+5
+
+d4
+
+Pole Arm
+
+10
+
+d6
+
+Requires two hands.
+Bow, Recurve
+
+30
+
+d6
+
+Rapier
+
+20
+
+d6
+
+Club
+
+3
+
+d6
+
+Sling & bullets
+
+2
+
+d4
+
+Crossbow*
+
+50
+
+d8
+
+Sword
+
+20
+
+d6
+
+Crossbow, mini
+Takes 2 rounds to
+reload.
+
+100
+
+d4
+
+Sword, Great
+Requires two hands.
+
+40
+
+d8
+
+Dagger/Knife
+
+10
+
+d4
+
+Spear
+
+10
+
+d6
+
+Flail
+
+20
+
+d6
+
+Unarmed
+
+-
+
+2
+
+Improvised*
+
+-
+
+d4
+
+Warhammer
+
+20
+
+d6
+
+*Takes 2 rounds to reload.
+
+*Firearms ignore all armor DEF but take 6 rounds to load and are unreliable. An attack roll of natural 1 is a misfire; roll the
+d20 again. On a roll of 1-19 nothing happens, and the gun must be reloaded. On a natural 20 the firearm explodes and the
+user loses d4 fingers.
+
+EQUIPMENT
+Gear
+
+Cost
+
+Gear
+
+Cost
+
+Gear
+
+Cost
+
+Arrows, quiver of 20
+
+2
+
+Disguise Kit
+
+25
+
+Rations, 1 week
+
+5
+
+Backpack
+
+2
+
+Flask or bottle
+
+1
+
+Rope (50’)
+
+2
+
+Bedroll
+
+1
+
+Grappling Hook
+
+2
+
+Sack
+
+2
+
+Bolts, case of 20
+
+2
+
+Hammer (small)
+
+1
+
+Saddlebags
+
+5
+
+Book (blank)
+
+25
+
+Holy symbol (fine)
+
+5
+
+Shovel
+
+2
+
+Boots (good)
+
+2
+
+Iron spikes (6)
+
+2
+
+Spyglass
+
+99
+
+Bullets, Sling (10)
+
+1
+
+Lantern
+
+5
+
+Stakes (3) & mallet
+
+5
+
+Candle (10)
+
+1sp
+
+Manacles
+
+20
+
+Tent, canvas
+
+5
+
+Chain
+
+1
+
+Medical Tools
+
+50
+
+Thieves’ Lockpicks
+
+35
+
+Chemistry Kit
+
+100
+
+Mirror, hand
+
+5
+
+Tinder box
+
+3
+
+Cloak, Wool
+
+1
+
+Moonsnow (1 dose)
+
+10+
+
+Tome
+
+50
+
+Cloak, Fine
+
+10
+
+Musical Instrument
+
+1-10+
+
+Torches (6)
+
+1
+
+Clothing, common
+
+2
+
+Oil (1 pint)
+
+1sp
+
+Vial, glass
+
+2
+
+Clothing, fine
+
+15
+
+Perfume
+
+5+
+
+Waterskin
+
+1
+
+Cookware
+
+1
+
+Pick
+
+2
+
+Wine, pint
+
+1
+
+Crowbar
+
+2
+
+Pole (6’, wooden)
+
+2
+
+Wyrdweed (d4 doses)
+
+4
+
+SERVICES
+The following reflect average prices. During famine, wars, or a busy season, prices may increase.
+Food & Lodging
+
+Cost
+
+Hirelings
+
+Cost
+
+Transport
+
+Cost
+
+Ale or wine
+
+1s
+
+Barber
+
+5sp
+
+Cart
+
+5
+
+Meal
+
+2s
+
+Guide
+
+1
+
+Coach
+
+10
+
+Expensive Meal
+
+5s
+
+Henchman
+
+2-5
+
+River Boat
+
+2
+
+Feed & stable horse
+
+5s
+
+Physician
+
+10+
+
+Wagon
+
+5
+
+Inn, Common Rom
+
+5s
+
+Scribe*
+
+5+
+
+Riding Horse
+
+100+
+
+Inn, Private Room
+
+2
+
+Specialist*
+
+10+
+
+War Horse
+
+500+
+
+1 week lodging & meals
+
+20
+
+Hospice
+
+1-2s
+
+*Not always available
+outside of cities.
+
+D20 KILL SHOTS
+Need Help Narrating Death & Carnage? Use these.
+d20
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+BLADES
+You chop off your opponent’s hand at the wrist. They drop to their knees, clutching the mangled
+stump, and will die of blood loss in d4 rounds.
+You drive your blade into the meaty part of your opponent’s leg. As you yank it out, you sever an
+artery, spraying blood over a wide area. They scream for d4 rounds before dying.
+You slide your blade between your opponent’s ribs and out their back. They fall to their knees and
+stare blankly for d4 rounds before keeling over.
+You rupture your opponent’s abdominal cavity. They stand shocked for a moment, attempting to hold
+in their intestines inside. Then they collapse, dying in d4 rounds.
+You hack your opponent’s skull, the blade lodging itself in their brain. They stagger forward a few
+steps before collapsing.
+You slide your blade under the arm push it through until it emerges out the opposite shoulder.
+You drive your blade through the ribs and out your opponent’s back.
+Your blow hacks through the arm, severing it completely before lodging in the rib cage. Death from
+shock and blood loss is nearly instantaneous.
+You slice open your opponent’s belly, unleashing the contents onto the floor.
+
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+
+d20
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+
+d20
+1
+
+You sever the carotid artery, unleashing an arterial spray.
+You shatter your opponent’s skull and bury your blade in their forehead, unleashing gouts of blood
+and brain fluid.
+Your blow drives your opponent’s jaw into their brain, killing them.
+Your blow removes the top of your opponent’s skull, exposing their brain.
+You bury your blade in your opponent’s side, slicing through several organs and lodging in their
+spine.
+You hack your opponent’s neck, unleashing a fountain of blood.
+Your blade cleaves through your opponent’s collar bone and into their rib cage, exposing bone and
+internal organs and unleashing a geyser of blood.
+You plunge your weapon into your opponent’s eye and into their brain.
+You cleave your opponent’s skull, splattering you with blood and brain matter.
+You hack through your opponent’s torso and they fall in two separate pieces.
+Your opponent’s surprised head flies d10 feet in a random direction before bouncing to a stop.
+
+ARROWS & SHARP PROJECTILES
+Your shot lodges in the pelvis. After d4 rounds of agony, your opponent dies from blood loss.
+Your shot lands in the meat of the leg, severing the femoral artery and spraying the area with blood.
+After a round of kicking and screaming, your target dies.
+Your shot enters the bicep and then lodges in the chest. They die after d4 rounds of screaming.
+Your shot enters the shoulder and exits out the neck. Target gurgles and dies after d4 rounds.
+Your shot enters under the armpit and emerges out the neck. They stagger forward a few steps before
+collapsing on their face.
+Your shot penetrates the belly and lodges in the spine. Your opponent groans for d4 rounds before
+succumbing to blood loss.
+Your shot enters the diaphragm, tearing through flesh and bone. Your target falls to the ground,
+vomiting blood, then turns still.
+Your shot punctures your opponent’s lung. They vomit blood before collapsing.
+Your shot enters the solar plexus, pierces the heart, and emerges out the back.
+Your blow penetrates your opponent’s armor, passes through the sternal plate, and lodges in the
+heart.
+Your shot lands between the ribs and pierces the heart.
+Your shot enters the throat and exits the back of the neck. Your opponent drops to their knees,
+gurgling, before collapsing.
+Your shot enters the neck, severing the carotid artery and sending a spray of blood into the air. Death
+is nearly instantaneous.
+Your shot enters the bottom of your target’s jaw, impales the brains, and emerges out the back of
+their skull.
+Your shot enters your target’s open mouth and lodges in the brain.
+You shot enters one side of the skull and emerges out the other.
+Your shot enters though the left eye and emerges out the back of the skull.
+Your shot enters the right eye and into the brain.
+Your shot enters the head between your opponent’s eyes and impales the brain.
+Your shot passes right through the body—killing the target instantly—and continues onward to
+strike the target behind them.
+BLUNT WEAPONS & HANDS
+Your blow slams into your opponent’s side, cracking their vertebrae, and rupturing several internal
+organs. Death from shock and internal injuries in d4 rounds.
+
+2
+3
+4
+5
+6
+7
+8
+9
+
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+
+Your blow shatters the shoulder and drives shattered bone through the rib cage. You opponent dies of
+internal bleeding after d4 rounds.
+You crack several ribs, driving them into internal organs and causing massive hemorrhaging. Death in
+d4 rounds.
+You smash the ribs repeatedly, rupturing several internal organs. Your opponent vomits blood and
+keels over, dying in d4 rounds.
+Your blow shatters your opponent’s sternum. By chance, a shard of bone impales the heart. They
+stagger forward a few feet before collapsing on their face.
+Your blow shatters the ribs. By chance one of them punctures a lung, causing your opponent to vomit
+blood before dying from shock and blood loss.
+You collapse your opponent’s rib cage, rupturing several internal organs and causing them to vomit
+gouts of blood before collapsing dead.
+You shatter your opponent’s collarbone. Part of the bone emerges out the throat, severing a major
+artery and killing them almost instantly.
+Your blow lands on the skull, shattering several vertebrae and causing a sharp of bone to emerge out
+the neck. By chance, this bone severs the carotid artery. Your opponent slums to the floor gurgling,
+then dies.
+You snap your opponent’s neck with an audible crack, killing them instantly.
+Your blow lands so hard it snaps your opponent’s neck and twists the head nearly all the way around.
+Your blow lands between your target’s eyes and they drop to their knees, staring stupidly. Suddenly, a
+fountain of blood erupts from their nose, and they slump over dead.
+You shatter your opponent’s jaw, driving it upward into their brain.
+You smash your opponent’s nose bridge, driving a splinter of bone into the brain.
+You shatter the eye socket, sending a shard of bone into the brain, killing them.
+You bludgeon your target’s face repeatedly, turning it into a pulpy mess of blood and brain matter.
+You cave in your opponent’s skull. They drop to their knees, the nose unleashes gouts of blood, and
+they keel over dead.
+You shatter your opponent’s skull, splattering you with blood and brain matter.
+You cave in the side of your opponent’s head, crushing the brain to pulp and splattering you with
+blood.
+You cave in your target’s skull, killing them instantly.
+
+THIS IS THE END
+What about fighting on horseback? Or while mounted on a griffon? Or ship-to-ship combat?
+
+We dunno. That sort of stuff doesn’t come up much in our games, so we’re not going to touch it.
+Instead, we’ve given you all the tools you need to answer the question yourself. Assign a target
+number and move on. Make it up. Nobody is watching. There are no game police to say you did it
+wrong. Share your ideas on the DungeonCraft Discord.
+May all your rolls be 20s!
+
+
