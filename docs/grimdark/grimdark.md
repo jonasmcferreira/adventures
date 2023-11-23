@@ -2,21 +2,24 @@
 
 ![page break](images/sword.png){ width="300" }
 
+---
 ## Inspired by Deathbringer
 
 Grimdark draws its inspiration from the Deathbringer addon created by the Dungeoncraft [YouTube channel](https://www.youtube.com/@DUNGEONCRAFT1) and [Patreon](https://www.patreon.com/DungeonCraftYouTube). Building upon the innovative ideas and concepts presented in Deathbringer, Grimdark takes the spirit of gritty and intense tabletop role-playing to new heights.
 
+---
 ## Definitions
 
-Game Master (GM): the narrator and referee.
-Player Characters (PC): Fictional characters devised by players.
-Non-Player Character (NPC): Fictional individuals brought to life by the GM
-Party: a group of PCs collaborating for a common goal
-Monster: a hostile NPC who wants to kill and/or eat the PCs.
-Adventure/Scenario: a series of encounters with an objective
-Campaign: a series of connected adventures featuring the same characters
-Test/Attempt/Check: rolling a target number or better on a twenty-sided die (d20).
+- Game Master (GM): the narrator and referee.
+- Player Characters (PC): Fictional characters devised by  players.
+- Non-Player Character (NPC): Fictional individuals brought to life by the GM
+- Party: a group of PCs collaborating for a common goal
+- Monster: a hostile NPC who wants to kill and/or eat the PCs.
+- Adventure/Scenario: a series of encounters with an objective
+- Campaign: a series of connected adventures featuring the same characters
+- Test/Attempt/Check: rolling a target number or better on a twenty-sided die (d20).
 
+---
 ## Introduction
 
 Grimdark is the lean, mean cousin of the most renowned tabletop role-playing game out there. It's less of a game and more of a 'mod kit'—a set of tweaks for a quicker, rawer experience.
@@ -28,15 +31,16 @@ Deploy these rules solo, or blend them into any 5E or old-school renaissance gam
 We enjoy RPGs teetering on the edge, where every shadow on the corner of your eye could be your last. We prefer our PCs as rough-around-the-edges underdogs, scrapping by in a world that's out to get them. And we're fans of gameplay that's more impromptu cinema than pushing pieces, where players say things like, “I silently sneak up behind him and stab him in his kidney” instead of, “I roll 18 stealth, move to the tile next to his and attack”
 
 ### Embracing the Grimdark
+
 In the realm of Tabletop RPGs, a trend has emerged: complexity that bogs down the essence of adventure. Battles that should be swift and thrilling stretch into hour-long marathons. Character sheets have become as daunting as advanced calculus. Characters start off as mighty heroes and only get mightier, rarely tasting defeat or death. Magic, once a rare and wondrous art, has turned routine, losing its mystique.
 
-Screw that.
+**Screw that.**
 
 Grimdark is here to shake things up. Here, combat is quick, instinctual, and full of flair. Forget about intricate character sheets – we’re keeping it straightforward. Characters gain power, but they’re not invincible. They’re heroes, yes, but still mortals vulnerable to a well-placed strike. Magic here is volatile and unpredictable. Death is a constant companion in our adventures, making every moment in the dungeon pulse with peril.
 
 We stand for a few fundamental beliefs:
 
-    Rules Limit, Not Liberate
+#### Rules Limit, Not Liberate
 
 The common notion is that rules define a character's capabilities. More rules, more options, right? Wrong. We argue that rules actually constrict creativity. 
 
@@ -46,13 +50,13 @@ Here, your limits are bound only by your creativity. Outmaneuver a giant by slid
 
 What you do hinges on the scenario and your imagination, not a list on paper.
 
-    Simplicity Speeds Up the Game
+#### Simplicity Speeds Up the Game
 
 Actions, ready actions, bonus actions, reactions, grids, individual initiative—all of these create a game that is slower and longer. Especially during combat, when it should be getting faster!
 
 Overcomplicating character sheets with endless subskills only slows the game further as players sift through minutiae. In Grimdark, character sheets are streamlined. Key information like Ability Score bonuses and a universal ‘Expertise’ bonus for relevant skills keep things moving fast. The GM handles the nitty-gritty, guiding players on what to roll and when.
 
-    The GM Reigns Supreme
+#### The GM Reigns Supreme
 
 There’s a misconception that the Game Master's role is to be a rulebook with legs. We couldn’t disagree more. In Grimdark, the GM isn’t just a rule interpreter – they are the rule. 
 
@@ -62,12 +66,13 @@ They’re what sets TTRPGs apart from video games and board games. They're the h
 
 No RPG can perfectly simulate real combat, skill mastery, or physics. That's why we trust our GMs to make smart calls and bridge gaps. This book? It’s a guide, not gospel.
 
-    The GM is the Final Judge
+#### The GM is the Final Judge
 
 When rules and GM decisions collide, the GM’s call is final. They are the heart and soul of the gameplay, the architects of adventure, and the ultimate authority.
 
 Grimdark is about returning to the roots of roleplaying – fast, fierce, and fun. It's about rekindling the spirit of adventure where anything is possible and the only limit is your imagination.
 
+---
 ## Core Mechanic: Test
 
 In Grimdark, the process for resolving actions is streamlined and intuitive:
@@ -154,9 +159,12 @@ Every character possesses a wide range of skills called Expertise. If a characte
 | 7-9 | +3 |
 | 10+ | +4 |
 
+
 If a character attempts a common action (hiding, climbing, riding a horse, etc.) outside their field of Expertise, they apply their Ability Score Modifier to their d20 test.
+
 If a character attempts an uncommon action (safecracking, open-heart surgery, disarming an explosive device) outside their field of Expertise, the GM may assign a harder DR, disadvantage, or both.
 
+---
 ## Character Creation
 
 Some characters rise to great heights of power. Most will meet an ignominious end, devoured by monsters or left to rot on a cold dungeon floor. If adventuring were easy, every peasant would drop their hoe and run off to explore the nearest cave! Because Grimdark is so deadly, we recommend you make two characters to start. Think of one as the main character and the other as the replacement character when the first one bites the dust.
@@ -435,7 +443,7 @@ Roll D6
 | 8.  | Crushed by debts. |
 | 9.  | Look up to you. |
 | 10. |  Protective of you. |
-
+---
 ## Experience and levelling
 
 In Grimdark, characters level up when the GM says they do.
@@ -463,7 +471,7 @@ That’s it. We’re tempted to provide more guidance, like hard numbers to reac
 - It should take a minimum of 3-4 sessions to rise one level.
 - PCs can never rise more than one level in a single session.
 
-
+---
 ## Encumbrance
 
 ### Item Slots
@@ -477,7 +485,7 @@ For example, if a character has a Constitution score of 14, they would have a to
 In Grimdark, coins have weight and take up space in a character's inventory. Specifically, 100 coins occupy one item slot. This rule encourages players to think about the practicality of carrying large amounts of currency, as it can quickly fill up their available item slots.
 
 Once all slots are filled, characters move at half speed.
-
+---
 ## Corruption
 
 - Gain +1 when you commit and evil deed or roll Nat 1 when spellcasting.
@@ -514,7 +522,7 @@ MUTATIONS (D20)
 | 18 | Demonic horns. |
 | 19 | Skull face. |
 | 20 | Molts into a giant roach or worm. |
-
+---
 ## Healing
 
 Use a Grimdark Die to stitch up wounds after combat. If you stitch your own wounds, divide the Grimdark Die roll in half and round down.
@@ -524,9 +532,9 @@ Heal HP = CON every day of complete bedrest.
 ### No rest for he wicked
 
 In Grimdark, the concept of "short rests" and "long rests" as commonly known in other role-playing games is entirely redefined. There are no moments of respite, no pauses to catch your breath, and no extended periods of restorative rest. In this harsh and unforgiving world, the only time for resting is in the grave.
-
+---
 ## Combat
-
+---
 ## Magic
 
 In Grimdark, the practice of magic is a perilous endeavor fraught with uncertainty. There are no conventional spell slots, and spellcasters must rely on the roll of the dice to determine the outcome of their magical endeavors.
@@ -538,8 +546,10 @@ Success: If the roll results in a success (typically by meeting or exceeding a c
 
 Natural 1: However, if the roll results in a natural 1, it represents a critical failure and a potentially catastrophic outcome. Not only does the spell fail, but the caster also gains a Corruption Point.
 
+---
 ## Spells
 
+---
 ## Monsters
 
 Import and monsters and spells you like from 5e/OSR games.
@@ -550,8 +560,11 @@ Spells do the same damage.
 
 Magic items are virtually non-existent. Potions are rare.
 
+---
 ## Rewards & Treasure
 
+---
 ## Adventures
 
+---
 ## GM Advice
