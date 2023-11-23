@@ -1,6 +1,6 @@
 # Grimdark
 
-![](images/sword.png)
+![](images/sword.png) {width="300"}
 
 ## Inspired by Deathbringer
 
@@ -133,7 +133,7 @@ Improbable tasks are those of exceptional challenge, often bordering on the hero
 - Breaking free from iron chains.
 - Diving off a cliff into a turbulent river to escape a goblin horde.
 
-### ADVANTAGE & DISADVANTAGE
+### Advantage & Disadvantage
 
 In certain scenarios, the GM can determine that a PC either has an advantage or a disadvantage during a Test. This could be due to various factors, like attempting a stealth attack from behind or engaging in combat under challenging conditions like deep mud.
 
@@ -175,7 +175,7 @@ To create a Player Character (PC), follow these steps:
 4. Determine your Defense (DEF).
 5. Name the Character.
 
-### ABILITY SCORES
+### Ability Scores
 
 Characters are defined by six ability scores: Strength, Intelligence, Wisdom, Dexterity, Constitution, and Charisma.
 
@@ -241,7 +241,7 @@ If you have no bonuses, your character has died of plague and is buried in a mas
 
 ### Profession and Background
 
-
+    Work in Progress
 
 ### Hit Points (HP)
 
@@ -435,10 +435,6 @@ Roll D6
 | 8.  | Crushed by debts. |
 | 9.  | Look up to you. |
 | 10. |  Protective of you. |
-
-### Name the Character
-
-## Time & Movement
 
 ## Experience and levelling
 
