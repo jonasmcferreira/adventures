@@ -251,7 +251,7 @@ If you have no bonuses, your character has died of plague and is buried in a mas
 
 ### Profession and Background
 
-    Work in Progress
+Choose a Profession
 
 ### Hit Points (HP)
 
