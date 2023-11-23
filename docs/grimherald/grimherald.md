@@ -3,11 +3,13 @@
 ![page break](images/sword.png){ width="300" }
 
 ---
+
 ## Inspired by Deathbringer
 
 Grim Herald draws its inspiration from the Deathbringer addon created by the Dungeoncraft [YouTube channel](https://www.youtube.com/@DUNGEONCRAFT1) and [Patreon](https://www.patreon.com/DungeonCraftYouTube). Building upon the innovative ideas and concepts presented in Deathbringer, Grim Herald takes the spirit of gritty and intense tabletop role-playing to new heights.
 
 ---
+
 ## Definitions
 
 - Game Master (GM): the narrator and referee.
@@ -20,6 +22,7 @@ Grim Herald draws its inspiration from the Deathbringer addon created by the Dun
 - Test/Attempt/Check: rolling a target number or better on a twenty-sided die (d20).
 
 ---
+
 ## Introduction
 
 Grim Herald is the lean, mean cousin of the most renowned tabletop role-playing game out there. It's less of a game and more of a 'mod kit'—a set of tweaks for a quicker, rawer experience.
@@ -73,6 +76,7 @@ When rules and GM decisions collide, the GM’s call is final. They are the hear
 Grim Herald is about returning to the roots of roleplaying – fast, fierce, and fun. It's about rekindling the spirit of adventure where anything is possible and the only limit is your imagination.
 
 ---
+
 ## Core Mechanic: Test
 
 In Grim Herald, the process for resolving actions is streamlined and intuitive:
@@ -159,12 +163,12 @@ Every character possesses a wide range of skills called Expertise. If a characte
 | 7-9 | +3 |
 | 10+ | +4 |
 
-
 If a character attempts a common action (hiding, climbing, riding a horse, etc.) outside their field of Expertise, they apply their Ability Score Modifier to their d20 test.
 
 If a character attempts an uncommon action (safecracking, open-heart surgery, disarming an explosive device) outside their field of Expertise, the GM may assign a harder DR, disadvantage, or both.
 
 ---
+
 ## Character Creation
 
 Some characters rise to great heights of power. Most will meet an ignominious end, devoured by monsters or left to rot on a cold dungeon floor. If adventuring were easy, every peasant would drop their hoe and run off to explore the nearest cave! Because Grim Herald is so deadly, we recommend you make two characters to start. Think of one as the main character and the other as the replacement character when the first one bites the dust.
@@ -173,7 +177,6 @@ Some characters rise to great heights of power. Most will meet an ignominious en
 - No one can see in the dark.
 - The gods of Grim Herald are indifferent.
 - Spellcasters have been hunted to near extinction.
-
 
 To create a Player Character (PC), follow these steps:
 
@@ -392,7 +395,6 @@ Toss some dice. If the results don’t make sense, roll again.
 | 9. Squalid | 9. Ruin |
 | 10. War-ravaged | 10. City |
 
-
 | D10 | Parent fate |
 | --- | --- |
 | 1  | Both dead from plague |
@@ -443,7 +445,9 @@ Roll D6
 | 8.  | Crushed by debts. |
 | 9.  | Look up to you. |
 | 10. |  Protective of you. |
+
 ---
+
 ## Experience and levelling
 
 In Grim Herald, characters level up when the GM says they do.
@@ -472,6 +476,7 @@ That’s it. We’re tempted to provide more guidance, like hard numbers to reac
 - PCs can never rise more than one level in a single session.
 
 ---
+
 ## Encumbrance
 
 ### Item Slots
@@ -485,7 +490,9 @@ For example, if a character has a Constitution score of 14, they would have a to
 In Grim Herald, coins have weight and take up space in a character's inventory. Specifically, 100 coins occupy one item slot. This rule encourages players to think about the practicality of carrying large amounts of currency, as it can quickly fill up their available item slots.
 
 Once all slots are filled, characters move at half speed.
+
 ---
+
 ## Corruption
 
 - Gain +1 when you commit and evil deed or roll Nat 1 when spellcasting.
@@ -522,7 +529,9 @@ MUTATIONS (D20)
 | 18 | Demonic horns. |
 | 19 | Skull face. |
 | 20 | Molts into a giant roach or worm. |
+
 ---
+
 ## Healing
 
 Use a Grim Herald Die to stitch up wounds after combat. If you stitch your own wounds, divide the Grim Herald Die roll in half and round down.
@@ -532,9 +541,13 @@ Heal HP = CON every day of complete bedrest.
 ### No rest for he wicked
 
 In Grim Herald, the concept of "short rests" and "long rests" as commonly known in other role-playing games is entirely redefined. There are no moments of respite, no pauses to catch your breath, and no extended periods of restorative rest. In this harsh and unforgiving world, the only time for resting is in the grave.
+
 ---
+
 ## Combat
+
 ---
+
 ## Magic
 
 In Grim Herald, the practice of magic is a perilous endeavor fraught with uncertainty. There are no conventional spell slots, and spellcasters must rely on the roll of the dice to determine the outcome of their magical endeavors.
@@ -547,9 +560,11 @@ Success: If the roll results in a success (typically by meeting or exceeding a c
 Natural 1: However, if the roll results in a natural 1, it represents a critical failure and a potentially catastrophic outcome. Not only does the spell fail, but the caster also gains a Corruption Point.
 
 ---
+
 ## Spells
 
 ---
+
 ## Monsters
 
 Import and monsters and spells you like from 5e/OSR games.
@@ -561,10 +576,13 @@ Spells do the same damage.
 Magic items are virtually non-existent. Potions are rare.
 
 ---
+
 ## Rewards & Treasure
 
 ---
+
 ## Adventures
 
 ---
+
 ## GM Advice
