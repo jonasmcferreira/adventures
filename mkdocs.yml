@@ -16,6 +16,8 @@ nav:
   - Dungeons of Drakkenheim:
     - Characters: drakkenheim/characters.md
     - Day 0: drakkenheim/00.md
+  - Grimdark Addon:
+    - Grimdark: grimdark/grimdark.md
 
 theme:
   name: material
