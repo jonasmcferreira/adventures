@@ -1,6 +1,6 @@
 # Grimdark
 
-![](images/sword.png) {width="300"}
+![](images/sword.png) { width="300" }
 
 ## Inspired by Deathbringer
 
