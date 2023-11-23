@@ -1,11 +1,11 @@
-# Grimdark
+# Grim Herald
 
 ![page break](images/sword.png){ width="300" }
 
 ---
 ## Inspired by Deathbringer
 
-Grimdark draws its inspiration from the Deathbringer addon created by the Dungeoncraft [YouTube channel](https://www.youtube.com/@DUNGEONCRAFT1) and [Patreon](https://www.patreon.com/DungeonCraftYouTube). Building upon the innovative ideas and concepts presented in Deathbringer, Grimdark takes the spirit of gritty and intense tabletop role-playing to new heights.
+Grim Herald draws its inspiration from the Deathbringer addon created by the Dungeoncraft [YouTube channel](https://www.youtube.com/@DUNGEONCRAFT1) and [Patreon](https://www.patreon.com/DungeonCraftYouTube). Building upon the innovative ideas and concepts presented in Deathbringer, Grim Herald takes the spirit of gritty and intense tabletop role-playing to new heights.
 
 ---
 ## Definitions
@@ -22,21 +22,21 @@ Grimdark draws its inspiration from the Deathbringer addon created by the Dungeo
 ---
 ## Introduction
 
-Grimdark is the lean, mean cousin of the most renowned tabletop role-playing game out there. It's less of a game and more of a 'mod kit'—a set of tweaks for a quicker, rawer experience.
+Grim Herald is the lean, mean cousin of the most renowned tabletop role-playing game out there. It's less of a game and more of a 'mod kit'—a set of tweaks for a quicker, rawer experience.
 
-Deploy these rules solo, or blend them into any 5E or old-school renaissance game. Mix and match to your heart's content. Think of Grimdark as the kick of hot sauce to your RPG feast.
+Deploy these rules solo, or blend them into any 5E or old-school renaissance game. Mix and match to your heart's content. Think of Grim Herald as the kick of hot sauce to your RPG feast.
 
-### Why Go Grimdark?
+### Why Go Grim Herald?
 
 We enjoy RPGs teetering on the edge, where every shadow on the corner of your eye could be your last. We prefer our PCs as rough-around-the-edges underdogs, scrapping by in a world that's out to get them. And we're fans of gameplay that's more impromptu cinema than pushing pieces, where players say things like, “I silently sneak up behind him and stab him in his kidney” instead of, “I roll 18 stealth, move to the tile next to his and attack”
 
-### Embracing the Grimdark
+### Embracing the Grim
 
 In the realm of Tabletop RPGs, a trend has emerged: complexity that bogs down the essence of adventure. Battles that should be swift and thrilling stretch into hour-long marathons. Character sheets have become as daunting as advanced calculus. Characters start off as mighty heroes and only get mightier, rarely tasting defeat or death. Magic, once a rare and wondrous art, has turned routine, losing its mystique.
 
 **Screw that.**
 
-Grimdark is here to shake things up. Here, combat is quick, instinctual, and full of flair. Forget about intricate character sheets – we’re keeping it straightforward. Characters gain power, but they’re not invincible. They’re heroes, yes, but still mortals vulnerable to a well-placed strike. Magic here is volatile and unpredictable. Death is a constant companion in our adventures, making every moment in the dungeon pulse with peril.
+Grim Herald is here to shake things up. Here, combat is quick, instinctual, and full of flair. Forget about intricate character sheets – we’re keeping it straightforward. Characters gain power, but they’re not invincible. They’re heroes, yes, but still mortals vulnerable to a well-placed strike. Magic here is volatile and unpredictable. Death is a constant companion in our adventures, making every moment in the dungeon pulse with peril.
 
 We stand for a few fundamental beliefs:
 
@@ -44,7 +44,7 @@ We stand for a few fundamental beliefs:
 
 The common notion is that rules define a character's capabilities. More rules, more options, right? Wrong. We argue that rules actually constrict creativity. 
 
-Specific skills and feats condition players to think inside the box, trapped by the confines of their character sheets. This leads to repetitive gameplay and a reluctance to try actions not explicitly listed. Grimdark breaks these chains. 
+Specific skills and feats condition players to think inside the box, trapped by the confines of their character sheets. This leads to repetitive gameplay and a reluctance to try actions not explicitly listed. Grim Herald breaks these chains.
 
 Here, your limits are bound only by your creativity. Outmaneuver a giant by sliding between its legs? Why not. Use your shield as a surfboard in a staircase showdown? Absolutely. Make a weapon out of a dinner plate? Go for it. Every character can wield an improvised weapon – no special skill needed. 
 
@@ -54,11 +54,11 @@ What you do hinges on the scenario and your imagination, not a list on paper.
 
 Actions, ready actions, bonus actions, reactions, grids, individual initiative—all of these create a game that is slower and longer. Especially during combat, when it should be getting faster!
 
-Overcomplicating character sheets with endless subskills only slows the game further as players sift through minutiae. In Grimdark, character sheets are streamlined. Key information like Ability Score bonuses and a universal ‘Expertise’ bonus for relevant skills keep things moving fast. The GM handles the nitty-gritty, guiding players on what to roll and when.
+Overcomplicating character sheets with endless subskills only slows the game further as players sift through minutiae. In Grim Herald, character sheets are streamlined. Key information like Ability Score bonuses and a universal ‘Expertise’ bonus for relevant skills keep things moving fast. The GM handles the nitty-gritty, guiding players on what to roll and when.
 
 #### The GM Reigns Supreme
 
-There’s a misconception that the Game Master's role is to be a rulebook with legs. We couldn’t disagree more. In Grimdark, the GM isn’t just a rule interpreter – they are the rule. 
+There’s a misconception that the Game Master's role is to be a rulebook with legs. We couldn’t disagree more. In Grim Herald, the GM isn’t just a rule interpreter – they are the rule. 
 
 They’re what sets TTRPGs apart from video games and board games. They're the human element that allows for spontaneous and creative gameplay. Remember, board games need rigid rules because there's no GM. But in TTRPGs, we have the best AI there is – the human brain. That's why our rules are intentionally malleable, empowering the GM to keep the adventure flowing. The cardinal rule here is simple:
 
@@ -70,12 +70,12 @@ No RPG can perfectly simulate real combat, skill mastery, or physics. That's why
 
 When rules and GM decisions collide, the GM’s call is final. They are the heart and soul of the gameplay, the architects of adventure, and the ultimate authority.
 
-Grimdark is about returning to the roots of roleplaying – fast, fierce, and fun. It's about rekindling the spirit of adventure where anything is possible and the only limit is your imagination.
+Grim Herald is about returning to the roots of roleplaying – fast, fierce, and fun. It's about rekindling the spirit of adventure where anything is possible and the only limit is your imagination.
 
 ---
 ## Core Mechanic: Test
 
-In Grimdark, the process for resolving actions is streamlined and intuitive:
+In Grim Herald, the process for resolving actions is streamlined and intuitive:
 
 Setting the Scene: The GM outlines the current scenario. The player then declares their character's intended action.
 
@@ -85,7 +85,7 @@ Rolling for Outcome: The player rolls a d20, adding relevant Ability Score Modif
 
     Formula for Test: d20 roll + Ability Score Modifier + Expertise Bonus (when relevant)
 
-In Grimdark, the dice rolls also carry extra weight:
+In Grim Herald, the dice rolls also carry extra weight:
 
 Critical Success: Rolling a natural 20 isn't just a success; it's a triumph, bringing additional perks. In combat scenarios, this translates to an added d12 damage roll.
 
@@ -167,11 +167,11 @@ If a character attempts an uncommon action (safecracking, open-heart surgery, di
 ---
 ## Character Creation
 
-Some characters rise to great heights of power. Most will meet an ignominious end, devoured by monsters or left to rot on a cold dungeon floor. If adventuring were easy, every peasant would drop their hoe and run off to explore the nearest cave! Because Grimdark is so deadly, we recommend you make two characters to start. Think of one as the main character and the other as the replacement character when the first one bites the dust.
+Some characters rise to great heights of power. Most will meet an ignominious end, devoured by monsters or left to rot on a cold dungeon floor. If adventuring were easy, every peasant would drop their hoe and run off to explore the nearest cave! Because Grim Herald is so deadly, we recommend you make two characters to start. Think of one as the main character and the other as the replacement character when the first one bites the dust.
 
 - All characters are human. 
 - No one can see in the dark.
-- The gods of Grimdark are indifferent.
+- The gods of Grim Herald are indifferent.
 - Spellcasters have been hunted to near extinction.
 
 
@@ -246,7 +246,6 @@ OSR: for each Ability, roll 3d6, determine the bonus, arrange as desired. No re-
 
 If you have no bonuses, your character has died of plague and is buried in a mass grave. Roll again.
 
-
 ### Profession and Background
 
     Work in Progress
@@ -258,6 +257,7 @@ Hit Points are a combination of overall health, skill, and luck. Most characters
     Hit points = Hit Dice + CON
 
 This is what separates the bad assess from the masses:
+
 - Characters roll for HP on 1st level. If they roll a 1 or a 2, too bad. They must keep it.
 - No “do-overs,” re-rolls, or claiming ‘interference” because the dice bounced off a pencil or a book.
 - CON score is the Max HP
@@ -271,11 +271,11 @@ dead. No death saves. No resurrections. Dead. Deal with it.
 
 Defense (DEF) is what enemies need to roll to hit your character. Characters begin with a DEF of 10+ their DEX bonus/penalty + armor bonuses.
 
-| Armor Type | Description                     | DEF Bonus | Cost  |
-|------------|---------------------------------|-----------|-------|
-| Shield     | Wood, battered.                   | +2        | 15gp  |
-| Light      | Leather coat, jacket, or doublet  | +1        | 10gp  |
-| Medium     | Gambeson, chain vest, scale shirt | +2       | 75gp  |
+| Armor Type | Description                       | DEF Bonus | Cost   |
+|------------|-----------------------------------|-----------|--------|
+| Shield     | Wood, battered.                   | +2        | 15gp   |
+| Light      | Leather coat, jacket, or doublet  | +1        | 10gp   |
+| Medium     | Gambeson, chain vest, scale shirt | +2        | 75gp   |
 | Heavy      | Full plate armor                  | +3        | 1000gp |
 
 ### Determine Personality (Optional)
@@ -446,7 +446,7 @@ Roll D6
 ---
 ## Experience and levelling
 
-In Grimdark, characters level up when the GM says they do.
+In Grim Herald, characters level up when the GM says they do.
 
 Experience points (XP) are awarded entirely at the GM’s discretion. How the GM awards XP will incentivize certain behaviors:
 
@@ -460,7 +460,7 @@ Level up at 10xp.
 
 When you gain a Level:
 
-- Gain an additional Grimdark Die each level.
+- Gain an additional Grim Herald Die each level.
 - Test against each Ability Score. Roll a d20. If you roll higher than the current bonus number, raise that Ability Score by 1 (max 20)
 - Gain d6+CON bonus HP (minimum 1)
 
@@ -476,13 +476,13 @@ That’s it. We’re tempted to provide more guidance, like hard numbers to reac
 
 ### Item Slots
 
-Each player character (PC) in Grimdark has a number of item slots equal to their Constitution (CON) score plus 10. These item slots represent the character's capacity to carry various items, weapons, armor, and supplies during their adventures.
+Each player character (PC) in Grim Herald has a number of item slots equal to their Constitution (CON) score plus 10. These item slots represent the character's capacity to carry various items, weapons, armor, and supplies during their adventures.
 
 For example, if a character has a Constitution score of 14, they would have a total of 24 item slots (14 CON + 10).
 
 ### Managing Coins
 
-In Grimdark, coins have weight and take up space in a character's inventory. Specifically, 100 coins occupy one item slot. This rule encourages players to think about the practicality of carrying large amounts of currency, as it can quickly fill up their available item slots.
+In Grim Herald, coins have weight and take up space in a character's inventory. Specifically, 100 coins occupy one item slot. This rule encourages players to think about the practicality of carrying large amounts of currency, as it can quickly fill up their available item slots.
 
 Once all slots are filled, characters move at half speed.
 ---
@@ -492,7 +492,7 @@ Once all slots are filled, characters move at half speed.
 - “Evil deeds” include killing prisoners who have surrendered, innocent people, or anything the GM determines to be morally wrong.
 - At 10 Corruption you have lost all humanity and become a monster controlled by the GM.
 
-Corruption is an essential part of the Grimdark universe. Actions have consequences and the PCs may be heroes—but flawed heroes who are haunted by their pasts and who must constantly struggle against becoming the very monsters they fight against. Some characters may be forced to retire before they lose their souls.
+Corruption is an essential part of the Grim Herald universe. Actions have consequences and the PCs may be heroes—but flawed heroes who are haunted by their pasts and who must constantly struggle against becoming the very monsters they fight against. Some characters may be forced to retire before they lose their souls.
 
 Characters begin with zero Corruption. When a character gains ten Corruption, they become a monster controlled by the GM and are removed from play. Corruption may manifest physically in the form of a physical mutation (a third eye, scaley skin, or a second head growing out of the PC’s shoulder, etc.) or it can be mental, with the character having a seemingly normal appearance, but completely depraved and murderous thoughts.
 
@@ -525,22 +525,22 @@ MUTATIONS (D20)
 ---
 ## Healing
 
-Use a Grimdark Die to stitch up wounds after combat. If you stitch your own wounds, divide the Grimdark Die roll in half and round down.
+Use a Grim Herald Die to stitch up wounds after combat. If you stitch your own wounds, divide the Grim Herald Die roll in half and round down.
 
 Heal HP = CON every day of complete bedrest.
 
 ### No rest for he wicked
 
-In Grimdark, the concept of "short rests" and "long rests" as commonly known in other role-playing games is entirely redefined. There are no moments of respite, no pauses to catch your breath, and no extended periods of restorative rest. In this harsh and unforgiving world, the only time for resting is in the grave.
+In Grim Herald, the concept of "short rests" and "long rests" as commonly known in other role-playing games is entirely redefined. There are no moments of respite, no pauses to catch your breath, and no extended periods of restorative rest. In this harsh and unforgiving world, the only time for resting is in the grave.
 ---
 ## Combat
 ---
 ## Magic
 
-In Grimdark, the practice of magic is a perilous endeavor fraught with uncertainty. There are no conventional spell slots, and spellcasters must rely on the roll of the dice to determine the outcome of their magical endeavors.
+In Grim Herald, the practice of magic is a perilous endeavor fraught with uncertainty. There are no conventional spell slots, and spellcasters must rely on the roll of the dice to determine the outcome of their magical endeavors.
 
 Roll to Cast
-When a character attempts to cast a spell in Grimdark, they must make a roll to determine the success of their casting. This roll reflects the inherent volatility of magic in this world. The specific mechanics of the roll may involve rolling a twenty-sided die (d20) or using another appropriate method.
+When a character attempts to cast a spell in Grim Herald, they must make a roll to determine the success of their casting. This roll reflects the inherent volatility of magic in this world. The specific mechanics of the roll may involve rolling a twenty-sided die (d20) or using another appropriate method.
 
 Success: If the roll results in a success (typically by meeting or exceeding a certain target number), the spell is cast as intended, and its effects manifest as expected.
 
