@@ -1,14 +1,14 @@
-# Grim Herald
+# Grim
 
 ![page break](images/sword.png){ width="300" }
 
----
+![divider](images/divider.png){ width="500" }
 
 ## Inspired by Deathbringer
 
-Grim Herald draws its inspiration from the Deathbringer addon created by the Dungeoncraft [YouTube channel](https://www.youtube.com/@DUNGEONCRAFT1) and [Patreon](https://www.patreon.com/DungeonCraftYouTube). Building upon the innovative ideas and concepts presented in Deathbringer, Grim Herald takes the spirit of gritty and intense tabletop role-playing to new heights.
+Grim draws its inspiration from the Deathbringer addon created by the Dungeoncraft [YouTube channel](https://www.youtube.com/@DUNGEONCRAFT1) and [Patreon](https://www.patreon.com/DungeonCraftYouTube). Building upon the innovative ideas and concepts presented in Deathbringer, Grim takes the spirit of gritty and intense tabletop role-playing to new heights.
 
----
+![divider](images/divider.png){ width="500" }
 
 ## Definitions
 
@@ -21,15 +21,15 @@ Grim Herald draws its inspiration from the Deathbringer addon created by the Dun
 - Campaign: a series of connected adventures featuring the same characters
 - Test/Attempt/Check: rolling a target number or better on a twenty-sided die (d20).
 
----
+![divider](images/divider.png){ width="500" }
 
 ## Introduction
 
-Grim Herald is the lean, mean cousin of the most renowned tabletop role-playing game out there. It's less of a game and more of a 'mod kit'—a set of tweaks for a quicker, rawer experience.
+Grim is the lean, mean cousin of the most renowned tabletop role-playing game out there. It's less of a game and more of a 'mod kit', a set of tweaks for a quicker, rawer experience.
 
-Deploy these rules solo, or blend them into any 5E or old-school renaissance game. Mix and match to your heart's content. Think of Grim Herald as the kick of hot sauce to your RPG feast.
+Deploy these rules solo, or blend them into any 5E or old-school renaissance game. Mix and match to your heart's content. Think of Grim as the kick of hot sauce to your RPG feast.
 
-### Why Go Grim Herald?
+### Why go Grim?
 
 We enjoy RPGs teetering on the edge, where every shadow on the corner of your eye could be your last. We prefer our PCs as rough-around-the-edges underdogs, scrapping by in a world that's out to get them. And we're fans of gameplay that's more impromptu cinema than pushing pieces, where players say things like, “I silently sneak up behind him and stab him in his kidney” instead of, “I roll 18 stealth, move to the tile next to his and attack”
 
@@ -39,7 +39,7 @@ In the realm of Tabletop RPGs, a trend has emerged: complexity that bogs down th
 
 **Screw that.**
 
-Grim Herald is here to shake things up. Here, combat is quick, instinctual, and full of flair. Forget about intricate character sheets – we’re keeping it straightforward. Characters gain power, but they’re not invincible. They’re heroes, yes, but still mortals vulnerable to a well-placed strike. Magic here is volatile and unpredictable. Death is a constant companion in our adventures, making every moment in the dungeon pulse with peril.
+Grim is here to shake things up. Here, combat is quick, instinctual, and full of flair. Forget about intricate character sheets – we’re keeping it straightforward. Characters gain power, but they’re not invincible. They’re heroes, yes, but still mortals vulnerable to a well-placed strike. Magic here is volatile and unpredictable. Death is a constant companion in our adventures, making every moment in the dungeon pulse with peril.
 
 We stand for a few fundamental beliefs:
 
@@ -47,7 +47,7 @@ We stand for a few fundamental beliefs:
 
 The common notion is that rules define a character's capabilities. More rules, more options, right? Wrong. We argue that rules actually constrict creativity. 
 
-Specific skills and feats condition players to think inside the box, trapped by the confines of their character sheets. This leads to repetitive gameplay and a reluctance to try actions not explicitly listed. Grim Herald breaks these chains.
+Specific skills and feats condition players to think inside the box, trapped by the confines of their character sheets. This leads to repetitive gameplay and a reluctance to try actions not explicitly listed. Grim breaks these chains.
 
 Here, your limits are bound only by your creativity. Outmaneuver a giant by sliding between its legs? Why not. Use your shield as a surfboard in a staircase showdown? Absolutely. Make a weapon out of a dinner plate? Go for it. Every character can wield an improvised weapon – no special skill needed. 
 
@@ -57,11 +57,11 @@ What you do hinges on the scenario and your imagination, not a list on paper.
 
 Actions, ready actions, bonus actions, reactions, grids, individual initiative—all of these create a game that is slower and longer. Especially during combat, when it should be getting faster!
 
-Overcomplicating character sheets with endless subskills only slows the game further as players sift through minutiae. In Grim Herald, character sheets are streamlined. Key information like Ability Score bonuses and a universal ‘Expertise’ bonus for relevant skills keep things moving fast. The GM handles the nitty-gritty, guiding players on what to roll and when.
+Overcomplicating character sheets with endless subskills only slows the game further as players sift through minutiae. In Grim, character sheets are streamlined. Key information like Ability Score bonuses and a universal ‘Expertise’ bonus for relevant skills keep things moving fast. The GM handles the nitty-gritty, guiding players on what to roll and when.
 
 #### The GM Reigns Supreme
 
-There’s a misconception that the Game Master's role is to be a rulebook with legs. We couldn’t disagree more. In Grim Herald, the GM isn’t just a rule interpreter – they are the rule. 
+There’s a misconception that the Game Master's role is to be a rulebook with legs. We couldn’t disagree more. In Grim, the GM isn’t just a rule interpreter – they are the rule. 
 
 They’re what sets TTRPGs apart from video games and board games. They're the human element that allows for spontaneous and creative gameplay. Remember, board games need rigid rules because there's no GM. But in TTRPGs, we have the best AI there is – the human brain. That's why our rules are intentionally malleable, empowering the GM to keep the adventure flowing. The cardinal rule here is simple:
 
@@ -73,13 +73,13 @@ No RPG can perfectly simulate real combat, skill mastery, or physics. That's why
 
 When rules and GM decisions collide, the GM’s call is final. They are the heart and soul of the gameplay, the architects of adventure, and the ultimate authority.
 
-Grim Herald is about returning to the roots of roleplaying – fast, fierce, and fun. It's about rekindling the spirit of adventure where anything is possible and the only limit is your imagination.
+Grim is about returning to the roots of roleplaying – fast, fierce, and fun. It's about rekindling the spirit of adventure where anything is possible and the only limit is your imagination.
 
----
+![divider](images/divider.png){ width="500" }
 
 ## Core Mechanic: Test
 
-In Grim Herald, the process for resolving actions is streamlined and intuitive:
+In Grim, the process for resolving actions is streamlined and intuitive:
 
 Setting the Scene: The GM outlines the current scenario. The player then declares their character's intended action.
 
@@ -89,7 +89,7 @@ Rolling for Outcome: The player rolls a d20, adding relevant Ability Score Modif
 
     Formula for Test: d20 roll + Ability Score Modifier + Expertise Bonus (when relevant)
 
-In Grim Herald, the dice rolls also carry extra weight:
+In Grim, the dice rolls also carry extra weight:
 
 Critical Success: Rolling a natural 20 isn't just a success; it's a triumph, bringing additional perks. In combat scenarios, this translates to an added d12 damage roll.
 
@@ -167,15 +167,15 @@ If a character attempts a common action (hiding, climbing, riding a horse, etc.)
 
 If a character attempts an uncommon action (safecracking, open-heart surgery, disarming an explosive device) outside their field of Expertise, the GM may assign a harder DR, disadvantage, or both.
 
----
+![divider](images/divider.png){ width="500" }
 
 ## Character Creation
 
-Some characters rise to great heights of power. Most will meet an ignominious end, devoured by monsters or left to rot on a cold dungeon floor. If adventuring were easy, every peasant would drop their hoe and run off to explore the nearest cave! Because Grim Herald is so deadly, we recommend you make two characters to start. Think of one as the main character and the other as the replacement character when the first one bites the dust.
+Some characters rise to great heights of power. Most will meet an ignominious end, devoured by monsters or left to rot on a cold dungeon floor. If adventuring were easy, every peasant would drop their hoe and run off to explore the nearest cave! Because Grim is so deadly, we recommend you make two characters to start. Think of one as the main character and the other as the replacement character when the first one bites the dust.
 
 - All characters are human. 
 - No one can see in the dark.
-- The gods of Grim Herald are indifferent.
+- The gods of Grim are indifferent.
 - Spellcasters have been hunted to near extinction.
 
 To create a Player Character (PC), follow these steps:
@@ -446,11 +446,11 @@ Roll D6
 | 9.  | Look up to you. |
 | 10. |  Protective of you. |
 
----
+![divider](images/divider.png){ width="500" }
 
 ## Experience and levelling
 
-In Grim Herald, characters level up when the GM says they do.
+In Grim, characters level up when the GM says they do.
 
 Experience points (XP) are awarded entirely at the GM’s discretion. How the GM awards XP will incentivize certain behaviors:
 
@@ -464,7 +464,7 @@ Level up at 10xp.
 
 When you gain a Level:
 
-- Gain an additional Grim Herald Die each level.
+- Gain an additional Grim Die each level.
 - Test against each Ability Score. Roll a d20. If you roll higher than the current bonus number, raise that Ability Score by 1 (max 20)
 - Gain d6+CON bonus HP (minimum 1)
 
@@ -475,23 +475,23 @@ That’s it. We’re tempted to provide more guidance, like hard numbers to reac
 - It should take a minimum of 3-4 sessions to rise one level.
 - PCs can never rise more than one level in a single session.
 
----
+![divider](images/divider.png){ width="500" }
 
 ## Encumbrance
 
 ### Item Slots
 
-Each player character (PC) in Grim Herald has a number of item slots equal to their Constitution (CON) score plus 10. These item slots represent the character's capacity to carry various items, weapons, armor, and supplies during their adventures.
+Each player character (PC) in Grim has a number of item slots equal to their Constitution (CON) score plus 10. These item slots represent the character's capacity to carry various items, weapons, armor, and supplies during their adventures.
 
 For example, if a character has a Constitution score of 14, they would have a total of 24 item slots (14 CON + 10).
 
 ### Managing Coins
 
-In Grim Herald, coins have weight and take up space in a character's inventory. Specifically, 100 coins occupy one item slot. This rule encourages players to think about the practicality of carrying large amounts of currency, as it can quickly fill up their available item slots.
+In Grim, coins have weight and take up space in a character's inventory. Specifically, 100 coins occupy one item slot. This rule encourages players to think about the practicality of carrying large amounts of currency, as it can quickly fill up their available item slots.
 
 Once all slots are filled, characters move at half speed.
 
----
+![divider](images/divider.png){ width="500" }
 
 ## Corruption
 
@@ -499,7 +499,7 @@ Once all slots are filled, characters move at half speed.
 - “Evil deeds” include killing prisoners who have surrendered, innocent people, or anything the GM determines to be morally wrong.
 - At 10 Corruption you have lost all humanity and become a monster controlled by the GM.
 
-Corruption is an essential part of the Grim Herald universe. Actions have consequences and the PCs may be heroes—but flawed heroes who are haunted by their pasts and who must constantly struggle against becoming the very monsters they fight against. Some characters may be forced to retire before they lose their souls.
+Corruption is an essential part of the Grim universe. Actions have consequences and the PCs may be heroes—but flawed heroes who are haunted by their pasts and who must constantly struggle against becoming the very monsters they fight against. Some characters may be forced to retire before they lose their souls.
 
 Characters begin with zero Corruption. When a character gains ten Corruption, they become a monster controlled by the GM and are removed from play. Corruption may manifest physically in the form of a physical mutation (a third eye, scaley skin, or a second head growing out of the PC’s shoulder, etc.) or it can be mental, with the character having a seemingly normal appearance, but completely depraved and murderous thoughts.
 
@@ -530,40 +530,40 @@ MUTATIONS (D20)
 | 19 | Skull face. |
 | 20 | Molts into a giant roach or worm. |
 
----
+![divider](images/divider.png){ width="500" }
 
 ## Healing
 
-Use a Grim Herald Die to stitch up wounds after combat. If you stitch your own wounds, divide the Grim Herald Die roll in half and round down.
+Use a Grim Die to stitch up wounds after combat. If you stitch your own wounds, divide the Grim Die roll in half and round down.
 
 Heal HP = CON every day of complete bedrest.
 
 ### No rest for he wicked
 
-In Grim Herald, the concept of "short rests" and "long rests" as commonly known in other role-playing games is entirely redefined. There are no moments of respite, no pauses to catch your breath, and no extended periods of restorative rest. In this harsh and unforgiving world, the only time for resting is in the grave.
+In Grim, the concept of "short rests" and "long rests" as commonly known in other role-playing games is entirely redefined. There are no moments of respite, no pauses to catch your breath, and no extended periods of restorative rest. In this harsh and unforgiving world, the only time for resting is in the grave.
 
----
+![divider](images/divider.png){ width="500" }
 
 ## Combat
 
----
+![divider](images/divider.png){ width="500" }
 
 ## Magic
 
-In Grim Herald, the practice of magic is a perilous endeavor fraught with uncertainty. There are no conventional spell slots, and spellcasters must rely on the roll of the dice to determine the outcome of their magical endeavors.
+In Grim, the practice of magic is a perilous endeavor fraught with uncertainty. There are no conventional spell slots, and spellcasters must rely on the roll of the dice to determine the outcome of their magical endeavors.
 
 Roll to Cast
-When a character attempts to cast a spell in Grim Herald, they must make a roll to determine the success of their casting. This roll reflects the inherent volatility of magic in this world. The specific mechanics of the roll may involve rolling a twenty-sided die (d20) or using another appropriate method.
+When a character attempts to cast a spell in Grim, they must make a roll to determine the success of their casting. This roll reflects the inherent volatility of magic in this world. The specific mechanics of the roll may involve rolling a twenty-sided die (d20) or using another appropriate method.
 
 Success: If the roll results in a success (typically by meeting or exceeding a certain target number), the spell is cast as intended, and its effects manifest as expected.
 
 Natural 1: However, if the roll results in a natural 1, it represents a critical failure and a potentially catastrophic outcome. Not only does the spell fail, but the caster also gains a Corruption Point.
 
----
+![divider](images/divider.png){ width="500" }
 
 ## Spells
 
----
+![divider](images/divider.png){ width="500" }
 
 ## Monsters
 
@@ -575,14 +575,14 @@ Spells do the same damage.
 
 Magic items are virtually non-existent. Potions are rare.
 
----
+![divider](images/divider.png){ width="500" }
 
 ## Rewards & Treasure
 
----
+![divider](images/divider.png){ width="500" }
 
 ## Adventures
 
----
+![divider](images/divider.png){ width="500" }
 
 ## GM Advice
