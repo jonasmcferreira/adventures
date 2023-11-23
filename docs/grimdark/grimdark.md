@@ -1,41 +1,6 @@
 # Grimdark
 
-- [Inspired by Deathbringer](#inspired-by-deathbringer)
-- [Definitions](#definitions)
-- [Introduction](#introduction)
-  - [Why Go Grimdark?](#why-go-grimdark)
-  - [Embracing the Grimdark](#embracing-the-grimdark)
-- [Core Mechanic: Test](#core-mechanic-test)
-  - [Assigning a Difficulty Rating](#assigning-a-difficulty-rating)
-    - [Easy Tasks](#easy-tasks)
-    - [Medium Tasks](#medium-tasks)
-    - [Difficult Tasks](#difficult-tasks)
-    - [Improbable Tasks](#improbable-tasks)
-  - [ADVANTAGE \& DISADVANTAGE](#advantage--disadvantage)
-  - [Expertise](#expertise)
-- [Character Creation](#character-creation)
-  - [ABILITY SCORES](#ability-scores)
-    - [Determining Ability Scores](#determining-ability-scores)
-  - [Profession and Background](#profession-and-background)
-  - [Hit Points (HP)](#hit-points-hp)
-  - [Determine your Defense (DEF)](#determine-your-defense-def)
-  - [Determine Personality (Optional)](#determine-personality-optional)
-  - [Roll a Random Background (Optional)](#roll-a-random-background-optional)
-  - [Name the Character](#name-the-character)
-- [Time \& Movement](#time--movement)
-- [Experience and levelling](#experience-and-levelling)
-- [Encumbrance](#encumbrance)
-- [Corruption](#corruption)
-- [Healing](#healing)
-  - [No rest for he wicked](#no-rest-for-he-wicked)
-- [Combat](#combat)
-- [Magic](#magic)
-- [Spells](#spells)
-- [Monsters](#monsters)
-- [Rewards \& Treasure](#rewards--treasure)
-- [Adventures](#adventures)
-- [GM Advice](#gm-advice)
-
+![](images/sword.png)
 
 ## Inspired by Deathbringer
 
@@ -71,7 +36,7 @@ Grimdark is here to shake things up. Here, combat is quick, instinctual, and ful
 
 We stand for a few fundamental beliefs:
 
-**Rules Limit, Not Liberate:**
+    Rules Limit, Not Liberate
 
 The common notion is that rules define a character's capabilities. More rules, more options, right? Wrong. We argue that rules actually constrict creativity. 
 
@@ -81,23 +46,23 @@ Here, your limits are bound only by your creativity. Outmaneuver a giant by slid
 
 What you do hinges on the scenario and your imagination, not a list on paper.
 
-**Simplicity Speeds Up the Game:**
+    Simplicity Speeds Up the Game
 
 Actions, ready actions, bonus actions, reactions, grids, individual initiative—all of these create a game that is slower and longer. Especially during combat, when it should be getting faster!
 
 Overcomplicating character sheets with endless subskills only slows the game further as players sift through minutiae. In Grimdark, character sheets are streamlined. Key information like Ability Score bonuses and a universal ‘Expertise’ bonus for relevant skills keep things moving fast. The GM handles the nitty-gritty, guiding players on what to roll and when.
 
-**The GM Reigns Supreme:**
+    The GM Reigns Supreme
 
 There’s a misconception that the Game Master's role is to be a rulebook with legs. We couldn’t disagree more. In Grimdark, the GM isn’t just a rule interpreter – they are the rule. 
 
 They’re what sets TTRPGs apart from video games and board games. They're the human element that allows for spontaneous and creative gameplay. Remember, board games need rigid rules because there's no GM. But in TTRPGs, we have the best AI there is – the human brain. That's why our rules are intentionally malleable, empowering the GM to keep the adventure flowing. The cardinal rule here is simple:
 
-   The Game Master's word trumps all.
+    The Game Master's word trumps all.
 
 No RPG can perfectly simulate real combat, skill mastery, or physics. That's why we trust our GMs to make smart calls and bridge gaps. This book? It’s a guide, not gospel.
 
-**The GM is the Final Judge:**
+    The GM is the Final Judge
 
 When rules and GM decisions collide, the GM’s call is final. They are the heart and soul of the gameplay, the architects of adventure, and the ultimate authority.
 
@@ -124,6 +89,7 @@ Critical Failure: Conversely, a natural 1 spells disaster, leading to unforeseen
 ### Assigning a Difficulty Rating
 
 | Task Complexity | Difficulty Rating |
+| --- | --- |
 | Easy | 5 |
 | Medium | 10 |
 | Difficult | 15 |
@@ -359,7 +325,7 @@ Toss 2d20 to determine a random vice and virtue for your character. If you roll 
 You can choose from these tables or make your own background, it's your choice
 Toss some dice. If the results don’t make sense, roll again.
 
-| Dd0 | RANDOM MISERY |
+| D20 | RANDOM MISERY |
 | --- | ---- |
 | 1 | Abandoned at birth. |
 | 2 | Banished from home. |
@@ -382,7 +348,8 @@ Toss some dice. If the results don’t make sense, roll again.
 | 19 | Survived a massacre. |
 | 20 | Town ravaged by plague. |
 
-| Dd0 | BACKGROUND |
+| D20 | BACKGROUND |
+| --- | --- |
 | 1 | Bounty Hunter |
 | 2 | Courtesan |
 | 3 | Duelist |
@@ -404,8 +371,8 @@ Toss some dice. If the results don’t make sense, roll again.
 | 19  | Soldier |
 | 20  | Urchin |
 
-BIRTHPLACE (2d10)
-
+| D10 | Birthplace |
+| --- | --- |
 | 1. Blighted | 1. Village |
 | 2. Cursed | 2. Backwater town |
 | 3. Decaying | 3. Hamlet |
@@ -417,8 +384,9 @@ BIRTHPLACE (2d10)
 | 9. Squalid | 9. Ruin |
 | 10. War-ravaged | 10. City |
 
-PARENT FATE (d10)
 
+| D10 | Parent fate |
+| --- | --- |
 | 1  | Both dead from plague |
 | 2  | Burned at the stake. |
 | 3  | Wrongly executed. |
@@ -430,8 +398,8 @@ PARENT FATE (d10)
 | 9  | Refuse to acknowledge you. |
 | 10 | Alive and well |
 
-YOUR TRAGIC LOVE
-
+| D10 | Tragic Love |
+| --- | --- |
 | 1.  | Died of plague. |
 | 2.  | Was murdered |
 | 3.  | Kidnapped or imprisoned. |
@@ -455,8 +423,8 @@ Roll D6
 1-3 = Male
 4-6 = Female
 
-SIBLING FATE (d10)
-
+| D10 | Sibling Fate |
+| --- | --- |
 | 1.  | Dead from plague. |
 | 2.  | Murdered. |
 | 3.  | Hate your guts. |
@@ -494,7 +462,6 @@ When you gain a Level:
 
 Note: Maximum HP is your CON Ability Score (not bonus).
 
-
 That’s it. We’re tempted to provide more guidance, like hard numbers to reach the next level, but every campaign is different and groups enjoy levelling up at different rates. We will provide, however, these firm principles:
 
 - It should take a minimum of 3-4 sessions to rise one level.
@@ -503,8 +470,16 @@ That’s it. We’re tempted to provide more guidance, like hard numbers to reac
 
 ## Encumbrance
 
-PCs have item slots = to CON + 10.
-100 coins takes up one slot.
+### Item Slots
+
+Each player character (PC) in Grimdark has a number of item slots equal to their Constitution (CON) score plus 10. These item slots represent the character's capacity to carry various items, weapons, armor, and supplies during their adventures.
+
+For example, if a character has a Constitution score of 14, they would have a total of 24 item slots (14 CON + 10).
+
+### Managing Coins
+
+In Grimdark, coins have weight and take up space in a character's inventory. Specifically, 100 coins occupy one item slot. This rule encourages players to think about the practicality of carrying large amounts of currency, as it can quickly fill up their available item slots.
+
 Once all slots are filled, characters move at half speed.
 
 ## Corruption
@@ -521,6 +496,8 @@ There is no way to remove Corruption. PCs can only gain it. Evil deeds haunt a c
 
 MUTATIONS (D20)
 
+| Roll| Mutation |
+| -  | - |
 | 1  | Pustules. |
 | 2  | Candles dim when you enter a room. |
 | 3  | Hair turns white or falls out. |
@@ -550,15 +527,20 @@ Heal HP = CON every day of complete bedrest.
 
 ### No rest for he wicked
 
-There are no “short rests” or “long rests” in Grimdark. The only time for resting is in the grave.
-
+In Grimdark, the concept of "short rests" and "long rests" as commonly known in other role-playing games is entirely redefined. There are no moments of respite, no pauses to catch your breath, and no extended periods of restorative rest. In this harsh and unforgiving world, the only time for resting is in the grave.
 
 ## Combat
 
 ## Magic
 
-Roll to cast. No spell slots. A roll of natural 1 means gaining a Corruption Point and a potentially deadly miscast.
+In Grimdark, the practice of magic is a perilous endeavor fraught with uncertainty. There are no conventional spell slots, and spellcasters must rely on the roll of the dice to determine the outcome of their magical endeavors.
 
+Roll to Cast
+When a character attempts to cast a spell in Grimdark, they must make a roll to determine the success of their casting. This roll reflects the inherent volatility of magic in this world. The specific mechanics of the roll may involve rolling a twenty-sided die (d20) or using another appropriate method.
+
+Success: If the roll results in a success (typically by meeting or exceeding a certain target number), the spell is cast as intended, and its effects manifest as expected.
+
+Natural 1: However, if the roll results in a natural 1, it represents a critical failure and a potentially catastrophic outcome. Not only does the spell fail, but the caster also gains a Corruption Point.
 
 ## Spells
 
@@ -577,8 +559,3 @@ Magic items are virtually non-existent. Potions are rare.
 ## Adventures
 
 ## GM Advice
-
-
-
-
-
