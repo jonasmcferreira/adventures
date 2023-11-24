@@ -1,6 +1,6 @@
 ROLL A RANDOM BACKGROUND
 
-CHARACTER CLASSES
+CHARACTER CLASSES
 
 DEATHBRINGER
 Requirement: +1 STR
@@ -17,20 +17,17 @@ Hit Dice: d6 (after 15hp+ roll at disadvantage)
 Armor & weapons: Clothes & dagger, staff, light crossbow, cannot wear armor
 To start: 4 cantrips, two 1st level spells, journal, tattoo needles, ink, dagger.
 Special Abilities:
- Cast Spells. No spell slots. Roll to cast, DC 10. One a roll of Natural 1 gain +1 Corruption and roll
-on the Miscast Table.
- Gain spells by finding scrolls grimoires, or by having a friendly higher-level wizard teach them to
-you. You are a living
- grimoire and must tattoo all spells on your skin
+ Cast Spells. No spell slots. Roll to cast, DC 10. One a roll of Natural 1 gain +1 Corruption and roll on the Miscast Table.
+ Gain spells by finding scrolls grimoires, or by having a friendly higher-level wizard teach them to you. You are a living grimoire and must tattoo all spells on your skin
 
 PLAGUE DOCTOR
 Requirement: Minimum +1 INT & +1 WIS
 Hit dice: d6 (after 15, roll at disadvantage)
-Armor & Weapons: Light and meat cleaver and crossbow
+Armor & Weapons: Light armor and meat cleaver and crossbow
 To start: Leather coat, medical kit, chemistry kit, meat cleaver, very suspicious diploma.
 Special Abilities:
  Cure Wounds. Restore d8hp once per day, per patient.
- Cure poison & disease. At will. DC 15.
+ Cure Poison & Disease. At will. DC 15.
  Create Potions: create d4 random potions per day. These chemicals are highly unstable and only
 last 24 hours.
 D8
@@ -77,43 +74,17 @@ Here are some tricks for choosing a cool name:
  Change the spelling of a common name. Ex: Edward to Eddard, Jennifer to Yennefer,
  Roll on the following chart:
 
-POSSIBLE NAMES (d6)
-1
-Absinth, Astrid, Angelique, Anya, Arnulf, Astrid, Axe, Axel, Avarice, Bardolf, Bastard, Bastian, Beatrix,
-Bernhardt, Blade, Bjorn, Brand, Brigid, Brynn, Britt, Brom, Bront, Bruiser, Bruno, Brunt,
-2
-Celine, Claudia, Claus, Cloak, Clutch, Conrad, Dagmar, Danika, Dania, Dead-eye, Degger, Dieter, Dirk,
-Dorian, Drudge, Dogface, Duchess, Elspeth, Enoch, Erasmus, Erik, Ernst
-3
-Faith, Fallon, Fang, Felix, Fester, Fletcher, Flame, Flint, Franz, Frida, Frog, Filthy, Frost, Gabrielle,
-Ghost, Goblin, Gretel, Grime, Grift, Gripper, Grubber, Gregor, Grift, Grub, Gustav, Hans, Heinrich
-4
-Ingrid, Isolde, Johann, Karl, Karve, Kat, Knock, Kruger, Kurt, Lefty, Leopold, Lilith, Locke, Lotus,
-Ludwig, Magda, Maglind, Magnus, Malice, Malicent, Malkin, Malleus, Margot, Marienne, Marius,
-Mathias, Mathilde, Max, Mercy, Mila, Mirage, Moloch, Mordecai, Morgan
-5
-Nadya, Nails, Natasha, Nine-fingers, No-thumbs, Nightshade, Nocturne, Nyx, Olga, One-Eye, Olaf,
-Onyx, Osric, Pike, Pug, Randel, Randolf, Raven, Regan, Reiner, Reinhardt, Rieka, Renata, Ripper, Rolf,
-Rook, Rosalyn, Rufus, Ruprecht,
-6
-Scabs, Seline, Silence, Shadow, Silk, Sliver, Snake, Snare, Solace, Solange, Splinter, Spider, Stefan, Sven,
-Thorne, Tobias, Toad, Theodore, Tuomas, Werner, Udo, Ulrich, Ulrike, Uma, Valen, Wilhelm,
-Wolfgang, Wulfgar, Yvette
-
-
-IMPROVEMENT
 
 
 
 
+DEATHBRINGER DICE
 
 THIS IS HOW WE ROLL
 Deathbringer Dice replace class features and may be used to improve rolls, cause/block damage.
 Advantage & disadvantage for cover, low visibility, having the proper tools, etc.
 Natural 20 means +d12 damage and you lower the opponent’s DEF by 1.
 Natural 1 is a critical failure. Quiver is empty, you are disarmed, or Critical Miscast.
-
-DEATHBRINGER DICE
 
 Replace class features, Skills, Feats & Inspiration with Deathbringer Dice. Begin each session with DD
 equal to your level.
@@ -125,7 +96,10 @@ You may use multiple DD at the same time.
 DD cannot be used to alter a Nat 1 or used for initiative rolls. They are not replenished with rest but
 respawn at the start of a session.
 
-Store up to 10 DD on your sheet in these slots:
+Store up to 10 DD on your sheet in these slots:
+
+
+
 GAINING DEATHBRINGER DICE
 GM may award additional Deathbringer Dice for good roleplaying, clever thinking, or for enhancing
 the game for everyone at the table.
@@ -136,9 +110,6 @@ master? Use Deathbringer Dice to increase hand-to-hand combat. Need to take out 
 shot? Use Deathbringer Dice to cause extra damage.
 Pro Tip: make Deathbringer Dice a different, uniform color so they don’t become confused with the
 other 6-sided dice at your table.
-ADVANTAGE & DISADVANTAGE
-Advantage means roll two dice and take the higher number.
-Disadvantage means roll two dice and take the lower number.
 
 
 

@@ -6,8 +6,8 @@
 
 Grim draws its inspiration from the Deathbringer addon created by the Dungeoncraft [YouTube channel](https://www.youtube.com/@DUNGEONCRAFT1) and [Patreon](https://www.patreon.com/DungeonCraftYouTube). Building upon the innovative ideas and concepts presented in Deathbringer, Grim takes the spirit of gritty and intense tabletop role-playing to new heights.
 
-![divider](images/divider.png#only-light){ width="600" }
-![divider](images/divider-dark.png#only-dark){ width="600" }
+![](images/divider.png#only-light){ width="600" }
+![](images/divider-dark.png#only-dark){ width="600" }
 
 ## Definitions
 
@@ -20,8 +20,8 @@ Grim draws its inspiration from the Deathbringer addon created by the Dungeoncra
 - Campaign: a series of connected adventures featuring the same characters
 - Test/Attempt/Check: rolling a target number or better on a twenty-sided die (d20).
 
-![divider](images/divider.png#only-light){ width="600" }
-![divider](images/divider-dark.png#only-dark){ width="600" }
+![](images/divider.png#only-light){ width="600" }
+![](images/divider-dark.png#only-dark){ width="600" }
 
 ## Introduction
 
@@ -84,8 +84,8 @@ When rules and GM decisions collide, the GM’s call is final. They are the hear
 
 Grim is about returning to the roots of roleplaying – fast, fierce, and fun. It's about rekindling the spirit of adventure where anything is possible and the only limit is your imagination.
 
-![divider](images/divider.png#only-light){ width="600" }
-![divider](images/divider-dark.png#only-dark){ width="600" }
+![](images/divider.png#only-light){ width="600" }
+![](images/divider-dark.png#only-dark){ width="600" }
 
 ## Core Mechanic: Test
 
@@ -183,8 +183,8 @@ If a character attempts a common action (hiding, climbing, riding a horse, etc.)
 
 If a character attempts an uncommon action (safecracking, open-heart surgery, disarming an explosive device) outside their field of Expertise, the GM may assign a harder DR, disadvantage, or both.
 
-![divider](images/divider.png#only-light){ width="600" }
-![divider](images/divider-dark.png#only-dark){ width="600" }
+![](images/divider.png#only-light){ width="600" }
+![](images/divider-dark.png#only-dark){ width="600" }
 
 ## Character Creation
 
@@ -475,8 +475,8 @@ Roll D6
 | 9.  | Look up to you. |
 | 10. |  Protective of you. |
 
-![divider](images/divider.png#only-light){ width="600" }
-![divider](images/divider-dark.png#only-dark){ width="600" }
+![](images/divider.png#only-light){ width="600" }
+![](images/divider-dark.png#only-dark){ width="600" }
 
 ## Experience and levelling
 
@@ -505,8 +505,8 @@ That’s it. We’re tempted to provide more guidance, like hard numbers to reac
 - It should take a minimum of 3-4 sessions to rise one level.
 - PCs can never rise more than one level in a single session.
 
-![divider](images/divider.png#only-light){ width="600" }
-![divider](images/divider-dark.png#only-dark){ width="600" }
+![](images/divider.png#only-light){ width="600" }
+![](images/divider-dark.png#only-dark){ width="600" }
 
 ## Encumbrance
 
@@ -526,8 +526,8 @@ In Grim, coins have weight and take up space in a character's inventory. Specifi
 
 Once all slots are filled, characters move at half speed.
 
-![divider](images/divider.png#only-light){ width="600" }
-![divider](images/divider-dark.png#only-dark){ width="600" }
+![](images/divider.png#only-light){ width="600" }
+![](images/divider-dark.png#only-dark){ width="600" }
 
 ## Corruption
 
@@ -566,8 +566,8 @@ MUTATIONS (D20)
 | 19 | Skull face. |
 | 20 | Molts into a giant roach or worm. |
 
-![divider](images/divider.png#only-light){ width="600" }
-![divider](images/divider-dark.png#only-dark){ width="600" }
+![](images/divider.png#only-light){ width="600" }
+![](images/divider-dark.png#only-dark){ width="600" }
 
 ## Healing
 
@@ -581,13 +581,13 @@ Heal HP = CON every day of complete bedrest.
 
 In Grim, the concept of "short rests" and "long rests" as commonly known in other role-playing games is entirely redefined. There are no moments of respite, no pauses to catch your breath, and no extended periods of restorative rest. In this harsh and unforgiving world, the only time for resting is in the grave.
 
-![divider](images/divider.png#only-light){ width="600" }
-![divider](images/divider-dark.png#only-dark){ width="600" }
+![](images/divider.png#only-light){ width="600" }
+![](images/divider-dark.png#only-dark){ width="600" }
 
 ## Combat
 
-![divider](images/divider.png#only-light){ width="600" }
-![divider](images/divider-dark.png#only-dark){ width="600" }
+![](images/divider.png#only-light){ width="600" }
+![](images/divider-dark.png#only-dark){ width="600" }
 
 ## Magic
 
@@ -600,13 +600,13 @@ Success: If the roll results in a success (typically by meeting or exceeding a c
 
 Natural 1: However, if the roll results in a natural 1, it represents a critical failure and a potentially catastrophic outcome. Not only does the spell fail, but the caster also gains a Corruption Point.
 
-![divider](images/divider.png#only-light){ width="600" }
-![divider](images/divider-dark.png#only-dark){ width="600" }
+![](images/divider.png#only-light){ width="600" }
+![](images/divider-dark.png#only-dark){ width="600" }
 
 ## Spells
 
-![divider](images/divider.png#only-light){ width="600" }
-![divider](images/divider-dark.png#only-dark){ width="600" }
+![](images/divider.png#only-light){ width="600" }
+![](images/divider-dark.png#only-dark){ width="600" }
 
 ## Monsters
 
@@ -618,17 +618,17 @@ Spells do the same damage.
 
 Magic items are virtually non-existent. Potions are rare.
 
-![divider](images/divider.png#only-light){ width="600" }
-![divider](images/divider-dark.png#only-dark){ width="600" }
+![](images/divider.png#only-light){ width="600" }
+![](images/divider-dark.png#only-dark){ width="600" }
 
 ## Rewards & Treasure
 
-![divider](images/divider.png#only-light){ width="600" }
-![divider](images/divider-dark.png#only-dark){ width="600" }
+![](images/divider.png#only-light){ width="600" }
+![](images/divider-dark.png#only-dark){ width="600" }
 
 ## Adventures
 
-![divider](images/divider.png#only-light){ width="600" }
-![divider](images/divider-dark.png#only-dark){ width="600" }
+![](images/divider.png#only-light){ width="600" }
+![](images/divider-dark.png#only-dark){ width="600" }
 
 ## GM Advice
