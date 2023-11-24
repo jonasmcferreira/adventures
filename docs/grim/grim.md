@@ -1,13 +1,6 @@
 # Grim
 
-![](images/sword.png){ width="300" }
-
-## Inspired by Deathbringer
-
-Grim draws its inspiration from the Deathbringer addon created by the Dungeoncraft [YouTube channel](https://www.youtube.com/@DUNGEONCRAFT1) and [Patreon](https://www.patreon.com/DungeonCraftYouTube). Building upon the innovative ideas and concepts presented in Deathbringer, Grim takes the spirit of gritty and intense tabletop role-playing to new heights.
-
-![](images/divider.png#only-light){ width="600" }
-![](images/divider-dark.png#only-dark){ width="600" }
+![](images/grim1.png)
 
 ## Definitions
 
@@ -20,10 +13,11 @@ Grim draws its inspiration from the Deathbringer addon created by the Dungeoncra
 - Campaign: a series of connected adventures featuring the same characters
 - Test/Attempt/Check: rolling a target number or better on a twenty-sided die (d20).
 
-![](images/divider.png#only-light){ width="600" }
-![](images/divider-dark.png#only-dark){ width="600" }
+![](images/divider-dark.png){ width="600" }
 
 ## Introduction
+
+![](images/grim.png)
 
 Grim is the lean, mean cousin of the most renowned tabletop role-playing game out there. It's less of a game and more of a 'mod kit', a set of tweaks for a quicker, rawer experience.
 
@@ -39,6 +33,8 @@ We enjoy RPGs teetering on the edge, where every shadow on the corner of your ey
 
 ### Embracing the Grim
 
+![](images/grim4.png){ align=right width="300" }
+
 In the realm of Tabletop RPGs, a trend has emerged: complexity that bogs down the essence of adventure. Battles that should be swift and thrilling stretch into hour-long marathons. Character sheets have become as daunting as advanced calculus. Characters start off as mighty heroes and only get mightier, rarely tasting defeat or death. Magic, once a rare and wondrous art, has turned routine, losing its mystique.
 
 **Screw that.**
@@ -47,12 +43,9 @@ Grim is here to shake things up. Here, combat is quick, instinctual, and full of
 
 We stand for a few fundamental beliefs:
 
-- [Rules Limit, Not Liberate](#rules-limit-not-liberate)
-- [Simplicity Speeds Up the Game](#simplicity-speeds-up-the-game)
-- [The GM Reigns Supreme](#the-gm-reigns-supreme)
-- [The GM is the final Judge](#the-gm-is-the-final-judge)
-
 #### Rules Limit, Not Liberate
+
+![](images/rogue1.png){ align=right width="300" }
 
 The common notion is that rules define a character's capabilities. More rules, more options, right? Wrong. We argue that rules actually constrict creativity. 
 
@@ -64,11 +57,16 @@ What you do hinges on the scenario and your imagination, not a list on paper.
 
 #### Simplicity Speeds Up the Game
 
+![](images/combat.png){ align=right width="300" }
+
 Actions, ready actions, bonus actions, reactions, grids, individual initiative—all of these create a game that is slower and longer. Especially during combat, when it should be getting faster!
 
 Overcomplicating character sheets with endless subskills only slows the game further as players sift through minutiae. In Grim, character sheets are streamlined. Key information like Ability Score bonuses and a universal ‘Expertise’ bonus for relevant skills keep things moving fast. The GM handles the nitty-gritty, guiding players on what to roll and when.
 
 #### The GM Reigns Supreme
+
+![](images/gm.png){ align=right width="300" }
+
 
 There’s a misconception that the Game Master's role is to be a rulebook with legs. We couldn’t disagree more. In Grim, the GM isn’t just a rule interpreter – they are the rule. 
 
@@ -84,8 +82,7 @@ When rules and GM decisions collide, the GM’s call is final. They are the hear
 
 Grim is about returning to the roots of roleplaying – fast, fierce, and fun. It's about rekindling the spirit of adventure where anything is possible and the only limit is your imagination.
 
-![](images/divider.png#only-light){ width="600" }
-![](images/divider-dark.png#only-dark){ width="600" }
+![](images/divider-dark.png){ width="600" }
 
 ## Core Mechanic: Test
 
@@ -118,41 +115,41 @@ Critical Failure: Conversely, a natural 1 spells disaster, leading to unforeseen
 
 This scale is universal, applicable to all challenges: from physical feats like breaking doors or scaling walls to more nuanced tasks such as social interactions or combat. The GM evaluates the situation and sets the Difficulty Rating (DR). Players then roll a d20, add relevant Ability Score Modifiers, and aim to meet or exceed the DR. It's straightforward.
 
-#### Easy Tasks
+!!! tip "Easy Tasks"
 
-Easy tasks are commonplace, almost second nature. For instance:
+    Easy tasks are commonplace, almost second nature. For instance:
 
-- A skilled rogue easily picking a standard lock.
-- Striking an unsuspecting adversary.
-- Casting a well-practiced spell in a tranquil setting.
-- A seasoned hunter following tracks on a clear day.
+    - A skilled rogue easily picking a standard lock.
+    - Striking an unsuspecting adversary.
+    - Casting a well-practiced spell in a tranquil setting.
+    - A seasoned hunter following tracks on a clear day.
 
-#### Medium Tasks
+!!! success "Medium Tasks"
 
-Medium tasks require focus and skill. Examples include:
+    Medium tasks require focus and skill. Examples include:
 
-- A rogue scaling a typical wall.
-- Engaging an alert and prepared enemy.
-- Casting an attack spell against a dodging target.
-- Tracking wildlife on a slightly rainy day.
+    - A rogue scaling a typical wall.
+    - Engaging an alert and prepared enemy.
+    - Casting an attack spell against a dodging target.
+    - Tracking wildlife on a slightly rainy day.
 
-#### Difficult Tasks
+!!! warning "Difficult Tasks"
 
-Difficult tasks push characters to their limits, often involving stress or unfamiliarity. Examples:
+    Difficult tasks push characters to their limits, often involving stress or unfamiliarity. Examples:
 
-- A rogue picking a lock amidst enemy fire.
-- Battling a formidable leader or a fearsome creature.
-- Spellcasting against a hostile, dual-headed troll.
-- An amateur trying their hand at lockpicking.
+    - A rogue picking a lock amidst enemy fire.
+    - Battling a formidable leader or a fearsome creature.
+    - Spellcasting against a hostile, dual-headed troll.
+    - An amateur trying their hand at lockpicking.
 
-#### Improbable Tasks
+!!! danger "Improbable Tasks"
 
-Improbable tasks are those of exceptional challenge, often bordering on the heroic or foolhardy. For example:
+    Improbable tasks are those of exceptional challenge, often bordering on the heroic or foolhardy. For example:
 
-- Trying to rope a dragon mid-flight.
-- Climbing a slick, equipment-free cliff.
-- Breaking free from iron chains.
-- Diving off a cliff into a turbulent river to escape a goblin horde.
+    - Trying to rope a dragon mid-flight.
+    - Climbing a slick, equipment-free cliff.
+    - Breaking free from iron chains.
+    - Diving off a cliff into a turbulent river to escape a goblin horde.
 
 ---
 
@@ -183,8 +180,7 @@ If a character attempts a common action (hiding, climbing, riding a horse, etc.)
 
 If a character attempts an uncommon action (safecracking, open-heart surgery, disarming an explosive device) outside their field of Expertise, the GM may assign a harder DR, disadvantage, or both.
 
-![](images/divider.png#only-light){ width="600" }
-![](images/divider-dark.png#only-dark){ width="600" }
+![](images/divider-dark.png){ width="600" }
 
 ## Character Creation
 
@@ -209,46 +205,43 @@ To create a Player Character (PC), follow these steps:
 
 Characters are defined by six ability scores: Strength, Intelligence, Wisdom, Dexterity, Constitution, and Charisma.
 
-**STR**ength: Add to melee weapon attacks AND damage.
-Lift gates, bend bars, smash doors, grapple, bonus to melee attacks.
+- Strength (**STR**): Applies to melee weapon attacks and damage. Used for physical feats like lifting gates, bending bars, smashing doors, grappling, and provides a bonus to melee attacks.
+- Dexterity (**DEX**): Influences Defense (DEF), missile attacks, damage, and skills like stealth, climbing, lockpicking, and acrobatics. It determines a character's DEFENSE, ability to dodge, and accuracy with ranged weapons, along with proficiency in tasks requiring agility and hand-eye coordination.
+- Constitution (**CON**): Key for saving throws against poison. Helps in resisting extreme conditions such as heat, cold, starvation, poison, and torture, and aids in endurance for long-distance running. CON also determines the carrying capacity (CON + 10) and health regeneration (HP regained per day of rest equals CON). It does not add to HP.
+- Intelligence (**INT**): Boosts spellcasting rolls, knowledge of history, and indicates literacy. A bonus in Intelligence enhances wizard spellcasting and knowledge about obscure facts and languages.
+- Wisdom (**WIS**): Enhances mind-based Saving Throws, and skills in searching, perception, and tracking. It contributes to intuition, insight, cunning, and bonuses in searching and casting prayers.
+- Charisma (**CHA**): Improves all reaction checks and skills in charm, deception, intimidation, performance, and persuasion. It governs the ability to influence, charm, and excel in social interactions.
 
 
-**DEX**terity: Add to DEF, missile attacks AND damage, stealth, climbing, lockpicking, acrobatics, etc.
+Your Ability Bonus **IS** your proficiency bonus, skill level, and natural ability. 
 
-Defend from attacks, dodge, bonus when attacking with ranged weapons, picking locks, climbing, delicate tasks—anything done with the hands and/or requiring agility. A character’s DEFENSE (DEF) is based on Dexterity.
+A +1 STR means you are proficient with ALL hand weapons. 
 
-**CON**stitution: Saves v. poison. Resist heat, cold, starvation, poison, torture; run long distances.
+A +1 DEX means you are proficient with all ranged weapons, acrobatics, climbing, stealth, etc. 
 
-You can carry items = CON+10
-For each day of rest you regain HP = CON
-Note: CON does NOT add to HP.
-
-**INT**elligence: Add to spellcasting rolls, history, knowledge, +1 indicates literacy.
-
-Know obscure things, read & write languages, bonus to cast wizard spells.
-
-**WIS**dom: Add to mind-based Saving Throws, searching, perception & tracking.
-Intuition, insight, cunning, perception, bonus to searching and casting prayers.
-
-**CHA**risma: Add to all reaction checks, charm, deception, intimidation, performance, persuasion.
-
-Your ability to persuade, charm, flirt, and influence people; all social interactions.
-
-Your Ability Bonus **IS** your proficiency bonus, skill level, and natural ability. A +1 STR means you are proficient with ALL hand weapons. A +1 DEX means you are proficient with all ranged weapons, acrobatics, climbing, stealth, etc. A high CHA means you are good will all social interactions.
+A high CHA means you are good will all social interactions.
 
 #### Determining Ability Scores
 
 There are three methods for determining Ability Scores
 
 **5E Standard Array**
+5E Standard Array
 
-Start out with 8 “build points.” Distribute these as bonuses between your six Ability Scores, with no higher than +5 in any one Ability Score.
-Ex: STR +5, DEX +2, CON +1, INT 0, WIS, 0, CHA +1
+- **Initial Setup:** Begin with all attributes at -1.
+- **Build Points:** Receive 10 “build points.”
+- **Distribution**: Allocate these points as bonuses among your six Ability Scores.
+- **Limits:** Ensure no Ability Score exceeds a +5 bonus, and minimum -3
+Example: STR +3, DEX +1, CON +2, INT -2, WIS -1, CHA +2.
 
-**OSR Standard Array**
+**5E Standard Array**
+5E Standard Array
 
-Start out with 3 “build points.” Distribute these as bonuses between your six Ability Scores, with no higher than +3 in any one Ability Score.
-Ex: STR +1, DEX +1, CON 0, INT 0, WIS, 0, CHA +1
+- **Initial Setup:** Begin with all attributes at -1.
+- **Build Points:** Receive 6 “build points.”
+- **Distribution**: Allocate these points as bonuses among your six Ability Scores.
+- **Limits:** Ensure no Ability Score exceeds a +5 bonus, and minimum -3
+Example: STR +3, DEX +1, CON +2, INT -2, WIS -1, CHA +2.
 
 **Roll The Bones!**
 5E: for each Ability, roll 4d6, determine the bonus, arrange as desired. No re-rolls!
@@ -256,7 +249,7 @@ OSR: for each Ability, roll 3d6, determine the bonus, arrange as desired. No re-
 
 | Stat   | Bonus/Penalty |
 | ------ | ------------- |
-| 18     | +4            |
+| 18+     | +4            |
 | 16-17  | +3            |
 | 14-15  | +2            |
 | 12-13  | +1            |
@@ -266,7 +259,11 @@ OSR: for each Ability, roll 3d6, determine the bonus, arrange as desired. No re-
 | 4-5    | -3            |
 | 3      | -4            |
 
-If you have no bonuses, your character has died of plague and is buried in a mass grave. Roll again.
+
+!!! DANGER
+
+    If a character ends up with no bonuses (all Ability Scores are 10 or below), it indicates a grim fate: the character succumbs to plague and is buried in a mass grave. The player must roll a new character.
+
 
 ---
 
@@ -274,13 +271,15 @@ If you have no bonuses, your character has died of plague and is buried in a mas
 
 Choose a Profession
 
+work in progress
+
 ---
 
 ### Hit Points (HP)
 
 Hit Points are a combination of overall health, skill, and luck. Most characters begin with d6HP and gain an additional d6hp at every level. 
 
-    Hit points = Hit Dice + CON
+    Hit points = Hit Dice
 
 This is what separates the bad assess from the masses:
 
@@ -475,8 +474,7 @@ Roll D6
 | 9.  | Look up to you. |
 | 10. |  Protective of you. |
 
-![](images/divider.png#only-light){ width="600" }
-![](images/divider-dark.png#only-dark){ width="600" }
+![](images/divider-dark.png){ width="600" }
 
 ## Experience and levelling
 
@@ -498,15 +496,16 @@ When you gain a Level:
 - Test against each Ability Score. Roll a d20. If you roll higher than the current bonus number, raise that Ability Score by 1 (max 20)
 - Gain d6+CON bonus HP (minimum 1)
 
-Note: Maximum HP is your CON Ability Score (not bonus).
+!!! danger
+
+    Maximum HP is your CON Ability Score (not bonus).
 
 That’s it. We’re tempted to provide more guidance, like hard numbers to reach the next level, but every campaign is different and groups enjoy levelling up at different rates. We will provide, however, these firm principles:
 
 - It should take a minimum of 3-4 sessions to rise one level.
 - PCs can never rise more than one level in a single session.
 
-![](images/divider.png#only-light){ width="600" }
-![](images/divider-dark.png#only-dark){ width="600" }
+![](images/divider-dark.png){ width="600" }
 
 ## Encumbrance
 
@@ -526,8 +525,7 @@ In Grim, coins have weight and take up space in a character's inventory. Specifi
 
 Once all slots are filled, characters move at half speed.
 
-![](images/divider.png#only-light){ width="600" }
-![](images/divider-dark.png#only-dark){ width="600" }
+![](images/divider-dark.png){ width="600" }
 
 ## Corruption
 
@@ -566,8 +564,7 @@ MUTATIONS (D20)
 | 19 | Skull face. |
 | 20 | Molts into a giant roach or worm. |
 
-![](images/divider.png#only-light){ width="600" }
-![](images/divider-dark.png#only-dark){ width="600" }
+![](images/divider-dark.png){ width="600" }
 
 ## Healing
 
@@ -581,13 +578,12 @@ Heal HP = CON every day of complete bedrest.
 
 In Grim, the concept of "short rests" and "long rests" as commonly known in other role-playing games is entirely redefined. There are no moments of respite, no pauses to catch your breath, and no extended periods of restorative rest. In this harsh and unforgiving world, the only time for resting is in the grave.
 
-![](images/divider.png#only-light){ width="600" }
-![](images/divider-dark.png#only-dark){ width="600" }
+![](images/divider.png){ width="600" }
+![](images/divider-dark.png#only-light){ width="600" }
 
 ## Combat
 
-![](images/divider.png#only-light){ width="600" }
-![](images/divider-dark.png#only-dark){ width="600" }
+![](images/divider-dark.png){ width="600" }
 
 ## Magic
 
@@ -600,15 +596,15 @@ Success: If the roll results in a success (typically by meeting or exceeding a c
 
 Natural 1: However, if the roll results in a natural 1, it represents a critical failure and a potentially catastrophic outcome. Not only does the spell fail, but the caster also gains a Corruption Point.
 
-![](images/divider.png#only-light){ width="600" }
-![](images/divider-dark.png#only-dark){ width="600" }
+![](images/divider-dark.png){ width="600" }
 
 ## Spells
 
-![](images/divider.png#only-light){ width="600" }
-![](images/divider-dark.png#only-dark){ width="600" }
+![](images/divider-dark.png){ width="600" }
 
 ## Monsters
+
+![](images/monsters.png)
 
 Import and monsters and spells you like from 5e/OSR games.
 
@@ -618,17 +614,18 @@ Spells do the same damage.
 
 Magic items are virtually non-existent. Potions are rare.
 
-![](images/divider.png#only-light){ width="600" }
-![](images/divider-dark.png#only-dark){ width="600" }
+![](images/divider-dark.png){ width="600" }
 
 ## Rewards & Treasure
 
-![](images/divider.png#only-light){ width="600" }
-![](images/divider-dark.png#only-dark){ width="600" }
+![](images/divider-dark.png){ width="600" }
 
 ## Adventures
 
-![](images/divider.png#only-light){ width="600" }
-![](images/divider-dark.png#only-dark){ width="600" }
+![](images/divider-dark.png){ width="600" }
 
 ## GM Advice
+
+## Inspired by Deathbringer
+
+Grim draws its inspiration from the Deathbringer addon created by the Dungeoncraft [YouTube channel](https://www.youtube.com/@DUNGEONCRAFT1) and [Patreon](https://www.patreon.com/DungeonCraftYouTube). Building upon the innovative ideas and concepts presented in Deathbringer, Grim takes the spirit of gritty and intense tabletop role-playing to new heights.
