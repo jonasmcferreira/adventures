@@ -1,6 +1,6 @@
 # Grim
 
-![page break](images/sword.png){ width="300" }
+![](images/sword.png){ width="300" }
 
 ## Inspired by Deathbringer
 
@@ -29,9 +29,13 @@ Grim is the lean, mean cousin of the most renowned tabletop role-playing game ou
 
 Deploy these rules solo, or blend them into any 5E or old-school renaissance game. Mix and match to your heart's content. Think of Grim as the kick of hot sauce to your RPG feast.
 
+---
+
 ### Why go Grim?
 
 We enjoy RPGs teetering on the edge, where every shadow on the corner of your eye could be your last. We prefer our PCs as rough-around-the-edges underdogs, scrapping by in a world that's out to get them. And we're fans of gameplay that's more impromptu cinema than pushing pieces, where players say things like, “I silently sneak up behind him and stab him in his kidney” instead of, “I roll 18 stealth, move to the tile next to his and attack”
+
+---
 
 ### Embracing the Grim
 
@@ -42,6 +46,11 @@ In the realm of Tabletop RPGs, a trend has emerged: complexity that bogs down th
 Grim is here to shake things up. Here, combat is quick, instinctual, and full of flair. Forget about intricate character sheets – we’re keeping it straightforward. Characters gain power, but they’re not invincible. They’re heroes, yes, but still mortals vulnerable to a well-placed strike. Magic here is volatile and unpredictable. Death is a constant companion in our adventures, making every moment in the dungeon pulse with peril.
 
 We stand for a few fundamental beliefs:
+
+- [Rules Limit, Not Liberate](#rules-limit-not-liberate)
+- [Simplicity Speeds Up the Game](#simplicity-speeds-up-the-game)
+- [The GM Reigns Supreme](#the-gm-reigns-supreme)
+- [The GM is the final Judge](#the-gm-is-the-final-judge)
 
 #### Rules Limit, Not Liberate
 
@@ -96,6 +105,8 @@ Critical Success: Rolling a natural 20 isn't just a success; it's a triumph, bri
 
 Critical Failure: Conversely, a natural 1 spells disaster, leading to unforeseen consequences. This could mean weapon damage or loss during combat, or a botched spell with unintended effects in magic use.
 
+---
+
 ### Assigning a Difficulty Rating
 
 | Task Complexity | Difficulty Rating |
@@ -143,6 +154,8 @@ Improbable tasks are those of exceptional challenge, often bordering on the hero
 - Breaking free from iron chains.
 - Diving off a cliff into a turbulent river to escape a goblin horde.
 
+---
+
 ### Advantage & Disadvantage
 
 In certain scenarios, the GM can determine that a PC either has an advantage or a disadvantage during a Test. This could be due to various factors, like attempting a stealth attack from behind or engaging in combat under challenging conditions like deep mud.
@@ -152,6 +165,8 @@ Advantage: Think of it as your lucky day. The GM decides the stars are aligned f
 Disadvantage: This is when the universe decides to have a laugh at your expense. Maybe you're trying to swing a sword in a swamp, or you're blindfolded on a tightrope. Roll two d20s, but guess what? You're stuck with the worse one. It's the game's way of saying, “Good luck with that.”
 
 The use of Advantage and Disadvantage streamlines complex calculations and keeps the game moving at a brisk pace. It adds an exciting element as well, because let's face it - rolling more dice is always a blast!
+
+---
 
 ### Expertise
 
@@ -187,6 +202,8 @@ To create a Player Character (PC), follow these steps:
 3. Determine starting Hit Points (HP).
 4. Determine your Defense (DEF).
 5. Name the Character.
+
+---
 
 ### Ability Scores
 
@@ -251,9 +268,13 @@ OSR: for each Ability, roll 3d6, determine the bonus, arrange as desired. No re-
 
 If you have no bonuses, your character has died of plague and is buried in a mass grave. Roll again.
 
+---
+
 ### Profession and Background
 
 Choose a Profession
+
+---
 
 ### Hit Points (HP)
 
@@ -272,6 +293,8 @@ This is what separates the bad assess from the masses:
 Zero HP means a character is unconscious. Negative HP means you are
 dead. No death saves. No resurrections. Dead. Deal with it.
 
+---
+
 ### Determine your Defense (DEF)
 
 Defense (DEF) is what enemies need to roll to hit your character. Characters begin with a DEF of 10+ their DEX bonus/penalty + armor bonuses.
@@ -282,6 +305,8 @@ Defense (DEF) is what enemies need to roll to hit your character. Characters beg
 | Light      | Leather coat, jacket, or doublet  | +1        | 10gp   |
 | Medium     | Gambeson, chain vest, scale shirt | +2        | 75gp   |
 | Heavy      | Full plate armor                  | +3        | 1000gp |
+
+---
 
 ### Determine Personality (Optional)
 
@@ -332,6 +357,8 @@ Toss 2d20 to determine a random vice and virtue for your character. If you roll 
 | 18     | vengeful            |
 | 19     | superstitious       |
 | 20     | unreflective        |
+
+---
 
 ### Roll a Random Background (Optional)
 
@@ -483,11 +510,15 @@ That’s it. We’re tempted to provide more guidance, like hard numbers to reac
 
 ## Encumbrance
 
+---
+
 ### Item Slots
 
 Each player character (PC) in Grim has a number of item slots equal to their Constitution (CON) score plus 10. These item slots represent the character's capacity to carry various items, weapons, armor, and supplies during their adventures.
 
 For example, if a character has a Constitution score of 14, they would have a total of 24 item slots (14 CON + 10).
+
+---
 
 ### Managing Coins
 
@@ -543,6 +574,8 @@ MUTATIONS (D20)
 Use a Grim Die to stitch up wounds after combat. If you stitch your own wounds, divide the Grim Die roll in half and round down.
 
 Heal HP = CON every day of complete bedrest.
+
+---
 
 ### No rest for he wicked
 

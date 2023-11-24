@@ -10,7 +10,9 @@
     font-weight: 700;
     src: url('../fonts/EBGaramond-Bold.ttf') format('truetype');
 }
+
 Copy code
+
 body {
     background-color: #FAFAFA;
 }
