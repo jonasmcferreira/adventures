@@ -33,7 +33,7 @@ We enjoy RPGs teetering on the edge, where every shadow on the corner of your ey
 
 ### Embracing the Grim
 
-![](images/grim4.png){ align=right width="300" }
+![](images/grim4.png){ align=right width="400" }
 
 In the realm of Tabletop RPGs, a trend has emerged: complexity that bogs down the essence of adventure. Battles that should be swift and thrilling stretch into hour-long marathons. Character sheets have become as daunting as advanced calculus. Characters start off as mighty heroes and only get mightier, rarely tasting defeat or death. Magic, once a rare and wondrous art, has turned routine, losing its mystique.
 
@@ -45,7 +45,7 @@ We stand for a few fundamental beliefs:
 
 #### Rules Limit, Not Liberate
 
-![](images/rogue1.png){ align=right width="300" }
+![](images/rogue1.png){ align=right width="400" }
 
 The common notion is that rules define a character's capabilities. More rules, more options, right? Wrong. We argue that rules actually constrict creativity. 
 
@@ -57,7 +57,7 @@ What you do hinges on the scenario and your imagination, not a list on paper.
 
 #### Simplicity Speeds Up the Game
 
-![](images/combat.png){ align=right width="300" }
+![](images/combat.png){ align=right width="400" }
 
 Actions, ready actions, bonus actions, reactions, grids, individual initiative—all of these create a game that is slower and longer. Especially during combat, when it should be getting faster!
 
@@ -65,7 +65,7 @@ Overcomplicating character sheets with endless subskills only slows the game fur
 
 #### The GM Reigns Supreme
 
-![](images/gm.png){ align=right width="300" }
+![](images/gm.png){ align=right width="400" }
 
 
 There’s a misconception that the Game Master's role is to be a rulebook with legs. We couldn’t disagree more. In Grim, the GM isn’t just a rule interpreter – they are the rule. 
@@ -295,6 +295,8 @@ dead. No death saves. No resurrections. Dead. Deal with it.
 ---
 
 ### Determine your Defense (DEF)
+
+![](images/defense.png){ align=right width="400" }
 
 Defense (DEF) is what enemies need to roll to hit your character. Characters begin with a DEF of 10+ their DEX bonus/penalty + armor bonuses.
 
