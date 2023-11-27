@@ -86,21 +86,21 @@ Grim is about returning to the roots of roleplaying – fast, fierce, and fun. I
 
 ## Core Mechanic: Test
 
-In Grim, the process for resolving actions is streamlined and intuitive:
+In Grim, the process for resolving actions is both streamlined and intuitive:
 
-Setting the Scene: The GM outlines the current scenario. The player then declares their character's intended action.
+- **Setting the Scene**: The GM describes the current scenario. The player then states their character's intended action.
 
-Determining Difficulty: Should the GM assess that the action has a significant risk of failure, they establish a Difficulty Rating (DR). The DR reflects the task's complexity, with more difficult tasks having a higher DR.
+- **Determining Difficulty**: If the GM determines the action has a significant risk of failure, they set a Difficulty Rating (DR). This DR reflects the task's complexity, with more challenging tasks having a higher DR.
 
-Rolling for Outcome: The player rolls a d20, adding relevant Ability Score Modifiers from their character sheet. Success is achieved by rolling the DR or higher. Failure, naturally, occurs when the roll falls short.
+- **Rolling for Outcome**: The player rolls a d20, adding any relevant Ability Score Modifiers from their character sheet. A roll equal to or greater than the DR indicates success, while a roll below the DR results in failure.
 
-    Formula for Test: d20 roll + Ability Score Modifier + Expertise Bonus (when relevant)
+  - **Formula for Test**: d20 roll + Ability Score Modifier + Expertise Bonus (when applicable)
 
-In Grim, the dice rolls also carry extra weight:
+In Grim, the results of dice rolls have significant implications:
 
-Critical Success: Rolling a natural 20 isn't just a success; it's a triumph, bringing additional perks. In combat scenarios, this translates to an added d12 damage roll.
+- **Critical Success**: Rolling a natural 20 is not just a success, but a major triumph that brings extra benefits. In combat, this results in an additional d12 damage roll.
 
-Critical Failure: Conversely, a natural 1 spells disaster, leading to unforeseen consequences. This could mean weapon damage or loss during combat, or a botched spell with unintended effects in magic use.
+- **Critical Failure**: Conversely, rolling a natural 1 leads to severe consequences, such as weapon damage or loss during combat, or the failure of a spell with unintended effects.
 
 ---
 
@@ -186,10 +186,11 @@ If a character attempts an uncommon action (safecracking, open-heart surgery, di
 
 Some characters rise to great heights of power. Most will meet an ignominious end, devoured by monsters or left to rot on a cold dungeon floor. If adventuring were easy, every peasant would drop their hoe and run off to explore the nearest cave! Because Grim is so deadly, we recommend you make two characters to start. Think of one as the main character and the other as the replacement character when the first one bites the dust.
 
-- All characters are human. 
+- All characters are human.
 - No one can see in the dark.
 - The gods of Grim are indifferent.
 - Spellcasters have been hunted to near extinction.
+- 
 
 To create a Player Character (PC), follow these steps:
 
@@ -212,7 +213,6 @@ Characters are defined by six ability scores: Strength, Intelligence, Wisdom, De
 - Wisdom (**WIS**): Enhances mind-based Saving Throws, and skills in searching, perception, and tracking. It contributes to intuition, insight, cunning, and bonuses in searching and casting prayers.
 - Charisma (**CHA**): Improves all reaction checks and skills in charm, deception, intimidation, performance, and persuasion. It governs the ability to influence, charm, and excel in social interactions.
 
-
 Your Ability Bonus **IS** your proficiency bonus, skill level, and natural ability. 
 
 A +1 STR means you are proficient with ALL hand weapons. 
@@ -234,8 +234,8 @@ There are three methods for determining Ability Scores
 - **Limits:** Ensure no Ability Score exceeds a +5 bonus, and minimum -3
 Example: STR +3, DEX +1, CON +2, INT -2, WIS -1, CHA +2.
 
-**5E Standard Array**
-5E Standard Array
+**OSR Standard Array**
+OSR Standard Array
 
 - **Initial Setup:** Begin with all attributes at -1.
 - **Build Points:** Receive 6 “build points.”
@@ -598,9 +598,33 @@ Success: If the roll results in a success (typically by meeting or exceeding a c
 
 Natural 1: However, if the roll results in a natural 1, it represents a critical failure and a potentially catastrophic outcome. Not only does the spell fail, but the caster also gains a Corruption Point.
 
+So, go ahead, cast those spells. Just remember, in Grim, magic is a gamble where the stakes are as high as your wizard's hat.
+
 ![](images/divider-dark.png){ width="600" }
 
-## Spells
+### Spells
+
+Use any OSR or 5e spells you like—but the PCs must find them through exploration. Keep the damage for those spells as is.
+DC 10 to cast. Saving throws are 15.
+
+All 5e and OSR spells are compatible with Deathbringer. Spellcasting is illegal and spellcasters are burned on sight. As such they keep a low profile. Spellcasters who show off their powers in public will find themselves quickly surrounded by an angry mob.
+
+#### TO HELL WITH SPELL SLOTS
+
+You can learn unlimited spells—that’s the good news. The bad news is you must find them. You do this by:
+
+- Exploring ruins and dungeons to recover ancient scrolls and grimoires.
+- Exchanging spells with a friendly NPC or another wizard. Sometimes lower level wizards apprentice themselves to higher level ones.
+
+#### Acquiring Spells
+
+- Begin with the number of spells proscribed by your profession.
+- Interacting with magical creatures who can impart knowledge of specific spells.
+- When you gain a spell, you must tattoo it on your skin. The more spells you know, the more easily recognized you will be to witch-hunters.
+- You can cast spells of your level or bellow
+- You must roll to cast spells.
+
+
 
 ![](images/divider-dark.png){ width="600" }
 
