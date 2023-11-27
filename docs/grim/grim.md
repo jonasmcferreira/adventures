@@ -572,16 +572,11 @@ MUTATIONS (D20)
 
 Use a Grim Die to stitch up wounds after combat. If you stitch your own wounds, divide the Grim Die roll in half and round down.
 
-Heal HP = CON every day of complete bedrest.
-
----
-
-### No rest for he wicked
+    Heal HP = CON bonus every day of complete bedrest (min 1).
 
 In Grim, the concept of "short rests" and "long rests" as commonly known in other role-playing games is entirely redefined. There are no moments of respite, no pauses to catch your breath, and no extended periods of restorative rest. In this harsh and unforgiving world, the only time for resting is in the grave.
 
-![](images/divider.png){ width="600" }
-![](images/divider-dark.png#only-light){ width="600" }
+![](images/divider-dark.png){ width="600" }
 
 ## Combat
 
