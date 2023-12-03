@@ -43,19 +43,19 @@ Grim is here to shake things up. Here, combat is quick, instinctual, and full of
 
 We stand for a few fundamental beliefs:
 
-#### Rules Limit, Not Liberate
+    Rules Limit, Not Liberate
 
 ![](images/rogue1.png){ align=right width="400" }
 
-The common notion is that rules define a character's capabilities. More rules, more options, right? Wrong. We argue that rules actually constrict creativity. 
+The common notion is that rules define a character's capabilities. More rules, more options, right? Wrong. We argue that rules actually constrict creativity.
 
 Specific skills and feats condition players to think inside the box, trapped by the confines of their character sheets. This leads to repetitive gameplay and a reluctance to try actions not explicitly listed. Grim breaks these chains.
 
-Here, your limits are bound only by your creativity. Outmaneuver a giant by sliding between its legs? Why not. Use your shield as a surfboard in a staircase showdown? Absolutely. Make a weapon out of a dinner plate? Go for it. Every character can wield an improvised weapon – no special skill needed. 
+Here, your limits are bound only by your creativity. Outmaneuver a giant by sliding between its legs? Why not. Use your shield as a surfboard in a staircase showdown? Absolutely. Make a weapon out of a dinner plate? Go for it. Every character can wield an improvised weapon – no special skill needed.
 
 What you do hinges on the scenario and your imagination, not a list on paper.
 
-#### Simplicity Speeds Up the Game
+    Simplicity Speeds Up the Game
 
 ![](images/combat.png){ align=right width="400" }
 
@@ -63,12 +63,11 @@ Actions, ready actions, bonus actions, reactions, grids, individual initiative�
 
 Overcomplicating character sheets with endless subskills only slows the game further as players sift through minutiae. In Grim, character sheets are streamlined. Key information like Ability Score bonuses and a universal ‘Expertise’ bonus for relevant skills keep things moving fast. The GM handles the nitty-gritty, guiding players on what to roll and when.
 
-#### The GM Reigns Supreme
+    The GM Reigns Supreme
 
 ![](images/gm.png){ align=right width="400" }
 
-
-There’s a misconception that the Game Master's role is to be a rulebook with legs. We couldn’t disagree more. In Grim, the GM isn’t just a rule interpreter – they are the rule. 
+There’s a misconception that the Game Master's role is to be a rulebook with legs. We couldn’t disagree more. In Grim, the GM isn’t just a rule interpreter – they are the rule.
 
 They’re what sets TTRPGs apart from video games and board games. They're the human element that allows for spontaneous and creative gameplay. Remember, board games need rigid rules because there's no GM. But in TTRPGs, we have the best AI there is – the human brain. That's why our rules are intentionally malleable, empowering the GM to keep the adventure flowing. The cardinal rule here is simple:
 
@@ -213,11 +212,11 @@ Characters are defined by six ability scores: Strength, Intelligence, Wisdom, De
 - Wisdom (**WIS**): Enhances mind-based Saving Throws, and skills in searching, perception, and tracking. It contributes to intuition, insight, cunning, and bonuses in searching and casting prayers.
 - Charisma (**CHA**): Improves all reaction checks and skills in charm, deception, intimidation, performance, and persuasion. It governs the ability to influence, charm, and excel in social interactions.
 
-Your Ability Bonus **IS** your proficiency bonus, skill level, and natural ability. 
+Your Ability Bonus **IS** your proficiency bonus, skill level, and natural ability.
 
-A +1 STR means you are proficient with ALL hand weapons. 
+A +1 STR means you are proficient with ALL hand weapons.
 
-A +1 DEX means you are proficient with all ranged weapons, acrobatics, climbing, stealth, etc. 
+A +1 DEX means you are proficient with all ranged weapons, acrobatics, climbing, stealth, etc.
 
 A high CHA means you are good will all social interactions.
 
@@ -277,7 +276,7 @@ work in progress
 
 ### Hit Points (HP)
 
-Hit Points are a combination of overall health, skill, and luck. Most characters begin with d6HP and gain an additional d6hp at every level. 
+Hit Points are a combination of overall health, skill, and luck. Most characters begin with d6HP and gain an additional d6hp at every level.
 
     Hit points = Hit Dice
 
@@ -313,51 +312,29 @@ Defense (DEF) is what enemies need to roll to hit your character. Characters beg
 
 Toss 2d20 to determine a random vice and virtue for your character. If you roll the same number, toss one die again. If you don’t like the result, roll again—or choose. The point is to distinguish your character’s personality from all the other characters with the same profession.
 
-| Number | Virtue        |
-| ------ | ------------- |
-| 1      | brave         |
-| 2      | cautious      |
-| 3      | courteous     |
-| 4      | generous      |
-| 5      | honorable     |
-| 6      | studious      |
-| 7      | pious         |
-| 8      | merciful      |
-| 9      | stoic         |
-| 10     | industrious   |
-| 11     | optimistic    |
-| 12     | idealistic    |
-| 13     | reserved      |
-| 14     | Non-drinker   |
-| 15     | Modest/humble |
-| 16     | disciplined   |
-| 17     | chaste        |
-| 18     | forgiving     |
-| 19     | rational      |
-| 20     | contemplative |
 
-| Number | Vice                |
-| ------ | ------------------- |
-| 1      | cowardly            |
-| 2      | compulsive gambler  |
-| 3      | rude                |
-| 4      | greedy              |
-| 5      | self-serving/cheater|
-| 6      | inattentive         |
-| 7      | irreverent          |
-| 8      | ruthless            |
-| 9      | Ill-tempered        |
-| 10     | lazy                |
-| 11     | pessimistic         |
-| 12     | cynical             |
-| 13     | boisterous          |
-| 14     | drunkard            |
-| 15     | Vain/braggart       |
-| 16     | rebellious          |
-| 17     | promiscuous         |
-| 18     | vengeful            |
-| 19     | superstitious       |
-| 20     | unreflective        |
+| Number | Virtue        | Number | Vice                |
+| ------ | ------------- | ------ | ------------------- |
+| 1      | brave         | 1      | cowardly            |
+| 2      | cautious      | 2      | compulsive gambler  |
+| 3      | courteous     | 3      | rude                |
+| 4      | generous      | 4      | greedy              |
+| 5      | honorable     | 5      | self-serving/cheater|
+| 6      | studious      | 6      | inattentive         |
+| 7      | pious         | 7      | irreverent          |
+| 8      | merciful      | 8      | ruthless            |
+| 9      | stoic         | 9      | Ill-tempered        |
+| 10     | industrious   | 10     | lazy                |
+| 11     | optimistic    | 11     | pessimistic         |
+| 12     | idealistic    | 12     | cynical             |
+| 13     | reserved      | 13     | boisterous          |
+| 14     | Non-drinker   | 14     | drunkard            |
+| 15     | Modest/humble | 15     | Vain/braggart       |
+| 16     | disciplined   | 16     | rebellious          |
+| 17     | chaste        | 17     | promiscuous         |
+| 18     | forgiving     | 18     | vengeful            |
+| 19     | rational      | 19     | superstitious       |
+| 20     | contemplative | 20     | unreflective        |
 
 ---
 
@@ -366,53 +343,32 @@ Toss 2d20 to determine a random vice and virtue for your character. If you roll 
 You can choose from these tables or make your own background, it's your choice
 Toss some dice. If the results don’t make sense, roll again.
 
-| D20 | RANDOM MISERY |
-| --- | ---- |
-| 1 | Abandoned at birth. |
-| 2 | Banished from home. |
-| 3 | Betrayed by a loved one. |
-| 4 | Cursed by vengeful witch. |
-| 5 | Disinherited or disowned. |
-| 6 | Escaped bondage or prison. |
-| 7 | Fled a scandal. |
-| 8 | Framed for a crime. |
-| 9 | Killed someone important. |
-| 10 | Left for dead. |
-| 11 | Locusts ate your crops. |
-| 12 | Owe someone money. |
-| 13 | Pursued by the law. |
-| 14 | Raised in the streets |
-| 15 | Reduced to poverty. |
-| 16 | Rejected by society. |
-| 17 | Ruined by vice. |
-| 18 | Suffering from amnesia. |
-| 19 | Survived a massacre. |
-| 20 | Town ravaged by plague. |
+| D20 | RANDOM MISERY | D20 | BACKGROUND |
+| --- | ---- | --- | --- |
+| 1 | Abandoned at birth. | 1 | Bounty Hunter |
+| 2 | Banished from home. | 2 | Courtesan |
+| 3 | Betrayed by a loved one. | 3 | Duelist |
+| 4 | Cursed by vengeful witch. | 4 | Executioner |
+| 5 | Disinherited or disowned. | 5 | Farmer |
+| 6 | Escaped bondage or prison. | 6 | Grave Robber |
+| 7 | Fled a scandal. | 7 | Leech Collector |
+| 8 | Framed for a crime. | 8 | Mercenary |
+| 9 | Killed someone important. | 9 | Minor Noble |
+| 10 | Left for dead. | 10 | Outlaw |
+| 11 | Locusts ate your crops. | 11 | Performer |
+| 12 | Owe someone money. | 12 | Pit Fighter |
+| 13 | Pursued by the law. | 13 | Pirate/Sailor |
+| 14 | Raised in the streets | 14  | Priest/nun/monk |
+| 15 | Reduced to poverty. | 15  | Rat Catcher |
+| 16 | Rejected by society. | 16  | Servant |
+| 17 | Ruined by vice. | 17  | Student/Scholar |
+| 18 | Suffering from amnesia. | 18  | Swineherd |
+| 19 | Survived a massacre. | 19  | Soldier |
+| 20 | Town ravaged by plague. | 20  | Urchin |
 
-| D20 | BACKGROUND |
-| --- | --- |
-| 1 | Bounty Hunter |
-| 2 | Courtesan |
-| 3 | Duelist |
-| 4 | Executioner |
-| 5 | Farmer |
-| 6 | Grave Robber |
-| 7 | Leech Collector |
-| 8 | Mercenary |
-| 9 | Minor Noble |
-| 10 | Outlaw |
-| 11 | Performer |
-| 12 | Pit Fighter |
-| 13 | Pirate/Sailor |
-| 14  | Priest/nun/monk |
-| 15  | Rat Catcher |
-| 16  | Servant |
-| 17  | Student/Scholar |
-| 18  | Swineherd |
-| 19  | Soldier |
-| 20  | Urchin |
+Roll 2d10 for your birthplace
 
-| D10 | Birthplace |
+|    | |
 | --- | --- |
 | 1. Blighted | 1. Village |
 | 2. Cursed | 2. Backwater town |
@@ -453,15 +409,17 @@ Toss some dice. If the results don’t make sense, roll again.
 
 SIBLINGS
 
-You have d6-2
+You have d6-2 siblings
 
 Roll D6
-1-3 = Younger
-4-6 = Older
+
+- 1-3 = Younger
+- 4-6 = Older
 
 Roll D6
-1-3 = Male
-4-6 = Female
+
+- 1-3 = Male
+- 4-6 = Female
 
 | D10 | Sibling Fate |
 | --- | --- |
@@ -480,13 +438,16 @@ Roll D6
 
 ## Experience and levelling
 
+
+![](images/levelling.png)
+
 In Grim, characters level up when the GM says they do.
 
 Experience points (XP) are awarded entirely at the GM’s discretion. How the GM awards XP will incentivize certain behaviors:
 
 - If you want to emphasize story, award XP for completing scenario objectives. Example: each rescued prisoner is worth 1xp.
 - If you want to emphasize character growth, award XP for character milestones. Example: when the fighter finds and kills the man who killed her father, she levels up.
-- If you want to emphasize conflict, award XP for killing monsters. Ex: each monster is worth 1-2xp.
+- If you want to emphasize conflict, award XP for killing monsters. Example: each monster is worth 1-2xp.
 - If you want to emphasize exploration and risk-taking, award XP for accumulating wealth. Example: 100gp = 1xp.
 - If you want to encourage role-playing, award 1xp for a player staying in character or acting in a manner that entertains the other players.
 
@@ -498,7 +459,7 @@ When you gain a Level:
 - Test against each Ability Score. Roll a d20. If you roll higher than the current bonus number, raise that Ability Score by 1 (max 20)
 - Gain d6+CON bonus HP (minimum 1)
 
-!!! danger
+!!! tip
 
     Maximum HP is your CON Ability Score (not bonus).
 
