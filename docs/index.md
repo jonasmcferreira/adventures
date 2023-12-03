@@ -1,4 +1,4 @@
-# Welcome to my Adventures!
+# Welcome to my Adventures
 
 This site is where I'll be sharing my novel based on my role-playing sessions. Join me on a journey through a dangerous world where we'll encounter all manner of creatures and obstacles.
 
