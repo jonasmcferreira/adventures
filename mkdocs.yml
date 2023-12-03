@@ -1,4 +1,4 @@
-site_name: My Adventures
+site_name: Adventures
 site_url: https://jonasmcferreira.github.io/adventures/
 
 nav:
@@ -16,7 +16,10 @@ nav:
   - Dungeons of Drakkenheim:
     - Characters: drakkenheim/characters.md
     - Day 0: drakkenheim/00.md
-  - Grim Addon:
+    - Day 1: drakkenheim/01.md
+  - Frostwood:
+    - Characters: frostwood/characters.md
+  - Grim:
     - Grim: grim/grim.md
 
 theme:
