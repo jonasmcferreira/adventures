@@ -228,7 +228,7 @@ There are three methods for determining Ability Scores
 5E Standard Array
 
 - **Initial Setup:** Begin with all attributes at -1.
-- **Build Points:** Receive 10 “build points.”
+- **Build Points:** Receive 12 “build points.”
 - **Distribution**: Allocate these points as bonuses among your six Ability Scores.
 - **Limits:** Ensure no Ability Score exceeds a +5 bonus, and minimum -3
 Example: STR +3, DEX +1, CON +2, INT -2, WIS -1, CHA +2.
@@ -276,17 +276,9 @@ work in progress
 
 ### Hit Points (HP)
 
-Hit Points are a combination of overall health, skill, and luck. Most characters begin with d6HP and gain an additional d6hp at every level.
+Hit Points are a combination of overall health, skill, and luck. This is what separates the bad assess from the masses.
 
-    Hit points = Hit Dice
-
-This is what separates the bad assess from the masses:
-
-- Characters roll for HP on 1st level. If they roll a 1 or a 2, too bad. They must keep it.
-- No “do-overs,” re-rolls, or claiming ‘interference” because the dice bounced off a pencil or a book.
-- CON score is the Max HP
-
-    DEFense= 10 + DEX + Armor.
+    CON score is the Max HP
 
 Zero HP means a character is unconscious. Negative HP means you are
 dead. No death saves. No resurrections. Dead. Deal with it.
@@ -298,6 +290,8 @@ dead. No death saves. No resurrections. Dead. Deal with it.
 ![](images/defense.png){ align=right width="400" }
 
 Defense (DEF) is what enemies need to roll to hit your character. Characters begin with a DEF of 10+ their DEX bonus/penalty + armor bonuses.
+
+    DEFense= 10 + DEX + Armor.
 
 | Armor Type | Description                       | DEF Bonus | Cost   |
 |------------|-----------------------------------|-----------|--------|
@@ -456,8 +450,7 @@ Level up at 10xp.
 When you gain a Level:
 
 - Gain an additional Grim Die each level.
-- Test against each Ability Score. Roll a d20. If you roll higher than the current bonus number, raise that Ability Score by 1 (max 20)
-- Gain d6+CON bonus HP (minimum 1)
+- Roll 1d6-1, that's how many points you have to add to your current ability scores, spread as you wish.
 
 !!! tip
 
