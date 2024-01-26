@@ -37,7 +37,7 @@ We enjoy RPGs teetering on the edge, where every shadow on the corner of your ey
 
 In the realm of Tabletop RPGs, a trend has emerged: complexity that bogs down the essence of adventure. Battles that should be swift and thrilling stretch into hour-long marathons. Character sheets have become as daunting as advanced calculus. Characters start off as mighty heroes and only get mightier, rarely tasting defeat or death. Magic, once a rare and wondrous art, has turned routine, losing its mystique.
 
-**Screw that.**
+    **Screw that.**
 
 Grim is here to shake things up. Here, combat is quick, instinctual, and full of flair. Forget about intricate character sheets – we’re keeping it straightforward. Characters gain power, but they’re not invincible. They’re heroes, yes, but still mortals vulnerable to a well-placed strike. Magic here is volatile and unpredictable. Death is a constant companion in our adventures, making every moment in the dungeon pulse with peril.
 
@@ -83,7 +83,7 @@ Grim is about returning to the roots of roleplaying – fast, fierce, and fun. I
 
 ![](images/divider-dark.png){ width="600" }
 
-## Core Mechanic: Test
+## Core Mechanic: Check
 
 In Grim, the process for resolving actions is both streamlined and intuitive:
 
@@ -185,17 +185,16 @@ If a character attempts an uncommon action (safecracking, open-heart surgery, di
 
 Some characters rise to great heights of power. Most will meet an ignominious end, devoured by monsters or left to rot on a cold dungeon floor. If adventuring were easy, every peasant would drop their hoe and run off to explore the nearest cave! Because Grim is so deadly, we recommend you make two characters to start. Think of one as the main character and the other as the replacement character when the first one bites the dust.
 
-- All characters are human.
+- You exist as a human or something close enough. In this bleak world, your race offers neither boon nor bane - survival hinges on more than mere lineage.
 - No one can see in the dark.
 - The gods of Grim are indifferent.
 - Spellcasters have been hunted to near extinction.
-- 
 
 To create a Player Character (PC), follow these steps:
 
 1. Determine ability scores.
-2. Choose a Profession and roll a random Background; note your powers, special abilities, Expertise, and starting equipment.
-3. Determine starting Hit Points (HP).
+2. Choose a Class and roll a random Background; note your powers, special abilities, Expertise, and starting equipment.
+3. Determine Hit Points (HP).
 4. Determine your Defense (DEF).
 5. Name the Character.
 
@@ -217,8 +216,6 @@ Your Ability Bonus **IS** your proficiency bonus, skill level, and natural abili
 A +1 STR means you are proficient with ALL hand weapons.
 
 A +1 DEX means you are proficient with all ranged weapons, acrobatics, climbing, stealth, etc.
-
-A high CHA means you are good will all social interactions.
 
 #### Determining Ability Scores
 
@@ -266,11 +263,9 @@ OSR: for each Ability, roll 3d6, determine the bonus, arrange as desired. No re-
 
 ---
 
-### Profession and Background
+### Class
 
-Choose a Profession
-
-work in progress
+work in progress - see [Classes](classes.md)
 
 ---
 
@@ -280,14 +275,13 @@ Hit Points are a combination of overall health, skill, and luck. This is what se
 
     CON score is the Max HP
 
-Zero HP means a character is unconscious. Negative HP means you are
-dead. No death saves. No resurrections. Dead. Deal with it.
+Zero HP means a character is unconscious. Negative HP means you are dead. No death saves. No resurrections. Dead. Deal with it.
 
 ---
 
 ### Determine your Defense (DEF)
 
-![](images/defense.png){ align=right width="400" }
+![](images/defense.png){ width="400" }
 
 Defense (DEF) is what enemies need to roll to hit your character. Characters begin with a DEF of 10+ their DEX bonus/penalty + armor bonuses.
 
@@ -298,14 +292,13 @@ Defense (DEF) is what enemies need to roll to hit your character. Characters beg
 | Shield     | Wood, battered.                   | +2        | 15gp   |
 | Light      | Leather coat, jacket, or doublet  | +1        | 10gp   |
 | Medium     | Gambeson, chain vest, scale shirt | +2        | 75gp   |
-| Heavy      | Full plate armor                  | +3        | 1000gp |
+| Heavy      | Full plate armor, Horn Plate      | +3        | 1000gp |
 
 ---
 
 ### Determine Personality (Optional)
 
-Toss 2d20 to determine a random vice and virtue for your character. If you roll the same number, toss one die again. If you don’t like the result, roll again—or choose. The point is to distinguish your character’s personality from all the other characters with the same profession.
-
+Toss 2d20 to determine a random vice and virtue for your character. If you roll the same number, toss one die again. If you don’t like the result, roll again—or choose. The point is to distinguish your character’s personality from all the other characters with the same Class.
 
 | Number | Virtue        | Number | Vice                |
 | ------ | ------------- | ------ | ------------------- |
@@ -450,7 +443,7 @@ Level up at 10xp.
 When you gain a Level:
 
 - Gain an additional Grim Die each level.
-- Roll 1d6-1, that's how many points you have to add to your current ability scores, spread as you wish.
+- Roll 1d4, that's how many points you have to add to your current ability scores, each score can only increase by one per level.
 
 !!! tip
 
@@ -463,7 +456,7 @@ That’s it. We’re tempted to provide more guidance, like hard numbers to reac
 
 ![](images/divider-dark.png){ width="600" }
 
-## Encumbrance
+## Encumbrance Item Slots, Inventory, etc
 
 ---
 
@@ -485,15 +478,15 @@ Once all slots are filled, characters move at half speed.
 
 ## Corruption
 
-- Gain +1 when you commit and evil deed or roll Nat 1 when spellcasting.
-- “Evil deeds” include killing prisoners who have surrendered, innocent people, or anything the GM determines to be morally wrong.
-- At 10 Corruption you have lost all humanity and become a monster controlled by the GM.
-
 Corruption is an essential part of the Grim universe. Actions have consequences and the PCs may be heroes—but flawed heroes who are haunted by their pasts and who must constantly struggle against becoming the very monsters they fight against. Some characters may be forced to retire before they lose their souls.
 
 Characters begin with zero Corruption. When a character gains ten Corruption, they become a monster controlled by the GM and are removed from play. Corruption may manifest physically in the form of a physical mutation (a third eye, scaley skin, or a second head growing out of the PC’s shoulder, etc.) or it can be mental, with the character having a seemingly normal appearance, but completely depraved and murderous thoughts.
 
-There is no way to remove Corruption. PCs can only gain it. Evil deeds haunt a character forever. If the GM chooses, a PC may gain a mutation once they gain +6 Corruption and an additional mutation every point thereafter.
+- Gain +1 when you roll Nat 1 when spellcasting.
+- Acts of corruption include anything the GM determines to be morally wrong or against your characters motives.
+- At 10 Corruption you have lost all humanity and become a monster controlled by the GM.
+
+There is no way to remove Corruption. PCs can only gain it. Deeds haunt a character forever. If the GM chooses, a PC may gain a mutation once they gain +6 Corruption and an additional mutation every point thereafter.
 
 MUTATIONS (D20)
 
@@ -518,15 +511,15 @@ MUTATIONS (D20)
 | 17 | Tentacle. |
 | 18 | Demonic horns. |
 | 19 | Skull face. |
-| 20 | Molts into a giant roach or worm. |
+| 20 | Vampiric thirst. |
 
 ![](images/divider-dark.png){ width="600" }
 
 ## Healing
 
-Use a Grim Die to stitch up wounds after combat. If you stitch your own wounds, divide the Grim Die roll in half and round down.
+Use a Grim Die to stitch up wounds after combat. If you stitch your own wounds, roll a Grim Die and add it to your hit points.
 
-    Heal HP = CON bonus every day of complete bedrest (min 1).
+    Heal HP = CON bonus each day of undisturbed rest, minimum of 1. (Double the amount if you're fortunate enough to find sanctuary in a safe haven like a town or hospital).
 
 In Grim, the concept of "short rests" and "long rests" as commonly known in other role-playing games is entirely redefined. There are no moments of respite, no pauses to catch your breath, and no extended periods of restorative rest. In this harsh and unforgiving world, the only time for resting is in the grave.
 
@@ -534,18 +527,47 @@ In Grim, the concept of "short rests" and "long rests" as commonly known in othe
 
 ## Combat
 
+When the battle rages, you can take two actions, in any order.
+
+Actions:
+
+- Attacking ( once per turn )
+- Casting a spell ( once per turn )
+- Moving up to your speed
+- Drawing and drinking a potion
+- Interacting with an object (reading a scroll, open a door, etc)
+
 ![](images/divider-dark.png){ width="600" }
 
 ## Magic
 
+  To Hell with Spell Slots!
+
 In Grim, the practice of magic is a perilous endeavor fraught with uncertainty. There are no conventional spell slots, and spellcasters must rely on the roll of the dice to determine the outcome of their magical endeavors.
 
-Roll to Cast
-When a character attempts to cast a spell in Grim, they must make a roll to determine the success of their casting. This roll reflects the inherent volatility of magic in this world. The specific mechanics of the roll may involve rolling a twenty-sided die (d20) or using another appropriate method.
+Your level is the level of spells you can cast. (level 3 character can cast level 3 spells)
 
-Success: If the roll results in a success (typically by meeting or exceeding a certain target number), the spell is cast as intended, and its effects manifest as expected.
+Roll to Cast: When a character attempts to cast a spell in Grim, they must make a roll to determine the success of their casting. **The DC to cast is 10** . This roll reflects the inherent volatility of magic in this world.
+
+Natural 20: One of the effects of the spell is doubled (range, duration, area, damage, DM chooses).
 
 Natural 1: However, if the roll results in a natural 1, it represents a critical failure and a potentially catastrophic outcome. Not only does the spell fail, but the caster also gains a Corruption Point.
+
+### Miscast Table
+
++1 Corruption and:
+
+TBD
+
+| Roll | Outcome |
+|------|---------|
+| 1-10 | Fizzle. Spell does not work. Ghostly laughter fills the room. |
+| 11-15| Backfire. Caster Hitpoints goes down to 1 |
+| 16   | Disaster. All armor, both friend and foe, disintegrates. |
+| 17   | Spell hits the wrong target or summons a hostile monster. |
+| 18   | Caster loses a level or ages d20 years. |
+| 19   | Caster gains a random mutation. |
+| 20   | Catastrophic. Caster explodes in a shower of gore. |
 
 So, go ahead, cast those spells. Just remember, in Grim, magic is a gamble where the stakes are as high as your wizard's hat.
 
@@ -556,7 +578,7 @@ So, go ahead, cast those spells. Just remember, in Grim, magic is a gamble where
 Use any OSR or 5e spells you like—but the PCs must find them through exploration. Keep the damage for those spells as is.
 DC 10 to cast. Saving throws are 15.
 
-All 5e and OSR spells are compatible with Deathbringer. Spellcasting is illegal and spellcasters are burned on sight. As such they keep a low profile. Spellcasters who show off their powers in public will find themselves quickly surrounded by an angry mob.
+All 5e and OSR spells are compatible with Grim. Spellcasting is illegal and spellcasters are burned on sight. As such they keep a low profile. Spellcasters who show off their powers in public will find themselves quickly surrounded by an angry mob.
 
 #### TO HELL WITH SPELL SLOTS
 
@@ -567,7 +589,7 @@ You can learn unlimited spells—that’s the good news. The bad news is you mus
 
 #### Acquiring Spells
 
-- Begin with the number of spells proscribed by your profession.
+- Begin with the number of spells proscribed by your Class.
 - Interacting with magical creatures who can impart knowledge of specific spells.
 - When you gain a spell, you must tattoo it on your skin. The more spells you know, the more easily recognized you will be to witch-hunters.
 - You can cast spells of your level or bellow
