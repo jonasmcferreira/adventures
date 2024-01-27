@@ -603,26 +603,4 @@ You can learn unlimited spells—that’s the good news. The bad news is you mus
 
 ![](images/monsters.png)
 
-Import and monsters and spells you like from 5e/OSR games.
-
-5E Monsters have pure HD (no CON bonuses). OSR monsters remain exactly as written in the description/module.
-
-Spells do the same damage.
-
-Magic items are virtually non-existent. Potions are rare.
-
-![](images/divider-dark.png){ width="600" }
-
-## Rewards & Treasure
-
-![](images/divider-dark.png){ width="600" }
-
-## Adventures
-
-![](images/divider-dark.png){ width="600" }
-
-## GM Advice
-
-## Inspired by Deathbringer
-
-Grim draws its inspiration from the Deathbringer addon created by the Dungeoncraft [YouTube channel](https://www.youtube.com/@DUNGEONCRAFT1) and [Patreon](https://www.patreon.com/DungeonCraftYouTube). Building upon the innovative ideas and concepts presented in Deathbringer, Grim takes the spirit of gritty and intense tabletop role-playing to new heights.
+I
