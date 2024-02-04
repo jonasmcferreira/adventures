@@ -580,22 +580,17 @@ DC 10 to cast. Saving throws are 15.
 
 All 5e and OSR spells are compatible with Grim. Spellcasting is illegal and spellcasters are burned on sight. As such they keep a low profile. Spellcasters who show off their powers in public will find themselves quickly surrounded by an angry mob.
 
-#### TO HELL WITH SPELL SLOTS
+#### Acquiring Spells
 
 You can learn unlimited spells—that’s the good news. The bad news is you must find them. You do this by:
 
 - Exploring ruins and dungeons to recover ancient scrolls and grimoires.
 - Exchanging spells with a friendly NPC or another wizard. Sometimes lower level wizards apprentice themselves to higher level ones.
 
-#### Acquiring Spells
-
 - Begin with the number of spells proscribed by your Class.
 - Interacting with magical creatures who can impart knowledge of specific spells.
 - When you gain a spell, you must tattoo it on your skin. The more spells you know, the more easily recognized you will be to witch-hunters.
-- You can cast spells of your level or bellow
-- You must roll to cast spells.
-
-
+- You can cast spells of your level or below
 
 ![](images/divider-dark.png){ width="600" }
 
@@ -603,4 +598,26 @@ You can learn unlimited spells—that’s the good news. The bad news is you mus
 
 ![](images/monsters.png)
 
-I
+Import and monsters and spells you like from 5e/OSR games.
+
+5E Monsters have pure HD (no CON bonuses). OSR monsters remain exactly as written in the description/module.
+
+Spells do the same damage.
+
+Magic items are virtually non-existent. Potions are rare.
+
+![](images/divider-dark.png){ width="600" }
+
+## Rewards & Treasure
+
+![](images/divider-dark.png){ width="600" }
+
+## Adventures
+
+![](images/divider-dark.png){ width="600" }
+
+## GM Advice
+
+## Inspired by Deathbringer
+
+Grim draws its inspiration from the Deathbringer addon created by the Dungeoncraft [YouTube channel](https://www.youtube.com/@DUNGEONCRAFT1) and [Patreon](https://www.patreon.com/DungeonCraftYouTube). Building upon the innovative ideas and concepts presented in Deathbringer, Grim takes the spirit of gritty and intense tabletop role-playing to new heights.
