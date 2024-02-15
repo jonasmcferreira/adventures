@@ -531,11 +531,21 @@ When the battle rages, you can take two actions, in any order.
 
 Actions:
 
-- Attacking ( once per turn )
-- Casting a spell ( once per turn )
+- Attacking (once per turn)
+- Casting a spell (once per turn, whether from class spell, from a scroll, wand, or staff)
 - Moving up to your speed
 - Drawing and drinking a potion
-- Interacting with an object (reading a scroll, open a door, etc)
+- Interacting with an object (reading a scroll, opening a door, etc).
+
+For example, Elara (a Blade) and Mirren (a Tome) find themselves ambushed by a trio of goblins in a dense forest clearing.
+
+On Elara's turn, she uses her movement to close the distance between herself and the nearest goblin and attacks with her longsword.
+
+On Mirren's turn, she decides to cast *Arcane Blast* at the goblin attacking Elara, using a Grim Die to ensure the spell's success without a miscast. The spell hits, causing significant damage. Mirren then uses her movement to position herself behind a large tree, seeking cover from potential return fire.
+
+The goblin, seeking to evade the battle, uses both of his actions to move, covering twice his normal movement speed.
+
+
 
 ![](images/divider-dark.png){ width="600" }
 
@@ -551,13 +561,9 @@ Roll to Cast: When a character attempts to cast a spell in Grim, they must make 
 
 Natural 20: One of the effects of the spell is doubled (range, duration, area, damage, DM chooses).
 
-Natural 1: However, if the roll results in a natural 1, it represents a critical failure and a potentially catastrophic outcome. Not only does the spell fail, but the caster also gains a Corruption Point.
+Natural 1: However, if the roll results in a natural 1, it represents a critical failure and a potentially catastrophic outcome. The caster gains a Corruption Point and rolls on the Miscast Table.
 
 ### Miscast Table
-
-+1 Corruption and:
-
-TBD
 
 | Roll | Outcome |
 |------|---------|
@@ -582,12 +588,11 @@ All 5e and OSR spells are compatible with Grim. Spellcasting is illegal and spel
 
 #### Acquiring Spells
 
-You can learn unlimited spells—that’s the good news. The bad news is you must find them. You do this by:
+You can learn unlimited spells—that’s the good news. The bad news is you must find them. 
+Begin with the number of spells proscribed by your Class and add new ones. You do this by:
 
 - Exploring ruins and dungeons to recover ancient scrolls and grimoires.
 - Exchanging spells with a friendly NPC or another wizard. Sometimes lower level wizards apprentice themselves to higher level ones.
-
-- Begin with the number of spells proscribed by your Class.
 - Interacting with magical creatures who can impart knowledge of specific spells.
 - When you gain a spell, you must tattoo it on your skin. The more spells you know, the more easily recognized you will be to witch-hunters.
 - You can cast spells of your level or below
