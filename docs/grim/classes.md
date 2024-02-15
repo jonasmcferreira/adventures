@@ -96,16 +96,16 @@ If your calling is to serve a higher power, to safeguard your allies with divine
 | 9     |                  | Whispered Betrayal  |
 | 10    | +1 to DEX        | Shadow Lord         |
 
-- **Shadow Step (Grim Die Required):** Spend a Grim Die to teleport up to 30 feet to a spot you can see that is in shadow or dim light.
-- **Silent Strike (Grim Die Required):** When you spend a Grim Die, your next attack from stealth or against a surprised enemy deals an additional 1d6 damage.
-- **Poison Mastery (Grim Die Required):** Use a Grim Die to apply a potent poison to your weapon that lasts for 1 hour or until you hit, causing 1d4 poison damage and a possible status ailment determined by the GM.
-- **Evasion (Grim Die Required):** When you spend a Grim Die, you gain the benefit of Evasion for the next turn.
-- **Ghostly Presence (Grim Die Required):** Spend a Grim Die to gain advantage on all Stealth checks and the ability to move through objects and creatures for 10 minutes.
-- **Quick Hands (Grim Die Required):** Use a Grim Die to gain an additional bonus action on your turn that can be used for specific actions like using an object, pickpocketing, or disarming traps.
-- **Lethal Precision (Grim Die Required):** Spend a Grim Die to deal an extra 2d6 damage on your next successful weapon attack.
-- **Cloak of Darkness (Grim Die Required):** Use a Grim Die to become invisible for 1 minute or until you attack or cast a spell.
-- **Whispered Betrayal (Grim Die Required):** Spend a Grim Die to cast *suggestion* without expending a spell slot.
-- **Shadow Lord (Grim Die Required):** Use a Grim Die to summon a shadowy creature to serve you for 1 hour.
+- **Shadow Step:** Spend a Grim Die to teleport up to 30 feet to a spot you can see that is in shadow or dim light.
+- **Silent Strike:** When you spend a Grim Die, your next attack from stealth or against a surprised enemy deals an additional 1d6 damage.
+- **Poison Mastery:** Use a Grim Die to apply a potent poison to your weapon that lasts for 1 hour or until you hit, causing 1d4 poison damage and a possible status ailment determined by the GM.
+- **Evasion:** When you spend a Grim Die, you gain the benefit of Evasion for the next turn.
+- **Ghostly Presence:** Spend a Grim Die to gain advantage on all Stealth checks and the ability to move through objects and creatures for 10 minutes.
+- **Quick Hands:** Use a Grim Die to gain an additional bonus action on your turn that can be used for specific actions like using an object, pickpocketing, or disarming traps.
+- **Lethal Precision:** Spend a Grim Die to deal an extra 2d6 damage on your next successful weapon attack.
+- **Cloak of Darkness:** Use a Grim Die to become invisible for 1 minute or until you attack or cast a spell.
+- **Whispered Betrayal:** Spend a Grim Die to cast *suggestion* without expending a spell slot.
+- **Shadow Lord:** Use a Grim Die to summon a shadowy creature to serve you for 1 hour.
 
 ## Vision
 
@@ -128,14 +128,14 @@ If your calling is to serve a higher power, to safeguard your allies with divine
 | 9     |                  | Wrath of the Divine |
 | 10    | +1 to WIS        | Ascension           |
 
-- **Divine Insight (Grim Die Required):** Spend a Grim Die to cast *detect evil and good* or *detect magic* without expending a spell slot.
-- **Sacred Ward (Grim Die Required):** Use a Grim Die as a reaction to impose disadvantage on an attack roll made against you or an ally within 30 feet.
-- **Blessing of Might (Grim Die Required):** Spend a Grim Die to touch a creature, granting it a bonus to its next attack roll or saving throw equal to your Wisdom modifier.
-- **Spirit Guardian (Grim Die Required):** Use a Grim Die to summon a spirit that protects you and your allies in a 15-foot radius for 10 minutes, dealing radiant damage to enemies that start their turn in the area.
-- **Beacon of Hope (Grim Die Required):** Spend a Grim Die to cast *beacon of hope* without expending a spell slot, affecting all allies within 30 feet.
-- **Celestial Command (Grim Die Required):** Use a Grim Die to compel a celestial being to aid you in battle for 1 minute once per long rest.
-- **Divine Protection (Grim Die Required):** Spend a Grim Die to grant yourself or an ally within 60 feet a protective shield that absorbs damage equal to your level + your Wisdom modifier.
-- **Holy Avenger (Grim Die Required):** Use a Grim Die to imbue a weapon with divine energy for 1 minute, making it act as a +1 weapon that deals an extra 2d6 radiant damage on a hit.
-- **Wrath of the Divine (Grim Die Required):** Spend a Grim Die to unleash a wave of divine energy in a 30-foot radius. Enemies within the area must make a Wisdom saving throw or be stunned until the end of your next turn.
-- **Ascension (Grim Die Required):** Use a Grim Die to temporarily ascend to a higher plane of existence, gaining resistance to all damage and the ability to cast spells without expending spell slots for 1 minute once per long rest.
+- **Divine Insight:** Spend a Grim Die to cast *detect evil and good* or *detect magic* without expending a spell slot.
+- **Sacred Ward:** Use a Grim Die as a reaction to impose disadvantage on an attack roll made against you or an ally within 30 feet.
+- **Blessing of Might:** Spend a Grim Die to touch a creature, granting it a bonus to its next attack roll or saving throw equal to your Wisdom modifier.
+- **Spirit Guardian:** Use a Grim Die to summon a spirit that protects you and your allies in a 15-foot radius for 10 minutes, dealing radiant damage to enemies that start their turn in the area.
+- **Beacon of Hope:** Spend a Grim Die to cast *beacon of hope* without expending a spell slot, affecting all allies within 30 feet.
+- **Celestial Command:** Use a Grim Die to compel a celestial being to aid you in battle for 1 minute once per long rest.
+- **Divine Protection:** Spend a Grim Die to grant yourself or an ally within 60 feet a protective shield that absorbs damage equal to your level + your Wisdom modifier.
+- **Holy Avenger:** Use a Grim Die to imbue a weapon with divine energy for 1 minute, making it act as a +1 weapon that deals an extra 2d6 radiant damage on a hit.
+- **Wrath of the Divine:** Spend a Grim Die to unleash a wave of divine energy in a 30-foot radius. Enemies within the area must make a Wisdom saving throw or be stunned until the end of your next turn.
+- **Ascension:** Use a Grim Die to temporarily ascend to a higher plane of existence, gaining resistance to all damage and the ability to cast spells without expending spell slots for 1 minute once per long rest.
 
