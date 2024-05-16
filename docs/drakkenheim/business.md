@@ -33,6 +33,7 @@
 ### Encounter Tables
 
 **Minor Encounter Table**
+
 | d12 | Encounter | Difficulty | Pass | Fail |
 | --- | --------- | ---------- | ---- | ---- |
 | 1   | Loan called in by a creditor | Hard | -5gp, +25hp | -15gp, -10hp |
@@ -49,6 +50,7 @@
 | 12  | Missed letters and fines | Medium | +10gp, +5hp | -15gp |
 
 **Major Encounter Table**
+
 | d4 | Encounter | Pass | Fail |
 | --- | --------- | ---- | ---- |
 | 1   | Manager's dubious romance | +25gp, +25hp | -35gp, -25hp |
