@@ -287,6 +287,8 @@ The Queen of Thieves' pragmatism in the midst of chaos is admirable. I aim to st
 
 ## Cadmus
 
+![cadmus](images/cadmus.webp){ width="300" }
+
 ### Physical Description
 
 Cadmus stands at an average height with a lean, wiry frame that belies his intellectual prowess. His intense focus on arcane studies and physical training has left him with a slight but agile build, perfectly suited for the dexterous movements required by both his artificer skills and necromantic rituals. Despite his seemingly frail appearance, his constitution is surprisingly robust, a testament to the resilience forged through years of rigorous training and survival.
