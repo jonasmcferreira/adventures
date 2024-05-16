@@ -43,7 +43,7 @@ theme:
     logo: material/sword-cross
   favicon: 'material/library'
   font:
-    text: Lora
+    text: Roboto
   features:
     - navigation.footer
     - navigation.path
