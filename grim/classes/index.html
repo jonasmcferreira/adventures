@@ -1,0 +1,1285 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+        <link rel="canonical" href="https://jonasmcferreira.github.io/adventures/grim/classes/">
+      
+      
+      
+      
+      <link rel="icon" href="../../material/library">
+      <meta name="generator" content="mkdocs-1.6.0, mkdocs-material-9.5.23">
+    
+    
+      
+        <title>Classes - Adventures</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.6543a935.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+   <link href="../../assets/stylesheets/glightbox.min.css" rel="stylesheet"/><style>
+    html.glightbox-open { overflow: initial; height: 100%; }
+    .gslide-title { margin-top: 0px; user-select: text; }
+    .gslide-desc { color: #666; user-select: text; }
+    .gslide-image img { background: white; }
+    .gscrollbar-fixer { padding-right: 15px; }
+    .gdesc-inner { font-size: 0.75rem; }
+    body[data-md-color-scheme="slate"] .gdesc-inner { background: var(--md-default-bg-color);}
+    body[data-md-color-scheme="slate"] .gslide-title { color: var(--md-default-fg-color);}
+    body[data-md-color-scheme="slate"] .gslide-desc { color: var(--md-default-fg-color);}</style> <script src="../../assets/javascripts/glightbox.min.js"></script></head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="red" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#classes" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Adventures" class="md-header__button md-logo" aria-label="Adventures" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m6.2 2.44 11.9 11.9 2.12-2.12 1.41 1.41-2.47 2.47 3.18 3.18c.39.39.39 1.02 0 1.41l-.71.71a.996.996 0 0 1-1.41 0L17 18.23l-2.44 2.47-1.41-1.41 2.12-2.12-11.9-11.9V2.44H6.2M15.89 10l4.74-4.74V2.44H17.8l-4.74 4.74L15.89 10m-4.95 5-2.83-2.87-2.21 2.21-2.12-2.12-1.41 1.41 2.47 2.47-3.18 3.19a.996.996 0 0 0 0 1.41l.71.71c.39.39 1.02.39 1.41 0L7 18.23l2.44 2.47 1.41-1.41-2.12-2.12L10.94 15Z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Adventures
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Classes
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="red" data-md-color-accent="indigo"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12 20 8.69Z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="red" data-md-color-accent="indigo"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12c0-2.42-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12 20 8.69Z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var media,input,key,value,palette=__md_get("__palette");if(palette&&palette.color){"(prefers-color-scheme)"===palette.color.media&&(media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']"),palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent"));for([key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../phandelver/characters/" class="md-tabs__link">
+          
+  
+  Mines of Phandelver
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../drakkenheim/business/" class="md-tabs__link">
+          
+  
+  Dungeons of Drakkenheim
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../frostwood/characters/" class="md-tabs__link">
+          
+  
+  Frostwood
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../grim/" class="md-tabs__link">
+          
+  
+  Grim
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Adventures" class="md-nav__button md-logo" aria-label="Adventures" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m6.2 2.44 11.9 11.9 2.12-2.12 1.41 1.41-2.47 2.47 3.18 3.18c.39.39.39 1.02 0 1.41l-.71.71a.996.996 0 0 1-1.41 0L17 18.23l-2.44 2.47-1.41-1.41 2.12-2.12-11.9-11.9V2.44H6.2M15.89 10l4.74-4.74V2.44H17.8l-4.74 4.74L15.89 10m-4.95 5-2.83-2.87-2.21 2.21-2.12-2.12-1.41 1.41 2.47 2.47-3.18 3.19a.996.996 0 0 0 0 1.41l.71.71c.39.39 1.02.39 1.41 0L7 18.23l2.44 2.47 1.41-1.41-2.12-2.12L10.94 15Z"/></svg>
+
+    </a>
+    Adventures
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_1" id="__nav_1_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Mines of Phandelver
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_1">
+            <span class="md-nav__icon md-icon"></span>
+            Mines of Phandelver
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../phandelver/characters/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Characters
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../phandelver/00/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Day 0
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../phandelver/01/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Day 1
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../phandelver/02/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Day 2
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../phandelver/03/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Day 3
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../phandelver/04/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Day 4
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../phandelver/05/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Day 5
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../phandelver/06/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Day 6
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../phandelver/07/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Day 7
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../phandelver/08/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Day 8
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Dungeons of Drakkenheim
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Dungeons of Drakkenheim
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../drakkenheim/business/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ferret Fellowship
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../drakkenheim/characters/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Characters
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../drakkenheim/00/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Day 0
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../drakkenheim/01/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Day 1
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../drakkenheim/02/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Day 2
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Frostwood
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            Frostwood
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../frostwood/characters/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Characters
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Grim
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            Grim
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../grim/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Grim
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#blade" class="md-nav__link">
+    <span class="md-ellipsis">
+      Blade
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#grim-abilities" class="md-nav__link">
+    <span class="md-ellipsis">
+      Grim Abilities
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tome" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tome
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#hand" class="md-nav__link">
+    <span class="md-ellipsis">
+      Hand
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#vision" class="md-nav__link">
+    <span class="md-ellipsis">
+      Vision
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+<h1 id="classes">Classes</h1>
+<h2 id="blade">Blade</h2>
+<p>In a world cloaked in darkness, the Blade stands firm—a warrior unbroken by the grim reality that surrounds them. From the savage heart of the barbarian to the disciplined mind of the soldier, they embody resilience and strength. Armed and ready, the Blade faces horrors that would break lesser spirits, their resolve as sharp as their weapon. In the bleakness, they are a necessary force, fighting not just for glory, but for survival. Their story is one of courage in the face of certain doom, a steadfast shield against the tide of chaos.</p>
+<p>If you're drawn to the heart of melee combat, relishing the clash of steel and the thrill of close-quarters battle, then the Blade is your calling. This class is designed for players who want to be at the forefront of the fray, wielding power and resilience as their weapons. As a Blade, you'll master the art of combat, from the precise strikes of a duelist to the brute force of a barbarian. You're not just a fighter; you're a protector and a warrior, ready to face whatever darkness lies ahead. Choose the Blade if you're ready to stand as a beacon of strength in a world that desperately needs it.</p>
+<ul>
+<li><strong>Armour proficiencies</strong>: Light, Medium, Heavy, Shields</li>
+<li><strong>Starting Loadout</strong>: Chainmail, longsword, shield, and a backpack with basic supplies.</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>Level</th>
+<th>Bonus</th>
+<th>Grim Abilities</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>+1 to STR</td>
+<td>Battle Grit</td>
+</tr>
+<tr>
+<td>2</td>
+<td>+1 to CON</td>
+<td>Cleave</td>
+</tr>
+<tr>
+<td>3</td>
+<td></td>
+<td>Iron Will</td>
+</tr>
+<tr>
+<td>4</td>
+<td>+1 to STR or CON</td>
+<td>Shield Wall</td>
+</tr>
+<tr>
+<td>5</td>
+<td></td>
+<td>Whirlwind Attack</td>
+</tr>
+<tr>
+<td>6</td>
+<td>+1 to STR</td>
+<td>Second Wind</td>
+</tr>
+<tr>
+<td>7</td>
+<td></td>
+<td>Combat Reflexes</td>
+</tr>
+<tr>
+<td>8</td>
+<td>+1 to STR or CON</td>
+<td>Unbreakable</td>
+</tr>
+<tr>
+<td>9</td>
+<td></td>
+<td>Master Tactician</td>
+</tr>
+<tr>
+<td>10</td>
+<td>+1 to STR</td>
+<td>Legend of the Blade</td>
+</tr>
+</tbody>
+</table>
+<h2 id="grim-abilities">Grim Abilities</h2>
+<p>You must sacrifice a grim die to activate your ability</p>
+<ul>
+<li><strong>Battle Grit:</strong> At the start of combat, gain an extra Grim Die. No Grim Die required for activation.</li>
+<li><strong>Cleave:</strong> Use a Grim Die once per combat; if you down an enemy, you can immediately make an additional attack against another enemy within reach.</li>
+<li><strong>Iron Will:</strong> Gain advantage in resistance to fear and mind-altering effects. No Grim Die required for activation.</li>
+<li><strong>Shield Wall:</strong> Increase AC for you and adjacent allies by +2 when wielding a shield. No Grim Die required for activation.</li>
+<li><strong>Whirlwind Attack:</strong> Use a Grim Die once per day to make a melee attack against every enemy within reach.</li>
+<li><strong>Second Wind:</strong> Once per day, recover hit points equal to your Blade level + your Constitution modifier. No Grim Die required for activation.</li>
+<li><strong>Combat Reflexes:</strong> Gain additional reactions equal to your Dexterity modifier. No Grim Die required for activation.</li>
+<li><strong>Unbreakable:</strong> Use a Grim Die once per day to automatically succeed on a saving throw.</li>
+<li><strong>Master Tactician:</strong> Once per combat, use a Grim Die to grant an ally one extra attack during your turn.</li>
+<li><strong>Legend of the Blade:</strong> Once per week, use a Grim Die to inspire allies within hearing distance, granting them advantage on attack rolls and saving throws for 24 hours.</li>
+</ul>
+<h2 id="tome">Tome</h2>
+<p>In the shadows that envelop the world, the Tome stands as a beacon of arcane wisdom. Guardians of the ancient and forbidden, Tomes are scholars of the esoteric, wielding the raw forces of magic with a mere whisper. Their knowledge is their weapon, their spells the tools to alter the fabric of reality itself. From the hallowed halls of academia to the ruins of lost civilizations, they seek out the secrets that lie hidden, powering their quest for understanding and mastery over the arcane.</p>
+<p>If unraveling the mysteries of the universe and commanding the elements appeals to your spirit of discovery, the Tome is your path. This class is for those who wish to tap into the ancient powers of magic, shaping the world around them according to their will. As a Tome, your journey is one of endless learning, facing the unknown with a spell ready at your fingertips. Choose the Tome to be the master of magic, the keeper of secrets, and the wielder of the arcane.</p>
+<ul>
+<li><strong>Armor proficiencies</strong>: None</li>
+<li><strong>Starting Loadout</strong>: Robes, a spellbook, a wand or staff, and a satchel with components for spells.</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>Level</th>
+<th>Bonus</th>
+<th>Grim Abilities</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>+1 to INT</td>
+<td>Arcane Echo</td>
+</tr>
+<tr>
+<td>2</td>
+<td>+1 to WIS</td>
+<td>Mystic Shield</td>
+</tr>
+<tr>
+<td>3</td>
+<td></td>
+<td>Forbidden Lore</td>
+</tr>
+<tr>
+<td>4</td>
+<td>+1 to INT or WIS</td>
+<td>Enigmatic Spell</td>
+</tr>
+<tr>
+<td>5</td>
+<td></td>
+<td>Eldritch Blast</td>
+</tr>
+<tr>
+<td>6</td>
+<td>+1 to INT</td>
+<td></td>
+</tr>
+<tr>
+<td>7</td>
+<td></td>
+<td>Veil of Shadows</td>
+</tr>
+<tr>
+<td>8</td>
+<td>+1 to INT or WIS</td>
+<td>Master of Elements</td>
+</tr>
+<tr>
+<td>9</td>
+<td></td>
+<td>Dimensional Rift</td>
+</tr>
+<tr>
+<td>10</td>
+<td>+1 to INT</td>
+<td>Transcendence</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li><strong>Arcane Blast:</strong> Use a Grim Die to unleash a powerful blast of arcane energy, avoiding rolling on the miscast table once a day.</li>
+<li><strong>Mystic Ward:</strong> Create a shield that absorbs damage equal to your level + INT modifier. No Grim Die required for activation.</li>
+<li><strong>Spell Echo:</strong> Use a Grim Die once per day to recast a spell you've just cast, targeting a new target without a miscast roll.</li>
+<li><strong>Enchanted Resilience:</strong> Gain resistance to magical damage, halving damage from spells. No Grim Die required for activation.</li>
+<li><strong>Rune of Power:</strong> Use a Grim Die to empower a spell, increasing its effectiveness by rerolling all 1s in the spell's damage rolls.</li>
+<li><strong>Dimensional Step:</strong> Spend a Grim Die to teleport a short distance as a bonus action, without the risk of miscasting.</li>
+<li><strong>Master of Elements:</strong> Use a Grim Die to gain the ability to change a spell's elemental damage type once per combat, ensuring the spell's effectiveness against various foes.</li>
+<li><strong>Arcane Amplification:</strong> Once per day, use a Grim Die to double a spell's range, duration, or damage, amplifying its power.</li>
+<li><strong>Archmage Ascension:</strong> Gain immunity to a chosen element. This powerful ability does not require a Grim Die but signifies your mastery over specific elemental forces.</li>
+<li><strong>Keeper of Forbidden Lore:</strong> Once per week, use a Grim Die to gain insight into a situation as if you had cast a divination spell, revealing hidden truths and guiding your path.</li>
+</ul>
+<h2 id="hand">Hand</h2>
+<p>In the alleys and shadows, the Hand moves unseen, a master of stealth and guile. They are the silent whisper in the night, the unseen presence that leaves no trace. With skills honed in the art of thievery, espionage, and assassination, the Hand knows that true power lies not in brute force but in the ability to strike unseen, manipulate from the shadows, and always remain one step ahead.</p>
+<p>For those who relish in the art of stealth, deception, and cunning, the Hand is your guise. This class is tailored for players who prefer subtlety over direct confrontation, leveraging their environment, and exploiting weaknesses. As a Hand, your playground is the world itself, every shadow a hideaway, every unsuspecting mark a target. Choose the Hand to be the unseen force that shifts the balance of power, all while remaining a ghost in the darkness.</p>
+<p>Amidst the uncertainty and despair, the Vision stands as a pillar of hope and guidance. They are the seers, the prophets, the divine conduits through whom the will of the gods manifests. With eyes that see beyond the veil, Visions are bestowed with foresight and wisdom, wielding divine magic to heal, protect, and smite. In a world teeming with darkness, they are a beacon of light, offering salvation to those who seek it.</p>
+<p>If your calling is to serve a higher power, to safeguard your allies with divine magic, and to face evil with unwavering faith, then the Vision is your chosen path. This class is designed for players who find purpose in healing and supporting their companions, while also being capable of wielding divine wrath against their foes. As a Vision, you are the moral compass, the spiritual guide, and the light in the darkness. Choose the Vision to embody the divine, to be the shepherd in times of strife, and the judge in moments of judgment.</p>
+<ul>
+<li><strong>Armour proficiencies</strong>: Light</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>Level</th>
+<th>Bonus</th>
+<th>Grim Abilities</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>+1 to DEX</td>
+<td>Shadow Step</td>
+</tr>
+<tr>
+<td>2</td>
+<td>+1 to CHA</td>
+<td>Silent Strike</td>
+</tr>
+<tr>
+<td>3</td>
+<td></td>
+<td>Poison Mastery</td>
+</tr>
+<tr>
+<td>4</td>
+<td>+1 to DEX or CHA</td>
+<td>Evasion</td>
+</tr>
+<tr>
+<td>5</td>
+<td></td>
+<td>Ghostly Presence</td>
+</tr>
+<tr>
+<td>6</td>
+<td>+1 to DEX</td>
+<td>Quick Hands</td>
+</tr>
+<tr>
+<td>7</td>
+<td></td>
+<td>Lethal Precision</td>
+</tr>
+<tr>
+<td>8</td>
+<td>+1 to DEX or CHA</td>
+<td>Cloak of Darkness</td>
+</tr>
+<tr>
+<td>9</td>
+<td></td>
+<td>Whispered Betrayal</td>
+</tr>
+<tr>
+<td>10</td>
+<td>+1 to DEX</td>
+<td>Shadow Lord</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li><strong>Shadow Step:</strong> Spend a Grim Die to teleport up to 30 feet to a spot you can see that is in shadow or dim light.</li>
+<li><strong>Silent Strike:</strong> When you spend a Grim Die, your next attack from stealth or against a surprised enemy deals an additional 1d6 damage.</li>
+<li><strong>Poison Mastery:</strong> Use a Grim Die to apply a potent poison to your weapon that lasts for 1 hour or until you hit, causing 1d4 poison damage and a possible status ailment determined by the GM.</li>
+<li><strong>Evasion:</strong> When you spend a Grim Die, you gain the benefit of Evasion for the next turn.</li>
+<li><strong>Ghostly Presence:</strong> Spend a Grim Die to gain advantage on all Stealth checks and the ability to move through objects and creatures for 10 minutes.</li>
+<li><strong>Quick Hands:</strong> Use a Grim Die to gain an additional bonus action on your turn that can be used for specific actions like using an object, pickpocketing, or disarming traps.</li>
+<li><strong>Lethal Precision:</strong> Spend a Grim Die to deal an extra 2d6 damage on your next successful weapon attack.</li>
+<li><strong>Cloak of Darkness:</strong> Use a Grim Die to become invisible for 1 minute or until you attack or cast a spell.</li>
+<li><strong>Whispered Betrayal:</strong> Spend a Grim Die to cast <em>suggestion</em> without expending a spell slot.</li>
+<li><strong>Shadow Lord:</strong> Use a Grim Die to summon a shadowy creature to serve you for 1 hour.</li>
+</ul>
+<h2 id="vision">Vision</h2>
+<p>Amidst the uncertainty and despair, the Vision stands as a pillar of hope and guidance. They are the seers, the prophets, the divine conduits through whom the will of the gods manifests. With eyes that see beyond the veil, Visions are bestowed with foresight and wisdom, wielding divine magic to heal, protect, and smite. In a world teeming with darkness, they are a beacon of light, offering salvation to those who seek it.</p>
+<p>If your calling is to serve a higher power, to safeguard your allies with divine magic, and to face evil with unwavering faith, then the Vision is your chosen path. This class is designed for players who find purpose in healing and supporting their companions, while also being capable of wielding divine wrath against their foes. As a Vision, you are the moral compass, the spiritual guide, and the light in the darkness. Choose the Vision to embody the divine, to be the shepherd in times of strife, and the judge in moments of judgment.</p>
+<ul>
+<li><strong>Armour proficiencies</strong>: Light, Medium, Shields</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>Level</th>
+<th>Bonus</th>
+<th>Grim Abilities</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>+1 to WIS</td>
+<td>Divine Insight</td>
+</tr>
+<tr>
+<td>2</td>
+<td>+1 to CHA</td>
+<td>Sacred Ward</td>
+</tr>
+<tr>
+<td>3</td>
+<td></td>
+<td>Blessing of Might</td>
+</tr>
+<tr>
+<td>4</td>
+<td>+1 to WIS or CHA</td>
+<td>Spirit Guardian</td>
+</tr>
+<tr>
+<td>5</td>
+<td></td>
+<td>Beacon of Hope</td>
+</tr>
+<tr>
+<td>6</td>
+<td>+1 to WIS</td>
+<td>Celestial Command</td>
+</tr>
+<tr>
+<td>7</td>
+<td></td>
+<td>Divine Protection</td>
+</tr>
+<tr>
+<td>8</td>
+<td>+1 to WIS or CHA</td>
+<td>Holy Avenger</td>
+</tr>
+<tr>
+<td>9</td>
+<td></td>
+<td>Wrath of the Divine</td>
+</tr>
+<tr>
+<td>10</td>
+<td>+1 to WIS</td>
+<td>Ascension</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li><strong>Divine Insight:</strong> Spend a Grim Die to cast <em>detect evil and good</em> or <em>detect magic</em> without expending a spell slot.</li>
+<li><strong>Sacred Ward:</strong> Use a Grim Die as a reaction to impose disadvantage on an attack roll made against you or an ally within 30 feet.</li>
+<li><strong>Blessing of Might:</strong> Spend a Grim Die to touch a creature, granting it a bonus to its next attack roll or saving throw equal to your Wisdom modifier.</li>
+<li><strong>Spirit Guardian:</strong> Use a Grim Die to summon a spirit that protects you and your allies in a 15-foot radius for 10 minutes, dealing radiant damage to enemies that start their turn in the area.</li>
+<li><strong>Beacon of Hope:</strong> Spend a Grim Die to cast <em>beacon of hope</em> without expending a spell slot, affecting all allies within 30 feet.</li>
+<li><strong>Celestial Command:</strong> Use a Grim Die to compel a celestial being to aid you in battle for 1 minute once per long rest.</li>
+<li><strong>Divine Protection:</strong> Spend a Grim Die to grant yourself or an ally within 60 feet a protective shield that absorbs damage equal to your level + your Wisdom modifier.</li>
+<li><strong>Holy Avenger:</strong> Use a Grim Die to imbue a weapon with divine energy for 1 minute, making it act as a +1 weapon that deals an extra 2d6 radiant damage on a hit.</li>
+<li><strong>Wrath of the Divine:</strong> Spend a Grim Die to unleash a wave of divine energy in a 30-foot radius. Enemies within the area must make a Wisdom saving throw or be stunned until the end of your next turn.</li>
+<li><strong>Ascension:</strong> Use a Grim Die to temporarily ascend to a higher plane of existence, gaining resistance to all damage and the ability to cast spells without expending spell slots for 1 minute once per long rest.</li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12Z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "../..", "features": ["navigation.footer", "navigation.path", "navigation.top", "navigation.tabs"], "search": "../../assets/javascripts/workers/search.b8dbb3d2.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.ebd0bdb7.min.js"></script>
+      
+    
+  <script id="init-glightbox">const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});
+document$.subscribe(() => { lightbox.reload() });
+</script></body>
+</html>
