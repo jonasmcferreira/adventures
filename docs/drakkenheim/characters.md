@@ -285,99 +285,99 @@ Knight-Captain Theodore Marshal and the Knights of the Silver Order are justifie
 The Queen of Thieves' pragmatism in the midst of chaos is admirable. I aim to stay out of the Queen's Men's sight, as their opportunistic nature could prove problematic.
 
 
-## Cadmus
+## Randall
 
-![cadmus](images/cadmus.webp){ width="300" }
+![Randall](images/cadmus.webp){ width="300" }
 
 ### Physical Description
 
-Cadmus stands at an average height with a lean, wiry frame that belies his intellectual prowess. His intense focus on arcane studies and physical training has left him with a slight but agile build, perfectly suited for the dexterous movements required by both his artificer skills and necromantic rituals. Despite his seemingly frail appearance, his constitution is surprisingly robust, a testament to the resilience forged through years of rigorous training and survival.
+Randall stands at an average height with a lean, wiry frame that belies his intellectual prowess. His intense focus on arcane studies and physical training has left him with a slight but agile build, perfectly suited for the dexterous movements required by both his artificer skills and necromantic rituals. Despite his seemingly frail appearance, his constitution is surprisingly robust, a testament to the resilience forged through years of rigorous training and survival.
 
 His skin is pale, a stark contrast to the dark circles that often ring his keen, calculating eyes – a side effect of long nights spent poring over ancient tomes and conducting intricate experiments. His eyes, a sharp, penetrating gray, convey a depth of intelligence and a hint of the relentless drive that fuels his quest for knowledge.
 
-Cadmus’ hair is a tousled mop of dark brown, kept relatively short but often appearing unkempt, as though he frequently runs his hands through it while deep in thought. He sports a neatly trimmed beard that adds a touch of maturity to his otherwise youthful face.
+Randall’ hair is a tousled mop of dark brown, kept relatively short but often appearing unkempt, as though he frequently runs his hands through it while deep in thought. He sports a neatly trimmed beard that adds a touch of maturity to his otherwise youthful face.
 
 He dresses in practical, dark-colored robes and light armor, favoring functionality over fashion. His attire is complemented by various pouches and belts filled with alchemical supplies, tools, and components necessary for his dual disciplines. Over his chest, he wears a bandolier of vials, each containing mysterious substances or reagents for his spells.
 
 His most distinctive accessory is a pair of arcane goggles perched atop his head, equipped with multiple lenses of different sizes and colors. These goggles, a creation of his artificer skills, aid him in scrutinizing minute details and arcane anomalies, further enhancing his investigative abilities.
 
-Cadmus moves with a quiet confidence, his gestures precise and deliberate, a reflection of his meticulous nature. Despite the shadows of his past and the weight of his mission, there is an undeniable determination in his step, a clear indication that he is driven by a purpose greater than himself.
+Randall moves with a quiet confidence, his gestures precise and deliberate, a reflection of his meticulous nature. Despite the shadows of his past and the weight of his mission, there is an undeniable determination in his step, a clear indication that he is driven by a purpose greater than himself.
 
 ### Backstory
 
-TThe sun dipped below the horizon, casting long shadows across the bustling city of Drakkenheim. Cadmus watched from the window of his father's study, entranced by the rhythmic clatter of carts and the hum of evening chatter. His father, Alaric, was a respected researcher at the Amethyst Academy, and his mother, Elara, a skilled healer. The shelves surrounding Cadmus were filled with ancient tomes and mystical artifacts, each whispering secrets of a bygone era.
+TThe sun dipped below the horizon, casting long shadows across the bustling city of Drakkenheim. Randall watched from the window of his father's study, entranced by the rhythmic clatter of carts and the hum of evening chatter. His father, Alaric, was a respected researcher at the Amethyst Academy, and his mother, Elara, a skilled healer. The shelves surrounding Randall were filled with ancient tomes and mystical artifacts, each whispering secrets of a bygone era.
 
-"Cadmus," his father called from his desk, "help me with this rune."
+"Randall," his father called from his desk, "help me with this rune."
 
-Cadmus hurried over, his eyes wide with curiosity. He traced the intricate patterns of the rune, feeling the magic pulsing beneath his fingertips. Just as he was about to speak, a blinding flash of light filled the room. The ground shook violently, and the sound of shattering glass and collapsing buildings overwhelmed his senses.
+Randall hurried over, his eyes wide with curiosity. He traced the intricate patterns of the rune, feeling the magic pulsing beneath his fingertips. Just as he was about to speak, a blinding flash of light filled the room. The ground shook violently, and the sound of shattering glass and collapsing buildings overwhelmed his senses.
 
-"Stay here!" Alaric shouted, pushing Cadmus into a protective barrier. "Elara, we need to find her!"
+"Stay here!" Alaric shouted, pushing Randall into a protective barrier. "Elara, we need to find her!"
 
-Before Cadmus could respond, his father was gone. The air was thick with dust and the acrid smell of burning. Disoriented, Cadmus stumbled through the wreckage, calling out for his parents. As he reached the open street, he saw a scene of utter devastation. The once vibrant city was now a landscape of ruins, illuminated by an eerie glow from the Haze that filled the sky.
+Before Randall could respond, his father was gone. The air was thick with dust and the acrid smell of burning. Disoriented, Randall stumbled through the wreckage, calling out for his parents. As he reached the open street, he saw a scene of utter devastation. The once vibrant city was now a landscape of ruins, illuminated by an eerie glow from the Haze that filled the sky.
 
-Through the chaos, he spotted a familiar figure - Grek, a burly man who often traded stories with his father, was dragging a boy away from the devastation. The boy, Grekson, looked as lost and terrified as Cadmus felt. Suddenly, a grotesque creature, twisted and malformed by the meteor's magic, lunged towards Grekson.
+Through the chaos, he spotted a familiar figure - Grek, a burly man who often traded stories with his father, was dragging a boy away from the devastation. The boy, Grekson, looked as lost and terrified as Randall felt. Suddenly, a grotesque creature, twisted and malformed by the meteor's magic, lunged towards Grekson.
 
-Without thinking, Cadmus picked up a fallen piece of debris and hurled it at the monster. "Hey! Over here!" he shouted, drawing the creature's attention. The monster turned, its soulless eyes locking onto Cadmus. He stood his ground, heart pounding, as the creature advanced.
+Without thinking, Randall picked up a fallen piece of debris and hurled it at the monster. "Hey! Over here!" he shouted, drawing the creature's attention. The monster turned, its soulless eyes locking onto Randall. He stood his ground, heart pounding, as the creature advanced.
 
 Just as it was about to strike, Grek appeared, wielding a large sword. He swung it with a fierce cry, driving the creature back. Grek grabbed both boys, his grip firm and unyielding, and they ran through the chaotic streets.
 
 "Hold on!" Grek yelled, his voice a mix of fear and determination.
 
-As they fled, Cadmus glanced back at the ruins of his home. He knew his parents were somewhere out there, but he had no choice but to follow Grek and Grekson. They didn't stop until they reached the outskirts of the city, where the air was clear of the Haze.
+As they fled, Randall glanced back at the ruins of his home. He knew his parents were somewhere out there, but he had no choice but to follow Grek and Grekson. They didn't stop until they reached the outskirts of the city, where the air was clear of the Haze.
 
 "We have to keep moving," Grek said, his voice trembling with exhaustion and fear. "It's not safe here."
 
-Cadmus wanted to protest, to go back and find his parents, but the look in Grek's eyes silenced him. They traveled through the night, leaving behind the only home Cadmus had ever known.
+Randall wanted to protest, to go back and find his parents, but the look in Grek's eyes silenced him. They traveled through the night, leaving behind the only home Randall had ever known.
 
-Days turned into weeks as they journeyed towards Caspia. Grek did his best to care for both boys, but the trauma of the meteor strike weighed heavily on him. Cadmus often caught Grek staring into the distance, lost in thought, his once strong demeanor now fragile.
+Days turned into weeks as they journeyed towards Caspia. Grek did his best to care for both boys, but the trauma of the meteor strike weighed heavily on him. Randall often caught Grek staring into the distance, lost in thought, his once strong demeanor now fragile.
 
-One morning, as they set up camp near the Glimmer Mountains, Cadmus made his decision. "I have to go back," he said quietly to Grekson, who was tending the fire. "I need to find my parents."
+One morning, as they set up camp near the Glimmer Mountains, Randall made his decision. "I have to go back," he said quietly to Grekson, who was tending the fire. "I need to find my parents."
 
-Grekson looked up, understanding but conflicted. "It's dangerous, Cadmus. The Haze... it's changed everything."
+Grekson looked up, understanding but conflicted. "It's dangerous, Randall. The Haze... it's changed everything."
 
-"I know," Cadmus replied, "but I can't leave them. Not without knowing."
+"I know," Randall replied, "but I can't leave them. Not without knowing."
 
-Before Grekson could argue further, they were interrupted by a group of mages from the Amethyst Academy, led by a stern woman named Magister Lysandra. She recognized Cadmus, having known his father. After hearing his story, she offered him a place at the Academy.
+Before Grekson could argue further, they were interrupted by a group of mages from the Amethyst Academy, led by a stern woman named Magister Lysandra. She recognized Randall, having known his father. After hearing his story, she offered him a place at the Academy.
 
-"We can train you, Cadmus," she said. "Your father was a great man, and we owe it to him to protect you. You'll be safe with us."
+"We can train you, Randall," she said. "Your father was a great man, and we owe it to him to protect you. You'll be safe with us."
 
-Cadmus glanced at Grekson, who nodded reluctantly. "Go with them," Grekson said. "Learn what you can. Maybe one day, we'll meet again."
+Randall glanced at Grekson, who nodded reluctantly. "Go with them," Grekson said. "Learn what you can. Maybe one day, we'll meet again."
 
-Life at the Amethyst Academy was a whirlwind of learning and discovery. Cadmus immersed himself in his studies, driven by the memory of his parents and the devastation he had witnessed. His natural talent for magic quickly became apparent, and he excelled in his studies, particularly in the dark arts of necromancy.
+Life at the Amethyst Academy was a whirlwind of learning and discovery. Randall immersed himself in his studies, driven by the memory of his parents and the devastation he had witnessed. His natural talent for magic quickly became apparent, and he excelled in his studies, particularly in the dark arts of necromancy.
 
-The Academy, however, operated under strict secrecy. Magister Lysandra, his mentor, trained him in the hidden chambers of the Academy, away from prying eyes. Necromancy was forbidden by the Edicts of Lumen, and Cadmus' training had to remain clandestine. He learned to summon and control undead minions, his trauma and loss fueling his desire to master the forces of life and death.
+The Academy, however, operated under strict secrecy. Magister Lysandra, his mentor, trained him in the hidden chambers of the Academy, away from prying eyes. Necromancy was forbidden by the Edicts of Lumen, and Randall' training had to remain clandestine. He learned to summon and control undead minions, his trauma and loss fueling his desire to master the forces of life and death.
 
 "Your mission," Lysandra told him one evening in a dimly lit chamber, "is to venture into Drakkenheim. The Inscrutable Tower was heavily damaged by the meteor, and it holds secrets that could change everything. We need you to recover them."
 
-Cadmus nodded, understanding the gravity of his task. He had trained for years, honing his skills and preparing for this moment. The Academy had instilled in him a sense of duty, but also a strict rule: he must not reveal his affiliation with the Amethyst Academy to anyone.
+Randall nodded, understanding the gravity of his task. He had trained for years, honing his skills and preparing for this moment. The Academy had instilled in him a sense of duty, but also a strict rule: he must not reveal his affiliation with the Amethyst Academy to anyone.
 
 As he prepared to leave, memories of Grekson and their shared ordeal filled his mind. He wondered if their paths would cross again in the ruins of their shattered home. His heart was heavy with the weight of his mission, but his resolve was unshaken.
 
 ### Personal Quest: Arcane Secrets
 
-Cadmus' personal quest involves seeking out forbidden knowledge and lost magical spells. This quest ties directly into his mission to recover the secrets of the Inscrutable Tower. Along the way, Cadmus must navigate the dangerous political landscape of Drakkenheim, balancing his loyalty to the Amethyst Academy with his personal quest for truth and power. His ultimate goal is to uncover the arcane secrets that could help him understand the events of the meteor strike, potentially giving him the knowledge to prevent such disasters in the future. This quest is also deeply personal as it is driven by his desire to uncover what happened to his parents during the chaos of the meteor strike. He hopes that by understanding the nature of the meteor and its effects, he might find closure or even a way to communicate with or revive his parents through his necromantic abilities.
+Randall' personal quest involves seeking out forbidden knowledge and lost magical spells. This quest ties directly into his mission to recover the secrets of the Inscrutable Tower. Along the way, Randall must navigate the dangerous political landscape of Drakkenheim, balancing his loyalty to the Amethyst Academy with his personal quest for truth and power. His ultimate goal is to uncover the arcane secrets that could help him understand the events of the meteor strike, potentially giving him the knowledge to prevent such disasters in the future. This quest is also deeply personal as it is driven by his desire to uncover what happened to his parents during the chaos of the meteor strike. He hopes that by understanding the nature of the meteor and its effects, he might find closure or even a way to communicate with or revive his parents through his necromantic abilities.
 
 ### Factions:
 
 Amethyst Academy:
 
 Stance: Loyal but wary.
-Reason: Cadmus owes much of his knowledge and training to the Academy, but he is also aware of their secretive nature and the potential for their interests to conflict with his own personal goals. He respects their power and understands the importance of their mission but remains cautious about how much he can trust them.
+Reason: Randall owes much of his knowledge and training to the Academy, but he is also aware of their secretive nature and the potential for their interests to conflict with his own personal goals. He respects their power and understands the importance of their mission but remains cautious about how much he can trust them.
 Silver Order:
 
 Stance: Cautious and adversarial.
-Reason: The Silver Order's militant stance against dark magic and their mission to purge corruption directly opposes Cadmus' necromantic practices. He fears that if they discover his abilities, they will see him as an enemy to be eradicated. He avoids unnecessary contact with them and tries to stay under their radar.
+Reason: The Silver Order's militant stance against dark magic and their mission to purge corruption directly opposes Randall' necromantic practices. He fears that if they discover his abilities, they will see him as an enemy to be eradicated. He avoids unnecessary contact with them and tries to stay under their radar.
 Hooded Lanterns:
 
 Stance: Neutral and respectful.
-Reason: While Cadmus does not have a direct conflict with the Hooded Lanterns, he respects their efforts to protect survivors and restore order. He sees their work as important but remains focused on his own mission. He is willing to cooperate with them when their interests align but keeps his necromantic abilities hidden.
+Reason: While Randall does not have a direct conflict with the Hooded Lanterns, he respects their efforts to protect survivors and restore order. He sees their work as important but remains focused on his own mission. He is willing to cooperate with them when their interests align but keeps his necromantic abilities hidden.
 Queen’s Men:
 
 Stance: Distrustful and avoidant.
-Reason: The Queen’s Men are opportunistic and exploitative, characteristics Cadmus finds repugnant. Their tendency to exploit chaos for personal gain makes them unreliable allies. Cadmus prefers to avoid them, fearing that they might try to manipulate or betray him for their own ends.
+Reason: The Queen’s Men are opportunistic and exploitative, characteristics Randall finds repugnant. Their tendency to exploit chaos for personal gain makes them unreliable allies. Randall prefers to avoid them, fearing that they might try to manipulate or betray him for their own ends.
 Followers of the Falling Fire:
 
 Stance: Skeptical and opportunistic.
-Reason: Cadmus views the Followers of the Falling Fire as misguided, interpreting their reverence for the meteor and the Haze as naive. However, their eagerness to explore the crater aligns with his own goals, and he is willing to collaborate with them when it suits his needs. He remains skeptical of their beliefs and cautious of their zealotry.
+Reason: Randall views the Followers of the Falling Fire as misguided, interpreting their reverence for the meteor and the Haze as naive. However, their eagerness to explore the crater aligns with his own goals, and he is willing to collaborate with them when it suits his needs. He remains skeptical of their beliefs and cautious of their zealotry.
 
 
