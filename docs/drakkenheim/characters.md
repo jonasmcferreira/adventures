@@ -305,7 +305,7 @@ Randall moves with a quiet confidence, his gestures precise and deliberate, a re
 
 ### Backstory
 
-TThe sun dipped below the horizon, casting long shadows across the bustling city of Drakkenheim. Randall watched from the window of his father's study, entranced by the rhythmic clatter of carts and the hum of evening chatter. His father, Alaric, was a respected researcher at the Amethyst Academy, and his mother, Elara, a skilled healer. The shelves surrounding Randall were filled with ancient tomes and mystical artifacts, each whispering secrets of a bygone era.
+The sun dipped below the horizon, casting long shadows across the bustling city of Drakkenheim. Randall watched from the window of his father's study, entranced by the rhythmic clatter of carts and the hum of evening chatter. His father, Alaric, was a respected researcher at the Amethyst Academy, and his mother, Elara, a skilled healer. The shelves surrounding Randall were filled with ancient tomes and mystical artifacts, each whispering secrets of a bygone era.
 
 "Randall," his father called from his desk, "help me with this rune."
 
@@ -339,23 +339,24 @@ Grekson looked up, understanding but conflicted. "It's dangerous, Randall. The H
 
 Before Grekson could argue further, they were interrupted by a group of mages from the Amethyst Academy, led by a stern woman named Magister Lysandra. She recognized Randall, having known his father. After hearing his story, she offered him a place at the Academy.
 
-"We can train you, Randall," she said. "Your father was a great man, and we owe it to him to protect you. You'll be safe with us."
+"We can train you, Randall," she said. "Your father was a great man, and we owe it to him to protect you. But more than that, you have a unique potential. The Haze has altered you in ways we don't fully understand yet, but we can help you harness that power."
 
 Randall glanced at Grekson, who nodded reluctantly. "Go with them," Grekson said. "Learn what you can. Maybe one day, we'll meet again."
 
 Life at the Amethyst Academy was a whirlwind of learning and discovery. Randall immersed himself in his studies, driven by the memory of his parents and the devastation he had witnessed. His natural talent for magic quickly became apparent, and he excelled in his studies, particularly in the dark arts of necromancy.
 
-The Academy, however, operated under strict secrecy. Magister Lysandra, his mentor, trained him in the hidden chambers of the Academy, away from prying eyes. Necromancy was forbidden by the Edicts of Lumen, and Randall' training had to remain clandestine. He learned to summon and control undead minions, his trauma and loss fueling his desire to master the forces of life and death.
+The Academy, however, operated under strict secrecy. Magister Lysandra, his mentor, trained him in the hidden chambers of the Academy, away from prying eyes. Necromancy was forbidden by the Edicts of Lumen, and Randall's training had to remain clandestine. He learned to summon and control undead minions, his trauma and loss fueling his desire to master the forces of life and death.
 
-"Your mission," Lysandra told him one evening in a dimly lit chamber, "is to venture into Drakkenheim. The Inscrutable Tower was heavily damaged by the meteor, and it holds secrets that could change everything. We need you to recover them."
+One evening, Lysandra revealed the Academy's true motivation. "The Inscrutable Tower was heavily damaged by the meteor, and it holds secrets that could change everything. Its arcane defenses are still active, and we believe your unique abilities, especially in necromancy, are the key to bypassing them. The Haze's influence on you has given you a connection to the undead that no other mage possesses."
 
 Randall nodded, understanding the gravity of his task. He had trained for years, honing his skills and preparing for this moment. The Academy had instilled in him a sense of duty, but also a strict rule: he must not reveal his affiliation with the Amethyst Academy to anyone.
 
-As he prepared to leave, memories of Grekson and their shared ordeal filled his mind. He wondered if their paths would cross again in the ruins of their shattered home. His heart was heavy with the weight of his mission, but his resolve was unshaken.
+As he prepared to leave, memories of Grekson and their shared ordeal filled his mind. He wondered if their paths would cross again in the ruins of their shattered home. His heart was heavy with the weight of his mission, but his resolve was unshaken. He was determined to uncover the secrets of the Inscrutable Tower and, perhaps, find a way to save his parents and his city from the lingering effects of the Haze.
+
 
 ### Personal Quest: Arcane Secrets
 
-Randall' personal quest involves seeking out forbidden knowledge and lost magical spells. This quest ties directly into his mission to recover the secrets of the Inscrutable Tower. Along the way, Randall must navigate the dangerous political landscape of Drakkenheim, balancing his loyalty to the Amethyst Academy with his personal quest for truth and power. His ultimate goal is to uncover the arcane secrets that could help him understand the events of the meteor strike, potentially giving him the knowledge to prevent such disasters in the future. This quest is also deeply personal as it is driven by his desire to uncover what happened to his parents during the chaos of the meteor strike. He hopes that by understanding the nature of the meteor and its effects, he might find closure or even a way to communicate with or revive his parents through his necromantic abilities.
+Randall's personal quest involves seeking out forbidden knowledge and lost magical spells. This quest ties directly into his mission to recover the secrets of the Inscrutable Tower. Along the way, Randall must navigate the dangerous political landscape of Drakkenheim, balancing his loyalty to the Amethyst Academy with his personal quest for truth and power. His ultimate goal is to uncover the arcane secrets that could help him understand the events of the meteor strike, potentially giving him the knowledge to prevent such disasters in the future. This quest is also deeply personal as it is driven by his desire to uncover what happened to his parents during the chaos of the meteor strike. He hopes that by understanding the nature of the meteor and its effects, he might find closure or even a way to communicate with or revive his parents through his necromantic abilities.
 
 ### Factions:
 
