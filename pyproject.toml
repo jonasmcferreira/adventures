@@ -1,0 +1,24 @@
+[project]
+name = "novelgen"
+version = "0.1.0"
+description = "Modular AWS Bedrock pipeline for novel generation"
+authors = [{name = "Jonas"}]
+readme = "README.md"
+requires-python = ">=3.11"
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "License :: OSI Approved :: MIT License",
+  "Operating System :: OS Independent",
+]
+dependencies = [
+  "boto3",
+  "pyyaml",
+  "typer",
+]
+
+[project.scripts]
+novelgen = "novelgen.cli:app"
+
+[build-system]
+requires = ["setuptools>=67", "wheel"]
+build-backend = "setuptools.build_meta"
